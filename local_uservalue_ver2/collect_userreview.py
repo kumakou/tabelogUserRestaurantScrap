@@ -54,7 +54,7 @@ class User:
         """
         店舗一覧ページのパーシング
         """
-        time.sleep(0.5)
+        time.sleep(4)
         print("店舗一覧の取得")
         r =requests.get(list_url)
         print("店舗一覧の取得済み")
@@ -93,7 +93,7 @@ class User:
         """
         個別店舗情報ページのパーシング
         """
-        time.sleep(0.5)
+        time.sleep(4)
         print("個別店舗の取得")
         r = requests.get(item_url)
         print("個別店舗の取得済")
