@@ -1,0 +1,15 @@
+reviewr_name,reviewr_url,store_id,store_name,store_address,store_genre,store_tellnum,store_closedday,store_homepage,store_dinner_price_range,store_lunch_price_range,store_score
+E4系MAX(0),https://tabelog.com/rvwr/001461128/,1,恵比寿,宮城県仙台市青葉区国分町2-11-1 ,"寿司、立ち食い寿司
+",-,日曜定休,,"￥5,000～￥5,999",-,3.37
+E4系MAX(0),https://tabelog.com/rvwr/001461128/,2,川平飯店,宮城県仙台市青葉区川平5-5-18 ,"中華料理、ラーメン
+",-,火曜,,-,"￥1,000～￥1,999",3.43
+E4系MAX(0),https://tabelog.com/rvwr/001461128/,3,かつどんのかつどん家,宮城県仙台市青葉区大手町6-8 ,"かつ丼・かつ重、定食・食堂、とんかつ
+",-,月曜日(祝日は営業),http://katsudonya.sakura.ne.jp/,"￥1,000～￥1,999",～￥999,3.45
+E4系MAX(0),https://tabelog.com/rvwr/001461128/,4,吉田商店,北海道函館市新川町24-1 ,"スープカレー
+",-,不定休,http://yoshidashowten.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.51
+E4系MAX(0),https://tabelog.com/rvwr/001461128/,5,ミツバチ 北四番丁店,宮城県仙台市青葉区二日町12-25 グランディプレステージ 1Ｆ,"パンケーキ、カフェ
+",-,定休日なし。,https://3838389.wixsite.com/-site,-,～￥999,3.48
+E4系MAX(0),https://tabelog.com/rvwr/001461128/,6,韓国家庭料理 扶餘,宮城県仙台市若林区新寺1-2-13 渡辺ビル　１Ｆ,"韓国料理
+",-,月曜日,,"￥3,000～￥3,999",～￥999,3.60
+E4系MAX(0),https://tabelog.com/rvwr/001461128/,7,ピッツェリア デ ナプレ,宮城県仙台市青葉区立町26-19 井上ビル 1F,"ピザ、イタリアン
+",-,月曜日・火曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.70

@@ -1,0 +1,37 @@
+reviewr_name,reviewr_url,store_id,store_name,store_address,store_genre,store_tellnum,store_closedday,store_homepage,store_dinner_price_range,store_lunch_price_range,store_score
+flyhyto(1),https://tabelog.com/rvwr/001565517/,1,ラーメン・食事処 福龍,千葉県千葉県いすみ市小沢484-1 ,"ラーメン
+",-,月曜日,http://men-fukuryu.info/,"￥2,000～￥2,999","￥1,000～￥1,999",3.02
+flyhyto(1),https://tabelog.com/rvwr/001565517/,2,麺屋 剛流,千葉県千葉市若葉区小倉台2-1-7 ,"ラーメン、つけ麺
+",-,水曜,,～￥999,～￥999,3.08
+flyhyto(1),https://tabelog.com/rvwr/001565517/,3,カレーショップ スタンドテン,神奈川県秦野市南矢名1-15-5 平井ビル 2F,"カレーライス
+",-,金曜,http://toukaidaimae.com/standten/,"￥1,000～￥1,999","￥1,000～￥1,999",3.08
+flyhyto(1),https://tabelog.com/rvwr/001565517/,4,麺屋一燈,東京都葛飾区東新小岩1-4-17 ,"ラーメン、つけ麺
+",-,水曜日・日曜日・年末年始・夏季休業,http://www.menya-itto.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.93
+flyhyto(1),https://tabelog.com/rvwr/001565517/,5,カレー食堂 心 さいたま新都心店,埼玉県さいたま市中央区新都心10 けやきひろば さいたまスーパーアリーナ1F,"スープカレー
+",-,無休　(年末年始休業あり),http://www.cocoro-soupcurry.com,"￥1,000～￥1,999",～￥999,3.38
+flyhyto(1),https://tabelog.com/rvwr/001565517/,6,欧風カレー ボンディ 神保町本店,東京都千代田区神田神保町2-3 神田古書センター ２Ｆ,"欧風カレー
+",-,年末年始,http://www.bondy.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.80
+flyhyto(1),https://tabelog.com/rvwr/001565517/,7,珊瑚礁 本店,神奈川県鎌倉市七里ガ浜東3-1-2 ,"カレーライス、洋食、欧風カレー
+",-,月曜日(祝日の場合翌日休み),http://www.sangosho.net/,"￥2,000～￥2,999","￥1,000～￥1,999",3.59
+flyhyto(1),https://tabelog.com/rvwr/001565517/,8,吉田商店,北海道函館市新川町24-1 ,"スープカレー
+",-,不定休,http://yoshidashowten.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.51
+flyhyto(1),https://tabelog.com/rvwr/001565517/,9,どん兵衛 清風庵,山梨県富士吉田市上吉田4259 ,"ほうとう、郷土料理（その他）、そば
+",-,火曜日,http://park15.wakwak.com/~donbei-seifuan/,"￥1,000～￥1,999","￥1,000～￥1,999",3.08
+flyhyto(1),https://tabelog.com/rvwr/001565517/,10,みうらうどん,山梨県富士吉田市下吉田1-22-5 ,"うどん、郷土料理（その他）
+",-,水曜日(祝日は営業),https://ganso-miuraudon.com/,-,～￥999,3.66
+flyhyto(1),https://tabelog.com/rvwr/001565517/,11,ごっつ,東京都江東区亀戸1-39-7 1Ｆ,"ラーメン、つけ麺
+",-,無休,,～￥999,-,3.55
+flyhyto(1),https://tabelog.com/rvwr/001565517/,12,地鶏屋 亜門,福岡県福岡市博多区中洲2-8-10 ,"鳥料理、居酒屋、しゃぶしゃぶ
+",092-282-3335,日曜日,,"￥4,000～￥4,999",-,3.30
+flyhyto(1),https://tabelog.com/rvwr/001565517/,13,ちばから,千葉県市原市西国分寺台1-3-16 ,"ラーメン、つけ麺、油そば
+",-,月曜・火曜・他臨時休業あり,http://www.ken21.jp/chibakara/,～￥999,"￥1,000～￥1,999",3.67
+flyhyto(1),https://tabelog.com/rvwr/001565517/,14,光栄軒,東京都荒川区荒川2-4-3 ,"中華料理、定食・食堂、ラーメン
+",-,月曜日,,～￥999,～￥999,3.49
+flyhyto(1),https://tabelog.com/rvwr/001565517/,15,K's curry,千葉県袖ケ浦市蔵波台7-14-13 ,"欧風カレー、カフェ・喫茶（その他）
+",-,水曜　（毎月最後の火・水は連休）,,"￥1,000～￥1,999","￥1,000～￥1,999",3.09
+flyhyto(1),https://tabelog.com/rvwr/001565517/,16,美醤,東京都渋谷区渋谷2-10-15 B1F,"ダイニングバー、鍋（その他）
+",-,日曜日,,"￥6,000～￥7,999",～￥999,3.30
+flyhyto(1),https://tabelog.com/rvwr/001565517/,17,梅蘭 三井アウトレットパーク木更津店,千葉県木更津市中島398 三井アウトレットパーク 木更津,"中華料理、焼きそば
+",-,三井アウトレットパークに準ずる,http://www.bairan.jp,"￥1,000～￥1,999","￥1,000～￥1,999",3.25
+flyhyto(1),https://tabelog.com/rvwr/001565517/,18,中華蕎麦 とみ田,千葉県松戸市松戸1339 高橋ビル 1F,"ラーメン、つけ麺
+",-,水曜日※不定期にお休みさせていただく場合がございます。,http://www.tomita-cocoro.jp/,-,"￥1,000～￥1,999",3.95

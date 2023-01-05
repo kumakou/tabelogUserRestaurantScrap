@@ -1,0 +1,611 @@
+reviewr_name,reviewr_url,store_id,store_name,store_address,store_genre,store_tellnum,store_closedday,store_homepage,store_dinner_price_range,store_lunch_price_range,store_score
+ayapico(172),https://tabelog.com/rvwr/ayapico/,1,556食堂,東京都杉並区方南2-16-6 ,"定食・食堂
+",-,月曜日と木曜日の夜,,"￥1,000～￥1,999",～￥999,3.04
+ayapico(172),https://tabelog.com/rvwr/ayapico/,2,菜香新館,神奈川県横浜市中区山下町192 ,"広東料理、飲茶・点心、中華料理
+",-,火曜日、12/31、1/1,http://saikoh-shinkan.com/,"￥5,000～￥5,999","￥2,000～￥2,999",3.63
+ayapico(172),https://tabelog.com/rvwr/ayapico/,3,レストラン 山猫軒,東京都杉並区阿佐谷北2-12-21 ラピュタビル　３Ｆ・４Ｆ,"フレンチ
+",-,月曜日、第1・3火曜日,http://www.laputa-jp.com/yamaneko/index.html,"￥6,000～￥7,999","￥4,000～￥4,999",3.54
+ayapico(172),https://tabelog.com/rvwr/ayapico/,4,てんぷら 味覚,東京都港区六本木6-7-17 ,"天ぷら、天丼・天重
+",-,年末年始,https://www.google.co.jp/amp/s/s.tabelog.com/tokyo/A1307/A130701/13016615/top_amp/,"￥10,000～￥14,999","￥1,000～￥1,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,5,ラヴィアンローズ,東京都新宿区西新宿3-3-15 ワシントンホテル新館　１Ｆ,"イタリアン、ダイニングバー、フレンチ
+",-,日曜・祝日,http://www.lavieenrose98.com/,"￥4,000～￥4,999",～￥999,3.35
+ayapico(172),https://tabelog.com/rvwr/ayapico/,6,中華蕎麦 蘭鋳,東京都杉並区堀ノ内2-13-13 ,"ラーメン
+",-,日曜日・祝日・土曜日（第1第3第5）・月曜日（第2第4）,,～￥999,～￥999,3.81
+ayapico(172),https://tabelog.com/rvwr/ayapico/,7,しゃけ小島 本店,東京都杉並区和泉1-3-15 めんそーれ大都市場内,"定食・食堂、魚介料理・海鮮料理、居酒屋
+",-,月曜日・第２.４火曜日,http://shake-kojima.com,"￥2,000～￥2,999",-,3.63
+ayapico(172),https://tabelog.com/rvwr/ayapico/,8,52,東京都港区六本木4-6-4 第５一越ビル 2F,"中華料理、餃子
+",-,日曜・祝日の月曜,,"￥5,000～￥5,999",-,3.66
+ayapico(172),https://tabelog.com/rvwr/ayapico/,9,ぽつらぽつら,東京都渋谷区円山町22-11 堀内ビル　１Ｆ,"割烹・小料理、和食（その他）、ビストロ
+",-,不定休,http://poturapotura.com,"￥8,000～￥9,999",-,3.62
+ayapico(172),https://tabelog.com/rvwr/ayapico/,10,勘之丞,東京都新宿区新宿1-18-9 パディアイルカテリーナ,"イタリアン、ステーキ、ワインバー
+",-,日曜日,,"￥5,000～￥5,999","￥1,000～￥1,999",3.58
+ayapico(172),https://tabelog.com/rvwr/ayapico/,11,ラシーヌ,東京都豊島区南池袋2-14-2 B1F,"ビストロ、カフェ、パン
+",03-5944-9634,無休,http://racines-bistro.com/,"￥5,000～￥5,999","￥2,000～￥2,999",3.50
+ayapico(172),https://tabelog.com/rvwr/ayapico/,12,天鴻餃子房 神保町二丁目店,東京都千代田区神田神保町2-2 亀山ビル ２Ｆ,"餃子、中華料理
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,13,ラーメン凪 豚王 渋谷本店,東京都渋谷区東1-3-1 カミニート　１Ｆ,"ラーメン、つけ麺、居酒屋・ダイニングバー（その他）
+",-,なし,http://www.n-nagi.com/,"￥1,000～￥1,999",～￥999,3.60
+ayapico(172),https://tabelog.com/rvwr/ayapico/,14,CICADA,東京都港区南麻布5-2-40 日興パレス 1F,"地中海料理、ワインバー、スペイン料理
+",-,,,"￥10,000～￥14,999",-,3.56
+ayapico(172),https://tabelog.com/rvwr/ayapico/,15,食彩 かどた,東京都渋谷区恵比寿西1-1-2 しんみつビル B1F,"懐石・会席料理、魚介料理・海鮮料理
+",03-3780-1080,日曜日　（お盆休みあり）,https://syokusaikadota.com/,"￥8,000～￥9,999","￥1,000～￥1,999",3.63
+ayapico(172),https://tabelog.com/rvwr/ayapico/,16,ダルマット 恵比寿店,東京都渋谷区恵比寿西2-7-8 Ｓリトリート　 １Ｆ・Ｂ１Ｆ,"イタリアン、ワインバー、パスタ
+",-,月曜日定休とさせていただきます。　●月曜日が祝日の場合は営業、翌平日をお休みいたします。,http://www.dal-matto.com/,"￥8,000～￥9,999","￥5,000～￥5,999",3.61
+ayapico(172),https://tabelog.com/rvwr/ayapico/,17,やさい料理 正,東京都港区南青山3-14-4 ＹＴＫ南青山ビル　B1Ｆ,"割烹・小料理
+",-,日曜（翌月曜が祝日の場合、日曜日OPEN。翌月曜日CLOSE）,,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,18,パティスリー・ウー,東京都杉並区堀ノ内1-6-4 清水ビル　１０１,"ケーキ
+",-,火曜日,,～￥999,～￥999,3.26
+ayapico(172),https://tabelog.com/rvwr/ayapico/,19,ムニロ,東京都世田谷区大原1-15-12 フォルツァ大塚 1F,"イタリアン、パスタ、ダイニングバー
+",-,毎週水曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,20,我流旨味ソバ 地雷源/Jiraigen/FRIDAY/HOLIDAY,東京都杉並区和泉1-39-10 坂本ビル　１Ｆ,"ラーメン、つけ麺
+",-,年末,,"￥1,000～￥1,999",-,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,21,レストラン・ホク,東京都世田谷区池尻3-21-33 セリーヌ池尻大橋 　１Ｆ,"イタリアン、フレンチ、野菜料理
+",-,月曜日,,-,"￥2,000～￥2,999",3.23
+ayapico(172),https://tabelog.com/rvwr/ayapico/,22,布美よし,東京都世田谷区大原1-63-8 メゾンやまあき 1F,"定食・食堂
+",-,日曜・祝日,,～￥999,-,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,23,俺の空,東京都新宿区高田馬場4-2-31 ,"ラーメン、つけ麺
+",-,無休,,～￥999,～￥999,3.72
+ayapico(172),https://tabelog.com/rvwr/ayapico/,24,エムズカリー,東京都渋谷区笹塚2-10-6 ,"カレーライス
+",-,火曜・第３金曜、他不定休あり,,-,～￥999,3.16
+ayapico(172),https://tabelog.com/rvwr/ayapico/,25,シュマン,東京都港区赤坂2-17-7 赤坂溜池タワーＡＮＮＥＸ　１Ｆ,"フレンチ
+",-,日曜日,http://www.chemins.jp/,"￥10,000～￥14,999","￥8,000～￥9,999",3.82
+ayapico(172),https://tabelog.com/rvwr/ayapico/,26,リストランテ ダ ニーノ,東京都港区南青山1-15-19 グランドメゾン乃木坂 1F,"イタリアン
+",-,日曜日,http://ninolentini.jp/jp/,"￥20,000～￥29,999","￥3,000～￥3,999",3.61
+ayapico(172),https://tabelog.com/rvwr/ayapico/,27,居酒屋おふろ,東京都世田谷区赤堤4-45-10 安心堂ビル　Ｂ１Ｆ,"居酒屋、創作料理
+",-,水曜日,https://www.izakayaofuro.com/,"￥5,000～￥5,999","￥1,000～￥1,999",3.51
+ayapico(172),https://tabelog.com/rvwr/ayapico/,28,クリニカ・ガストロノミカ・エスペリア,東京都港区西麻布4-11-25 ,"イタリアン
+",-,月曜・第１火曜,http://www.esperia-tokyo.com,-,"￥1,000～￥1,999",3.57
+ayapico(172),https://tabelog.com/rvwr/ayapico/,29,古月 新宿,東京都新宿区新宿1-5-5 2F,"中華料理、薬膳
+",03-3341-5204,月曜日・火曜日,,"￥6,000～￥7,999","￥1,000～￥1,999",3.71
+ayapico(172),https://tabelog.com/rvwr/ayapico/,30,北海あぶりやき 運河倉庫,北海道小樽市港町5-4 渋澤C号倉庫,"炭火焼き、寿司、魚介料理・海鮮料理
+",-,不定休,http://www.aburiyaki.com,"￥3,000～￥3,999","￥1,000～￥1,999",3.24
+ayapico(172),https://tabelog.com/rvwr/ayapico/,31,けやき すすきの本店,北海道札幌市中央区南六条西3 睦ビル 1F,"ラーメン
+",-,無休,http://www.sapporo-keyaki.jp/,-,～￥999,3.68
+ayapico(172),https://tabelog.com/rvwr/ayapico/,32,歩人,北海道上川郡美瑛町美沢美生 ,"洋食、デリカテッセン、洋食・欧風料理（その他）
+",-,月曜・火曜,https://www.hobbito.com/,-,"￥1,000～￥1,999",3.54
+ayapico(172),https://tabelog.com/rvwr/ayapico/,33,吉田商店,北海道函館市新川町24-1 ,"スープカレー
+",-,不定休,http://yoshidashowten.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.51
+ayapico(172),https://tabelog.com/rvwr/ayapico/,34,青,東京都渋谷区西原3-24-12 ,"居酒屋、創作料理、日本酒バー
+",-,毎週月曜日,,"￥5,000～￥5,999",-,3.41
+ayapico(172),https://tabelog.com/rvwr/ayapico/,35,鶏々舎 代田橋店,東京都世田谷区大原2-18-3 コーポはなみずき １Ｆ,"焼鳥
+",-,無休,,"￥1,000～￥1,999",-,3.15
+ayapico(172),https://tabelog.com/rvwr/ayapico/,36,メヒコリンド,東京都港区赤坂2-20-7 第２成光ビル　１Ｆ,"メキシコ料理
+",-,日曜日,,"￥4,000～￥4,999","￥1,000～￥1,999",3.38
+ayapico(172),https://tabelog.com/rvwr/ayapico/,37,スペイン料理 ティオ・ダンジョウ,東京都渋谷区恵比寿1-12-5 萩原ビル3 2F,"スペイン料理
+",-,日曜・祝日,,"￥5,000～￥5,999",-,3.17
+ayapico(172),https://tabelog.com/rvwr/ayapico/,38,TROCADERO HOUSE,東京都世田谷区北沢3-30-3 ,"フレンチ、カフェ、ワインバー
+",-,火曜日,,"￥8,000～￥9,999","￥1,000～￥1,999",3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,39,礼華,東京都新宿区新宿1-3-12 壱丁目参番館　１Ｆ,"上海料理、イノベーティブ・フュージョン、ワインバー
+",03-5367-8355,10/8上海蟹スタート！新宿御苑の緑を眺めながら開放感あるテラスや個室でフカヒレ姿煮や北京ダックを満喫◆味覚と感性を豊かに満たす美食空間。伝統的な上海料理をベースにしながら枠にとらわれない新感覚を盛り込み、食材の個性を大切に、油脂分を控えめにした繊細な味わいをご提供。無休（年末年始休）,https://www.rai-ka.com/shinjuku/,"￥8,000～￥9,999","￥1,000～￥1,999",3.55
+ayapico(172),https://tabelog.com/rvwr/ayapico/,40,賛否両論,東京都渋谷区恵比寿2-14-4 太田ビル 1F,"割烹・小料理
+",-,日曜日,http://www.sanpi-ryoron.com/,"￥10,000～￥14,999",-,3.62
+ayapico(172),https://tabelog.com/rvwr/ayapico/,41,エクリッシ,東京都渋谷区笹塚1-29-3 ,"イタリアン
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,42,マイカイ,神奈川県川崎市高津区久本3-9-6 リンクスビル１Ｆ,"パスタ、インドネシア料理
+",-,日曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.14
+ayapico(172),https://tabelog.com/rvwr/ayapico/,43,カフェ・デイジー,東京都港区六本木7-3-22 やまうちビル 1F,"西洋各国料理（その他）、ワインバー
+",-,無休,,"￥3,000～￥3,999","￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,44,パリヤ 青山店,東京都港区北青山3-12-14 ＭＡＫＯ北青山　１Ｆ,"デリカテッセン、アイスクリーム、ケーキ
+",-,無休,http://www.pariya.jp/shop/aoyama.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.40
+ayapico(172),https://tabelog.com/rvwr/ayapico/,45,ニギロカフェ,東京都武蔵野市吉祥寺南町1-9-6 ,"カフェ
+",-,不定休,,"￥2,000～￥2,999","￥1,000～￥1,999",3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,46,ル・キャバレ,東京都渋谷区元代々木町8-8 Ｍｏｔｏｙｏｙｏｇｉ　Ｌｅａｆ　１Ｆ,"ビストロ、フレンチ
+",-,月曜,,"￥8,000～￥9,999",-,3.43
+ayapico(172),https://tabelog.com/rvwr/ayapico/,47,もちもちの木 新宿店,東京都新宿区北新宿1-4-1 アルマビル　B1F,"ラーメン、つけ麺
+",-,年始,,～￥999,～￥999,3.50
+ayapico(172),https://tabelog.com/rvwr/ayapico/,48,リコス・キッチン,東京都渋谷区恵比寿4-23-7 ,"イタリアン、フレンチ、ビストロ
+",-,月曜日(祝日の場合は、翌火曜日休業、G.W、夏季休業、年末年始に関しましては店舗にお問い合わせ下さい）,,"￥8,000～￥9,999","￥4,000～￥4,999",3.58
+ayapico(172),https://tabelog.com/rvwr/ayapico/,49,テクニカルラーメン サバーバ,東京都世田谷区大原2-26-5 ,"担々麺、ラーメン、つけ麺
+",-,日曜日,,"￥1,000～￥1,999",～￥999,3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,50,イル・リストランテ・ネッラ・ペルゴラ,東京都渋谷区広尾3-2-13 ,"イタリアン
+",-,月曜日（祝日の場合は翌日）,http://www.pergola-tokyo.com/,-,"￥3,000～￥3,999",3.57
+ayapico(172),https://tabelog.com/rvwr/ayapico/,51,餃子荘 紅蜥蜴,東京都世田谷区新町2-4-15 ,"中華料理、餃子、担々麺
+",-,月曜・第２第４火曜,,"￥2,000～￥2,999","￥1,000～￥1,999",3.52
+ayapico(172),https://tabelog.com/rvwr/ayapico/,52,創始 麺屋武蔵,東京都新宿区西新宿7-2-6 Ｋ１ビル　１Ｆ,"ラーメン、つけ麺
+",-,無休,http://www.menya634.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.56
+ayapico(172),https://tabelog.com/rvwr/ayapico/,53,天ぷら岡本,東京都立川市曙町2-5-19 ジュピタルビル　２Ｆ,"天ぷら、天丼・天重
+",-,月曜日,http://www.tempura.jp/,"￥15,000～￥19,999","￥10,000～￥14,999",3.63
+ayapico(172),https://tabelog.com/rvwr/ayapico/,54,トゥーランドット游仙境 赤坂店,東京都港区赤坂1-12-32 アーク森ビル　２Ｆ,"中華料理
+",-,不定休（アークヒルズに準ずる）,,-,"￥2,000～￥2,999",3.09
+ayapico(172),https://tabelog.com/rvwr/ayapico/,55,青山 川のほとりで 青山店,東京都港区南青山5-8-5 南青山８９５３ビル　Ｂ１Ｆ,"ダイニングバー、創作料理、和食（その他）
+",-,年末年始,,"￥5,000～￥5,999",-,-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,56,カッフェ アロマティカ,東京都中野区弥生町1-4-6 アビタシオン　１Ｆ,"イタリアン
+",-,月曜日（祝日の場合営業、翌日休み　連休最終日がL.O.21:00）,,-,"￥1,000～￥1,999",3.62
+ayapico(172),https://tabelog.com/rvwr/ayapico/,57,グッチ・カフェ,東京都中央区銀座4-4-10 GUCCI銀座　４Ｆ,"カフェ、カフェ・喫茶（その他）
+",-,,,-,"￥2,000～￥2,999",3.57
+ayapico(172),https://tabelog.com/rvwr/ayapico/,58,旬香亭グリル デ・メルカド,東京都港区赤坂1-14-5 アークヒルズエグゼクティブタワー　１Ｆ,"スペイン料理、西洋各国料理（その他）
+",-,日曜日,,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,59,打心蕎庵,東京都世田谷区代沢3-7-14 ,"そば
+",-,火曜日(祝日の場合営業、翌日に振替休業),https://www.dashinsoan.jp/,"￥2,000～￥2,999","￥2,000～￥2,999",3.64
+ayapico(172),https://tabelog.com/rvwr/ayapico/,60,ミキモトラウンジ,東京都中央区銀座2-4-12 ミキモト　ギンザ２　３Ｆ,"ラウンジ、カフェ、ケーキ
+",-,無休,http://www.mikimoto.com/jp/stores/direct/ginza2/3f/index.htm,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,61,茶茶 白金台,東京都港区白金台5-14-1 白金台アパートメント　Ｂ１Ｆ,"居酒屋、郷土料理（その他）、京料理
+",-,月曜日,,"￥4,000～￥4,999",-,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,62,ラシェット・ブランシュ,東京都港区白金3-2-2 パール白金　１Ｆ,"フレンチ
+",-,水曜日,,"￥10,000～￥14,999","￥8,000～￥9,999",3.79
+ayapico(172),https://tabelog.com/rvwr/ayapico/,63,つるとんたん 六本木店,東京都港区六本木3-14-12 六本木3丁目ビル 1F,"うどん、居酒屋、しゃぶしゃぶ
+",-,なし,http://www.tsurutontan.co.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,64,カレー食堂 心 下北沢店,東京都世田谷区北沢2-34-8 ＫＭビル　１Ｆ,"スープカレー
+",-,無休　(年末年始休業あり),http://cocoro-soupcurry.com/ja/,"￥1,000～￥1,999",～￥999,3.51
+ayapico(172),https://tabelog.com/rvwr/ayapico/,65,グルガオン,東京都中央区銀座1-6-13 銀座１０６ビル　Ｂ１Ｆ,"インド料理、インドカレー
+",-,年中無休（年末年始を除く）,http://gurgaontokyo.com/,-,"￥1,000～￥1,999",3.66
+ayapico(172),https://tabelog.com/rvwr/ayapico/,66,Bar à Vin ムッシュ ヨースケ,東京都目黒区青葉台3-21-13 1F,"フレンチ
+",-,火曜日、月曜日不定休,https://www.facebook.com/baravinyosuque2015/,"￥8,000～￥9,999","￥3,000～￥3,999",3.58
+ayapico(172),https://tabelog.com/rvwr/ayapico/,67,ピッツェリア パーレンテッシ,東京都目黒区東山3-6-8 エクセル東山 2F,"ピザ、イタリアン、パスタ
+",03-5722-6968,月曜日※祝日が月曜日の場合火曜日になります。,,"￥5,000～￥5,999","￥1,000～￥1,999",3.68
+ayapico(172),https://tabelog.com/rvwr/ayapico/,68,爽季,東京都新宿区西新宿3-2-9 新宿ワシントンホテル　Ｂ１Ｆ,"居酒屋、レストラン（その他）、和食（その他）
+",-,土曜日・日曜日※祝日の営業状況については店舗にご確認ください,,"￥3,000～￥3,999",～￥999,3.27
+ayapico(172),https://tabelog.com/rvwr/ayapico/,69,夢吟坊 三宿本店,東京都世田谷区池尻3-30-2 昭和ビル　１Ｆ,"うどん、麦とろ、天ぷら
+",03-3487-4811,火曜日,http://www.muginbou.co.jp/,"￥1,000～￥1,999",～￥999,3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,70,自然式食堂 餉餉 駒沢公園店,東京都世田谷区駒沢5-1-3 ,"自然食、バイキング
+",-,無休,,"￥2,000～￥2,999","￥1,000～￥1,999",3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,71,茅ヶ崎 海ぶね 新宿パークタワー店,東京都新宿区西新宿3-7-1 新宿パークタワー B1F,"居酒屋、魚介料理・海鮮料理、鍋（その他）
+",03-5323-5258,土曜・日曜・祝日,,"￥3,000～￥3,999",～￥999,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,72,ターマンナビリヤニ,東京都新宿区西新宿3-2-9 新宿ワシントンホテルビル B1F,"インドカレー、インド料理、ダイニングバー
+",-,年中無休,http://www.lovesq.jp/shop/gandhi/,"￥2,000～￥2,999","￥1,000～￥1,999",3.41
+ayapico(172),https://tabelog.com/rvwr/ayapico/,73,水色,東京都港区西麻布2-25-21 ,"ダイニングバー、和食（その他）
+",-,,,-,-,-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,74,銀ぜん,東京都港区虎ノ門3-17-7 虎ノ門平井ビル　１Ｆ,"鳥料理
+",-,無休,,"￥10,000～￥14,999","￥1,000～￥1,999",3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,75,いづ味,東京都港区六本木1-6-1 泉ガーデンタワー　１Ｆ　テラスサイド,"そば、割烹・小料理、うどん
+",-,日曜日,http://www.izumo-soba.com/,～￥999,～￥999,3.32
+ayapico(172),https://tabelog.com/rvwr/ayapico/,76,TESORO SAN MARINO,東京都港区六本木1-6-1 泉ガーデンタワー　３Ｆ,"イタリアン
+",-,土曜・日曜・祝日,,-,-,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,77,トラットリア・イタリア 六本木一丁目店,東京都港区六本木1-6-1 泉ガーデンタワー 2F,"イタリアン、ピザ、パスタ
+",03-3568-1645,日曜日,https://www.ichigoichie.jp/trattoria/roppongi/,"￥4,000～￥4,999","￥1,000～￥1,999",3.23
+ayapico(172),https://tabelog.com/rvwr/ayapico/,78,レ・リヤン,東京都世田谷区代沢5-32-14 ,"フレンチ、カフェ
+",-,"月曜日,火曜日昼",,"￥5,000～￥5,999","￥1,000～￥1,999",3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,79,ラ・カンパーニュ,東京都千代田区永田町2-12-8 細川ビル　２Ｆ,"フレンチ
+",-,日曜日,,-,"￥2,000～￥2,999",3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,81,ベリーカフェ 青山本店,東京都港区南青山5-10-19 真洋青山ビル　１Ｆ・２Ｆ,"カフェ、ケーキ
+",-,,http://www.cafe-commeca.co.jp/,-,"￥1,000～￥1,999",3.19
+ayapico(172),https://tabelog.com/rvwr/ayapico/,82,お野菜と生パスタのお店 ボナペティートパパ 笹塚店,東京都渋谷区笹塚1-10-6 CT笹塚ビル  2F,"イタリアン、ピザ、パスタ
+",-,無休,http://buonappetitopapa.com/sasazuka/,"￥2,000～￥2,999",～￥999,3.29
+ayapico(172),https://tabelog.com/rvwr/ayapico/,83,ジンギスカン専門店 カムイ 赤坂本店,東京都港区赤坂3-19-1 丸金ビル　１Ｆ・Ｂ１Ｆ,"ジンギスカン
+",-,不定休,,-,"￥1,000～￥1,999",-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,84,おかゆと麺のお店　粥餐庁 京王モール店,東京都新宿区西新宿1 京王モール,"中華粥、飲茶・点心、ラーメン
+",-,無休,http://www.ghf.co.jp/kayu_santin/index.html,～￥999,～￥999,3.45
+ayapico(172),https://tabelog.com/rvwr/ayapico/,85,トマト,東京都杉並区荻窪5-20-7 吉田ビル　１Ｆ,"欧風カレー、カレーライス
+",-,水・木曜日（不定休あり）,,"￥2,000～￥2,999","￥2,000～￥2,999",3.93
+ayapico(172),https://tabelog.com/rvwr/ayapico/,86,割烹料理 陣や,東京都立川市富士見町2-13-19 ,"割烹・小料理、懐石・会席料理
+",-,日曜日・不定休,http://www.g-gyao.jp/s/0001058917/top/,"￥6,000～￥7,999",～￥999,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,87,花わさび 大一大万大吉,東京都港区麻布十番1-11-10 麻布十番アネックス　３Ｆ,"居酒屋、創作料理、ダイニングバー
+",-,日曜日,,"￥2,000～￥2,999",～￥999,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,88,ブレビス,神奈川県横浜市中区山下町36-1 バーニーズ　ニューヨーク横浜店 B1F,"無国籍料理、パスタ、イタリアン
+",-,無休（第三火曜のディナーのみ休業）,http://www.barneys.co.jp/stores/brebis.html,"￥4,000～￥4,999","￥1,000～￥1,999",3.11
+ayapico(172),https://tabelog.com/rvwr/ayapico/,89,六角家 六角橋本店,神奈川県横浜市神奈川区西神奈川3-1-5 ,"ラーメン、つけ麺、丼もの（その他）
+",-,火曜日,,～￥999,～￥999,3.52
+ayapico(172),https://tabelog.com/rvwr/ayapico/,90,セカンドハウス 下北沢店,東京都世田谷区北沢2-26-14 Ｃｏｏ １Ｆ,"カフェ、ケーキ
+",-,無休,,～￥999,-,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,91,咲乃家,神奈川県三浦市三崎3-6-7 ,"寿司、丼もの（その他）、魚介料理・海鮮料理
+",-,月曜日（祝日の場合は翌日）,http://gourmet.yahoo.co.jp/0001516113/P015393/,"￥5,000～￥5,999","￥4,000～￥4,999",3.47
+ayapico(172),https://tabelog.com/rvwr/ayapico/,92,ヴィア・パルテノペ 品川店,東京都港区港南2-16-5 三菱重工ビル　Ｂ１Ｆ　グランパサージュ２,"ピザ、イタリアン、パスタ
+",-,土曜・日曜・祝日　年末年始（12/30～1/3）ビル休館日に準ずる,,"￥6,000～￥7,999","￥1,000～￥1,999",3.57
+ayapico(172),https://tabelog.com/rvwr/ayapico/,93,保月,東京都世田谷区池尻3-19-13 イプシロン１Ｆ,"居酒屋、魚介料理・海鮮料理、日本酒バー
+",-,無休(たまにずる休みあり）,http://www.houduki.jp/,"￥4,000～￥4,999",-,3.34
+ayapico(172),https://tabelog.com/rvwr/ayapico/,94,ル・ポミエ,東京都世田谷区北沢4-25-11 ,"ケーキ、カフェ
+",-,火曜日、不定休(インスタグラムにて告知),http://www.lepommier-patisserie.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.63
+ayapico(172),https://tabelog.com/rvwr/ayapico/,95,カーサ ヴェッキア,東京都渋谷区上原1-34-10 ,"イタリアン、パスタ
+",-,月曜日,,"￥5,000～￥5,999","￥2,000～￥2,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,96,マルイチベーグル,東京都港区白金1-15-22 ,"ベーグル、サンドイッチ、カフェ
+",-,月曜・火曜,http://www.maruichibagel.com/,-,～￥999,3.79
+ayapico(172),https://tabelog.com/rvwr/ayapico/,97,香季庵：Ｄ,東京都中央区銀座8-10-16 鳴門ビル　２Ｆ,"ダイニングバー、和食（その他）、創作料理
+",-,日曜日,,"￥6,000～￥7,999",～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,98,ジュノー赤坂,東京都港区赤坂2-21-10 ヴェール赤坂　２Ｆ,"和食（その他）、創作料理、無国籍料理
+",-,日曜・祝日,,"￥5,000～￥5,999",～￥999,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,99,グローブ デュ モンド,東京都千代田区九段北4-3-17 明君モナーク九段　1F,"フレンチ
+",-,日曜日、祝日,https://www.facebook.com/GlobeDuMonde/,-,"￥1,000～￥1,999",3.50
+ayapico(172),https://tabelog.com/rvwr/ayapico/,100,ジャンポール エヴァン 東京ミッドタウン店,東京都港区赤坂9-7-4 東京ミッドタウン ガレリア B1F,"チョコレート、カフェ、パン・サンドイッチ（その他）
+",-,不定休,https://www.jph-japon.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.54
+ayapico(172),https://tabelog.com/rvwr/ayapico/,101,無骨地味そば 短太固,東京都中野区本町5-4-1 ,"ラーメン
+",-,不定休,,-,～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,102,アームズ,東京都渋谷区代々木5-64-7 ,"ハンバーガー、サンドイッチ、カフェ
+",-,月曜日（祝日は営業）、年末年始休みあり,http://www.arms-burger.com,-,"￥1,000～￥1,999",3.52
+ayapico(172),https://tabelog.com/rvwr/ayapico/,103,老土,東京都世田谷区赤堤5-26-9 ,"餃子
+",-,月曜日,,～￥999,～￥999,3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,104,鮨 みや本,東京都港区六本木1-7-28 落合麻布台ビル　１Ｆ,"寿司
+",-,,,-,"￥1,000～￥1,999",3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,105,レモングラス,東京都中央区銀座5-1-8 銀座ＭＳビル　５Ｆ・６Ｆ,"タイ料理、タイカレー
+",-,日,,-,"￥1,000～￥1,999",3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,106,えさき,東京都渋谷区神宮前3-39-9 ヒルズ青山　Ｂ１Ｆ,"懐石・会席料理、割烹・小料理、創作料理
+",-,日曜・祝日,http://www.aoyamaesaki.net/,"￥15,000～￥19,999","￥6,000～￥7,999",3.80
+ayapico(172),https://tabelog.com/rvwr/ayapico/,107,臥龍,東京都世田谷区三軒茶屋1-35-3 山田体育施設ビル　１Ｆ,"ラーメン、居酒屋・ダイニングバー（その他）
+",-,火曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.69
+ayapico(172),https://tabelog.com/rvwr/ayapico/,108,手打そば はるの 六本木店,東京都港区六本木5-16-4 三河台ビル　１Ｆ,"そば、うどん
+",-,日曜日・祝日,,-,"￥1,000～￥1,999",3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,109,龍口酒家 本店,東京都渋谷区幡ケ谷1-3-1 幡ヶ谷ゴールデンセンター　Ｂ１Ｆ,"中華料理、中華麺（その他）、飲茶・点心
+",03-5388-8178,月曜日、火曜日,,"￥6,000～￥7,999",～￥999,3.74
+ayapico(172),https://tabelog.com/rvwr/ayapico/,110,チュングエン ダイニング 六本木店,東京都港区六本木7-3-14 東海ホワイトビル　Ｂ１Ｆ,"ダイニングバー、ベトナム料理
+",-,日曜・祝日,,"￥4,000～￥4,999",～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,111,富山の漁 紋屋 六本木,東京都港区六本木4-8-6 パシフィックキャピタルプラザビル　Ｂ１Ｆ,"魚介料理・海鮮料理、郷土料理（その他）、日本酒バー
+",-,,,"￥10,000～￥14,999",-,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,112,箱根 暁庵 本店,神奈川県足柄下郡箱根町湯本茶屋182-7 ,"そば
+",0460-85-6763,毎週水曜日　◆令和5年1月24日(火曜日)・1月26日(木曜日)臨時休業,https://akatsukian.jp/,-,"￥1,000～￥1,999",3.50
+ayapico(172),https://tabelog.com/rvwr/ayapico/,113,カフェ・ド・モトナミ,神奈川県足柄下郡箱根町宮ノ下366 ,"カフェ、パフェ、甘味処
+",-,木曜日定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.41
+ayapico(172),https://tabelog.com/rvwr/ayapico/,114,コロニアル・ミラドー,神奈川県足柄下郡箱根町元箱根159-15 ,"創作料理、フレンチ、カフェ
+",-,火曜日,http://www.mirador.co.jp/,"￥20,000～￥29,999","￥10,000～￥14,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,115,ひるがお 新宿御苑前店,東京都新宿区新宿1-32-4 ,"ラーメン、つけ麺
+",-,無休,,-,～￥999,3.13
+ayapico(172),https://tabelog.com/rvwr/ayapico/,116,中田兄弟,東京都世田谷区松原1-38-15 ,"ラーメン、つけ麺
+",-,日曜日,,-,～￥999,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,117,オー バカナル 赤坂,東京都港区赤坂1-12-32 アーク森ビル 2F,"カフェ、フレンチ、パン
+",-,不定休（アークヒルズに準ずる）,http://www.auxbacchanales.com/,-,～￥999,3.51
+ayapico(172),https://tabelog.com/rvwr/ayapico/,118,まぐろのなかだ屋 笹塚店,東京都渋谷区笹塚1丁目56-2 ,"丼もの（その他）、定食・食堂
+",-,,,"￥1,000～￥1,999",～￥999,3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,119,リストランテ・ピッツェリア ラ・マニョーリア,神奈川県足柄下郡箱根町湯本茶屋184 箱根湯本ホテル別館　５Ｆ,"イタリアン、ピザ
+",-,無休,,-,"￥2,000～￥2,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,120,喜七,神奈川県川崎市高津区坂戸1-21-6 ,"ラーメン
+",-,火曜日夜はお休み,,～￥999,～￥999,3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,121,ヴェッキ・アミーチ,東京都港区六本木3-7-17 ,"イタリアン
+",-,日曜・祝日,,-,"￥1,000～￥1,999",3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,122,糖朝 青山店,東京都港区北青山3-5-14 鈴木硝子ビル　１Ｆ,"中華菓子、飲茶・点心、中華料理
+",-,無休,,"￥2,000～￥2,999",-,3.43
+ayapico(172),https://tabelog.com/rvwr/ayapico/,123,梅蘭 渋谷店,東京都渋谷区道玄坂2-9-10 松本ビル　１Ｆ,"中華料理、中華麺（その他）、居酒屋
+",-,無休,,"￥2,000～￥2,999",～￥999,3.14
+ayapico(172),https://tabelog.com/rvwr/ayapico/,124,萬来軒総本店,東京都世田谷区大原2-27-29 メゾン代田橋 2F,"四川料理、担々麺
+",-,水曜,,-,～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,125,六本木 樓外樓,京都府京都市下京区烏丸通塩小路下ル ＪＲ京都駅中央口　ホテルグランヴィア京都　１５Ｆ,"中華料理
+",-,無休,http://www.granvia-kyoto.co.jp/rest/roppongi.html,"￥10,000～￥14,999","￥5,000～￥5,999",3.51
+ayapico(172),https://tabelog.com/rvwr/ayapico/,126,喜三郎,東京都府中市美好町3-3-3 ,"うどん、天ぷら、ラーメン
+",-,火曜,,～￥999,～￥999,3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,127,HALE海’S 西麻布店,東京都港区西麻布2-16-4 第二吉山ビル 1F,"創作料理、魚介料理・海鮮料理、居酒屋・ダイニングバー（その他）
+",050-5591-0545,月曜日,http://halekaizunisiazabu.favy.jp,"￥6,000～￥7,999",-,3.53
+ayapico(172),https://tabelog.com/rvwr/ayapico/,128,ファイヤーキング カフェ,東京都渋谷区上原1-30-8 ,"カフェ、アジア・エスニック料理（その他）、バー・お酒（その他）
+",-,１月１日,http://www.fk-cafe.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,129,茶豆,東京都渋谷区笹塚1-44-4 ,"カレーライス、欧風カレー、喫茶店
+",-,月曜日、水曜日、金曜日、土曜日、祝日,,-,"￥1,000～￥1,999",3.64
+ayapico(172),https://tabelog.com/rvwr/ayapico/,130,カフェ・ド・フェシエ,東京都渋谷区鉢山町13-12 ミズレイコビル　１Ｆ,"フレンチ、カフェ
+",-,年中無休,,"￥4,000～￥4,999","￥2,000～￥2,999",3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,131,季織亭,東京都世田谷区経堂2-5-14 ,"ラーメン、つけ麺、居酒屋
+",-,水曜・第４火曜,http://blog.goo.ne.jp/kioritei/,-,～￥999,3.28
+ayapico(172),https://tabelog.com/rvwr/ayapico/,132,ラ ファーメ,東京都渋谷区代官山町8-15 ＤＩビル　１Ｆ,"イタリアン、パスタ、ステーキ
+",-,月曜日,http://www.bambinaccio.com/la_fame/,"￥5,000～￥5,999","￥1,000～￥1,999",3.66
+ayapico(172),https://tabelog.com/rvwr/ayapico/,133,代官山Mar,東京都渋谷区鉢山町14-1 ,"イタリアン、創作料理
+",-,月曜日,,-,"￥1,000～￥1,999",3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,134,ナイス タイム カフェ,東京都世田谷区赤堤4-46-6 １Ｆ,"カフェ
+",-,木曜日,,～￥999,～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,135,ニコラス 六本木店,東京都港区麻布台1-4-3 エグゼクティブタワー麻布台　２Ｆ,"イタリアン、ピザ、洋食
+",-,年末年始12月31日～1月2日休業,http://www.nicolas-pizzahouse.com/index.html,"￥4,000～￥4,999","￥1,000～￥1,999",3.28
+ayapico(172),https://tabelog.com/rvwr/ayapico/,136,薪釜屋 ciao,東京都立川市柏町3-8-1 ,"イタリアン、ピザ、カフェ
+",042-534-8120,不定休,https://www.pizza-yoshizo.com/ciao/,"￥3,000～￥3,999","￥1,000～￥1,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,137,您好,東京都渋谷区西原2-27-4 升本酒店　２Ｆ,"餃子
+",-,日曜・月曜日,,"￥2,000～￥2,999",-,3.59
+ayapico(172),https://tabelog.com/rvwr/ayapico/,138,CAFE　Z. 青山店,東京都港区南青山3-13-14 ,"カフェ、ケーキ、カフェ・喫茶（その他）
+",-,不定休,,-,"￥1,000～￥1,999",3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,139,チョロズディー,東京都港区虎ノ門5-3-10 トランスパックビル 1F,"フレンチ
+",-,土・日・祝,,-,"￥1,000～￥1,999",3.13
+ayapico(172),https://tabelog.com/rvwr/ayapico/,140,北の大草原 四谷店,東京都新宿区舟町12 ,"ラーメン
+",-,月曜日（祝日の場合は翌日休み）,,～￥999,～￥999,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,141,カフェ マメヒコ 三軒茶屋本店,東京都世田谷区太子堂4-20-4 ,"カフェ、ケーキ、アイスクリーム
+",-,無休,http://www.mamehico.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.72
+ayapico(172),https://tabelog.com/rvwr/ayapico/,142,スパイス マジック,東京都世田谷区桜3-25-3 ,"インド料理、インドカレー
+",-,なし,http://spicemagic.net/,"￥2,000～￥2,999","￥1,000～￥1,999",3.52
+ayapico(172),https://tabelog.com/rvwr/ayapico/,143,ピッツェリア トニーノ,東京都世田谷区松原3-28-10 ,"イタリアン、ピザ、パスタ
+",-,月曜日・(祝日の場合は翌日),https://www.kaldi.co.jp/cafe/tonino_setagaya/,-,"￥1,000～￥1,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,144,広味坊 千歳烏山本店,東京都世田谷区粕谷4-23-18 ,"中華料理
+",-,月曜日（祝日の場合は営業、翌火曜日休み）,https://koumibou.shopinfo.jp/,"￥4,000～￥4,999","￥1,000～￥1,999",3.50
+ayapico(172),https://tabelog.com/rvwr/ayapico/,145,コーラ 恵比寿店,東京都渋谷区恵比寿4-24-3 ,"韓国料理、居酒屋、焼肉
+",-,無休（年末年始に12/31〜1/4お休み有り）,https://www.kola@kola.co.jp/,"￥3,000～￥3,999",-,3.46
+ayapico(172),https://tabelog.com/rvwr/ayapico/,146,中国薬膳料理 星福,東京都中央区銀座6-9-9 かねまつビル 6F,"中華料理、薬膳、広東料理
+",03-3289-4245,無休　※年末年始（2022年12月27日～2023年1月7日）,http://www.xingfu.co.jp/,"￥10,000～￥14,999","￥2,000～￥2,999",3.54
+ayapico(172),https://tabelog.com/rvwr/ayapico/,147,釜めし むら田,東京都港区麻布十番2-16-10 村田ビル 3F・4F,"釜飯、割烹・小料理、居酒屋
+",03-3451-1448,不定休（年末年始など）,,"￥5,000～￥5,999","￥1,000～￥1,999",3.39
+ayapico(172),https://tabelog.com/rvwr/ayapico/,148,SOBA HOUSE 金色不如帰,東京都渋谷区幡ヶ谷2-47-12 ,"ラーメン、つけ麺
+",-,木曜、金曜,,～￥999,～￥999,3.79
+ayapico(172),https://tabelog.com/rvwr/ayapico/,149,タールム 富ヶ谷店,東京都渋谷区富ケ谷1-10-2 アズハイツ　Ｂ１Ｆ・１Ｆ・２Ｆ,"カフェ、パンケーキ、イタリアン
+",-,不定休,,"￥4,000～￥4,999","￥1,000～￥1,999",3.12
+ayapico(172),https://tabelog.com/rvwr/ayapico/,150,パルテノペ 恵比寿店,東京都渋谷区恵比寿1-22-20 恵比寿幸和ビル 1F,"ピザ、イタリアン、パスタ
+",-,【定休日】月曜日（祝日が月曜日の場合は休み）年末年始、夏季休業日,https://www.partenope.jp/,"￥6,000～￥7,999","￥2,000～￥2,999",3.65
+ayapico(172),https://tabelog.com/rvwr/ayapico/,151,kitchen,東京都港区西麻布4-4-12 ニュー西麻布ビル 2Ｆ,"ベトナム料理
+",-,土・日・月・祝,https://kitchen-nishiazabu.stores.jp/,-,"￥8,000～￥9,999",3.38
+ayapico(172),https://tabelog.com/rvwr/ayapico/,152,フリット,東京都渋谷区本町6-34-8 ＨＡＯ６３４ビル　Ｂ１Ｆ,"イタリアン、パスタ、ワインバー
+",-,年中無休,http://www.fritto.net/,"￥4,000～￥4,999","￥1,000～￥1,999",3.51
+ayapico(172),https://tabelog.com/rvwr/ayapico/,153,カフェ ド フォブ 原宿店,東京都渋谷区神宮前1-11-6 ラフォーレ原宿２　５Ｆ,"カフェ
+",-,無休,,-,"￥1,000～￥1,999",3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,154,ヴィオレット,東京都渋谷区代々木5-63-10 ,"フレンチ、ビストロ、カフェ
+",-,毎週火曜日と第１第３の水曜日を定休日とさせていただきます。火曜日が祝日の場合は営業致します。代わりに、翌日の水曜日をお休みとさせて頂きます。,http://www.yoyogiviolette.com/,-,～￥999,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,155,九段 斑鳩,東京都千代田区九段北1-9-12 九段下ビル1F,"ラーメン、つけ麺
+",-,日曜日,http://www.ikaruga.tokyo/,～￥999,～￥999,3.57
+ayapico(172),https://tabelog.com/rvwr/ayapico/,156,カユマニス,東京都中央区銀座2-3-6 銀座並木通りビル　６Ｆ,"ダイニングバー、フレンチ、東南アジア料理（その他）
+",-,無休,,-,"￥1,000～￥1,999",3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,157,いのこ家 六本木店,東京都港区六本木1-6-1 泉ガーデンテラス　２Ｆ,"しゃぶしゃぶ、すき焼き、郷土料理（その他）
+",-,日,http://www.inokoya.co.jp/,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,158,ラミーズ六本木,東京都港区六本木3丁目4-17 ,"洋食
+",-,,,-,"￥1,000～￥1,999",3.13
+ayapico(172),https://tabelog.com/rvwr/ayapico/,159,中華そば すずらん,東京都渋谷区渋谷3-7-5 大石ビル 1F,"ラーメン、つけ麺、丼もの（その他）
+",-,日曜,,～￥999,"￥1,000～￥1,999",3.54
+ayapico(172),https://tabelog.com/rvwr/ayapico/,160,ジリオーラ,東京都港区六本木3-10-9 カジカワ誠志堂ビル　１Ｆ,"イタリアン
+",-,土曜、日曜、祝日,http://giliola.p-kit.com/,"￥5,000～￥5,999","￥1,000～￥1,999",3.33
+ayapico(172),https://tabelog.com/rvwr/ayapico/,161,ラ・ピッコラ・ターヴォラ,東京都杉並区永福4-2-4 ,"ピザ、イタリアン
+",-,無休(店舗メンテナンスのためお休みをいただく日もございます。),https://www.piccolatavola.jp,"￥3,000～￥3,999","￥1,000～￥1,999",3.72
+ayapico(172),https://tabelog.com/rvwr/ayapico/,162,PAUL 六本木一丁目店,東京都港区六本木1-6-1 泉ガーデンタワー　１Ｆ,"パン、サンドイッチ、カフェ
+",-,不定期（年末年始など）,,-,"￥1,000～￥1,999",3.26
+ayapico(172),https://tabelog.com/rvwr/ayapico/,163,レストラン・プラス・バー・ケセラ,東京都港区六本木1-6-1 泉ガーデンテラス　３Ｆ,"フレンチ、バー、ラウンジ
+",-,日曜・祝日,,"￥5,000～￥5,999","￥1,000～￥1,999",3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,164,そばきり典座,東京都世田谷区南烏山5-17-10 ,"そば
+",-,火曜日、水曜日,,"￥3,000～￥3,999","￥1,000～￥1,999",3.45
+ayapico(172),https://tabelog.com/rvwr/ayapico/,165,イシュー,東京都立川市曙町2-12-15 ２Ｆ,"イタリアン
+",-,年中無休,http://www.issue-web.com/,"￥2,000～￥2,999",-,3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,166,Bacio di Giulietta 恵比寿店,東京都渋谷区恵比寿4-20-2 恵比寿ガーデンテラス弐番館 1F,"イタリアン、パスタ、ダイニングバー
+",03-3473-9187,施設に準ずる,http://www.kabenoana.com/giulietta,"￥3,000～￥3,999","￥1,000～￥1,999",3.41
+ayapico(172),https://tabelog.com/rvwr/ayapico/,167,鏡花,東京都立川市柴崎町2-12-20 ,"ラーメン、つけ麺
+",-,年中無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.73
+ayapico(172),https://tabelog.com/rvwr/ayapico/,168,有楽町コパン・コパン,東京都千代田区丸の内3-6-1 ,"韓国料理、冷麺
+",-,無休,http://www.copaincopine.jp/,"￥3,000～￥3,999",～￥999,3.41
+ayapico(172),https://tabelog.com/rvwr/ayapico/,169,347CAFE＆LOUNGE,東京都渋谷区渋谷1-23-16 ｃｏｃｏｔｉビル ３Ｆ,"カフェ、ビストロ、バー
+",03-5766-3798,元日,http://www.347cafe.com,"￥3,000～￥3,999","￥1,000～￥1,999",3.29
+ayapico(172),https://tabelog.com/rvwr/ayapico/,170,AWkitchen figlia 青山店,東京都港区南青山3-18-5 さくら appartement1F,"イタリアン、野菜料理、パスタ
+",-,不定休,http://www.eat-walk.com/,"￥6,000～￥7,999","￥2,000～￥2,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,171,イルキャンティ・カフェ,東京都渋谷区笹塚1-50-1 笹塚NAビル別館 1F,"カフェ、イタリアン、パスタ
+",-,月曜日※祝日の場合は営業し、次の日がお休みとなります。,http://www.chianti.co.jp/cafe/index.php,"￥3,000～￥3,999","￥1,000～￥1,999",3.09
+ayapico(172),https://tabelog.com/rvwr/ayapico/,172,だし茶漬け えん 新宿ルミネ店,東京都新宿区西新宿1-1-5 ルミネ新宿LUMINE1 B2F,"定食・食堂、和食（その他）、おにぎり
+",-,無休,https://byo.co.jp/dashichazuke-en/,～￥999,～￥999,3.25
+ayapico(172),https://tabelog.com/rvwr/ayapico/,173,麺家 市政,千葉県市川市市川南1-3-1 ,"ラーメン、つけ麺、餃子
+",-,水曜日,http://ichimasa.myoden.jp/,～￥999,～￥999,3.29
+ayapico(172),https://tabelog.com/rvwr/ayapico/,174,まっち棒 津田沼店,千葉県船橋市前原東1-5-4 クリエイトビル　１Ｆ,"ラーメン
+",-,月曜日（祝日の場合翌日休）,,～￥999,-,-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,175,にゃがにゃが亭 行徳店,千葉県市川市香取1-4-9 ,"ラーメン
+",-,不定休,,-,～￥999,3.29
+ayapico(172),https://tabelog.com/rvwr/ayapico/,176,九十九ラーメン 津田沼店,千葉県船橋市前原西2-21-6 ,"ラーメン、餃子
+",-,年中無休,http://www.tukumo.com/,～￥999,～￥999,3.39
+ayapico(172),https://tabelog.com/rvwr/ayapico/,177,なりたけ 津田沼店,千葉県船橋市前原西2-11-7 第２矢野ビル　１Ｆ,"ラーメン、餃子
+",-,水曜,https://naritake.co.jp/,～￥999,～￥999,3.60
+ayapico(172),https://tabelog.com/rvwr/ayapico/,178,竈 新宿本店,東京都新宿区歌舞伎町2-46-7 第３平沢ビル　１Ｆ,"ラーメン、つけ麺
+",-,年末年始,,～￥999,～￥999,3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,179,麺屋武蔵 武骨 御徒町店,東京都台東区上野6-7-3 矢島ビル　１Ｆ,"ラーメン、つけ麺
+",-,無休,http://www.menya634.co.jp/,～￥999,"￥1,000～￥1,999",3.47
+ayapico(172),https://tabelog.com/rvwr/ayapico/,180,カレー屋パク森 本店,東京都新宿区市谷左内町1 山本ビル　１Ｆ,"カレーライス
+",-,日曜・祝日・第２土曜,,"￥1,000～￥1,999",～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,181,空海 渋谷店,東京都渋谷区渋谷3-10-12 ,"ラーメン、つけ麺
+",-,無休,,-,～￥999,3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,182,武蔵家 幡ヶ谷Paul柳萬店,東京都渋谷区幡ヶ谷2-13-4 幡ヶ谷定石ビル1F,"ラーメン、つけ麺
+",-,無休,,～￥999,～￥999,3.45
+ayapico(172),https://tabelog.com/rvwr/ayapico/,183,笑の家,東京都港区南麻布2-7-30 ,"ラーメン、つけ麺
+",-,不定休(一人で営業中につき、たまに臨時休業有ります),,～￥999,～￥999,3.51
+ayapico(172),https://tabelog.com/rvwr/ayapico/,184,九十九ラーメン 恵比寿本店,東京都渋谷区広尾1-1-36 本国ビル　１Ｆ,"ラーメン、餃子、丼もの（その他）
+",-,年中無休,http://www.tukumo.com/,～￥999,～￥999,3.63
+ayapico(172),https://tabelog.com/rvwr/ayapico/,185,ぺーぱん,神奈川県横浜市南区高砂町3-34 細田ビル 1F,"ラーメン
+",-,水曜日,,～￥999,～￥999,3.59
+ayapico(172),https://tabelog.com/rvwr/ayapico/,186,中国飯店 六本木店,東京都港区西麻布1-1-5 オリエンタルビル　１Ｆ・２Ｆ,"中華料理、上海料理
+",-,無休,http://www.chuugokuhanten.com/,"￥10,000～￥14,999","￥1,000～￥1,999",3.76
+ayapico(172),https://tabelog.com/rvwr/ayapico/,187,ラ・ベファーナ 下北沢,東京都世田谷区代田5-31-3 ,"イタリアン、ピザ、パスタ
+",-,無し。年末年始12/31～1/3はお休みです。8月8.9日は、店内メンテナンスのため、休業とさせていただきます。あらかじめご了承ください。,https://www.jack-pot.co.jp/brands/la_befana-shimokitazawa/,"￥4,000～￥4,999","￥1,000～￥1,999",3.47
+ayapico(172),https://tabelog.com/rvwr/ayapico/,188,つけ麺屋 やすべえ 新宿店,東京都渋谷区代々木2-11-19 ハヤカワビル １Ｆ,"つけ麺、ラーメン、中華料理
+",-,無休（正月休みあり）,http://www.yasubee.com/,～￥999,～￥999,3.44
+ayapico(172),https://tabelog.com/rvwr/ayapico/,189,ツム・アインホルン,東京都港区六本木1-9-9 六本木ファーストビル　Ｂ１Ｆ,"ドイツ料理
+",03-5563-9240,日曜日/祝日/第2・第4土曜日,http://www.zum-einhorn.co.jp/,"￥10,000～￥14,999","￥1,000～￥1,999",3.36
+ayapico(172),https://tabelog.com/rvwr/ayapico/,190,バサノバ,東京都世田谷区羽根木1-4-18 新代田たちばな荘 1F,"ラーメン、つけ麺
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.70
+ayapico(172),https://tabelog.com/rvwr/ayapico/,191,無印良品三軒茶屋ＥＡＴＩＮ  三軒茶屋店,東京都世田谷区太子堂4-22-8  ファンタピアビル２Ｆ,"カフェ
+",-,不定休,http://www.muji.net/shop/map/08/0817.html,～￥999,～￥999,3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,192,ダイナー満天星,東京都港区赤坂1-12-32 アーク森ビル　３Ｆ,"洋食
+",-,不定休（アークヒルズに準ずる）,,"￥2,000～￥2,999",-,-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,193,柿安 三尺三寸箸 ルミネ新宿店,東京都新宿区西新宿1-1-5 ルミネ新宿LUMINE1 7F,"バイキング、中華料理、ステーキ
+",-,不定休（ルミネに準ずる）,,"￥2,000～￥2,999","￥2,000～￥2,999",3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,194,かおたんラーメンえんとつ屋 南青山店,東京都港区南青山2-34-30 ,"ラーメン
+",-,日曜日,http://osietesite.com/gourmet/tokyo/chinese-tokyo/kaotanramen,"￥1,000～￥1,999",～￥999,3.65
+ayapico(172),https://tabelog.com/rvwr/ayapico/,195,鍋家 幡ケ谷店,東京都渋谷区幡ヶ谷2-56-5 ,"上海料理、餃子、中華料理
+",-,無休,http://www.ziku-gyurakuen.com/,"￥2,000～￥2,999",～￥999,3.46
+ayapico(172),https://tabelog.com/rvwr/ayapico/,196,ザ・ステーキハウス,東京都港区赤坂1-12-33 ANAインターコンチネンタルホテル東京 3F,"炭火焼き、ステーキ
+",-,無休,http://anaintercontinental-tokyo.jp/restaurants/steakhouse.html,"￥8,000～￥9,999","￥2,000～￥2,999",3.46
+ayapico(172),https://tabelog.com/rvwr/ayapico/,197,神戸住吉 作作,東京都港区南麻布1-5-4 ＦＬＥＧ南麻布　Ｂ１Ｆ,"お好み焼き、鉄板焼き
+",-,無休,,-,"￥1,000～￥1,999",3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,198,南国食堂 Shan2,東京都杉並区和泉1-23-17 ,"居酒屋、創作料理、ダイニングバー
+",-,年中無休風,,"￥2,000～￥2,999",～￥999,3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,199,ピアット・スズキ,東京都港区麻布十番1-7-7 はせべやビル　４Ｆ,"イタリアン
+",-,日曜・祭日の月曜,https://piattosuzuki.square.site,"￥10,000～￥14,999",-,3.75
+ayapico(172),https://tabelog.com/rvwr/ayapico/,200,FURLA CAFE,東京都中央区銀座4-5-1 ＦＵＲＵＬＡ銀座店Ｂ１,"カフェ、ケーキ、アイスクリーム
+",-,,http://www.furla.co.jp/cafe/,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,201,淡水研究室別室 一寸五分,東京都渋谷区代々木1-13-4 ,"居酒屋、魚介料理・海鮮料理、日本酒バー
+",-,日、祝休,http://www.tansui.com/,"￥10,000～￥14,999",-,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,202,馬酔木,千葉県千葉市中央区富士見2-5-5 B1F,"ダイニングバー、カフェ、洋食
+",-,無休,http://www.ashibi.co.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.42
+ayapico(172),https://tabelog.com/rvwr/ayapico/,203,鳥万,千葉県千葉市中央区新町15-2 大友ビル 1F～2F,"焼鳥、鳥料理、居酒屋
+",-,日曜・祝日,,"￥2,000～￥2,999",～￥999,3.44
+ayapico(172),https://tabelog.com/rvwr/ayapico/,204,LOTUS,東京都渋谷区神宮前4-6-8 ,"カフェ
+",-,無休,http://www.heads-west.com/shop/lotus.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.50
+ayapico(172),https://tabelog.com/rvwr/ayapico/,205,茶茶 南青山,東京都港区南青山5-9-1 ３Ｆ,"京料理、居酒屋、創作料理
+",-,無休,http://commercial-art.net/wp/tokyo/chacha_minamiaoyama/,"￥4,000～￥4,999",-,3.19
+ayapico(172),https://tabelog.com/rvwr/ayapico/,206,DEN AQUAROOM AOYAMA,東京都港区南青山5-13-3 ＫＤＸ南青山ビル B1F,"イタリアン、ダイニングバー、地中海料理
+",03-5778-2090,無休,https://aqua-aoyama.com/,"￥5,000～￥5,999",-,3.43
+ayapico(172),https://tabelog.com/rvwr/ayapico/,207,銀蔵 草屋敷,東京都中央区銀座4-4-2 フォースタービル　２Ｆ・３Ｆ,"居酒屋、創作料理
+",-,１／１～１／３,http://peeress-japan.com/kusayashiki/index.html,"￥3,000～￥3,999",-,3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,208,赤坂ちびすけ 赤坂本店,東京都港区赤坂3-12-10 赤坂サンビル B1F,"餃子、居酒屋、飲茶・点心
+",-,土曜・日曜・祝日,,"￥2,000～￥2,999",-,3.12
+ayapico(172),https://tabelog.com/rvwr/ayapico/,209,オステリア・イル・グッフォ,東京都渋谷区渋谷3-2-6 帝都青山ビル,"イタリアン
+",-,日曜日,,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,210,とんき 自由が丘店,東京都目黒区自由ケ丘1-29-2 ブルーバール街　２Ｆ,"とんかつ
+",-,月曜・第３火曜,,"￥1,000～￥1,999",-,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,211,竹富島,東京都中央区銀座6-12-13 大東銀座ビル　Ｂ１Ｆ,"居酒屋、沖縄料理、しゃぶしゃぶ
+",03-5537-1293,【まるで沖縄？！銀座5分の南国居酒屋】最新の空席状況は、店舗までお気軽にお問い合わせください♪,http://www.little-okinawa.co.jp/docs/index.htm,"￥4,000～￥4,999",～￥999,3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,212,カノビアーノ,東京都渋谷区恵比寿西2-21-4 代官山パークスビル　Ｂ１Ｆ,"イタリアン
+",-,毎週火曜日,http://www.canoviano.net/,"￥10,000～￥14,999","￥4,000～￥4,999",3.56
+ayapico(172),https://tabelog.com/rvwr/ayapico/,213,中華風家庭料理 ふーみん,東京都港区南青山5-7-17 小原流会館 B1F,"中華料理、中華麺（その他）、創作料理
+",-,日曜・祝日・第１月曜,,"￥5,000～￥5,999","￥1,000～￥1,999",3.57
+ayapico(172),https://tabelog.com/rvwr/ayapico/,214,末広家,千葉県千葉市中央区末広1-15-7 ,"ラーメン
+",-,日曜日、祝日※2022年12月30日は昼営業のみ,,～￥999,～￥999,3.60
+ayapico(172),https://tabelog.com/rvwr/ayapico/,215,藍,千葉県千葉市中央区松波1-14-11 ,"地中海料理
+",-,月曜日,,-,-,-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,216,マハラジャ 幕張店,千葉県千葉市美浜区中瀬2-6 ワールドビジネスガーデン マリブダイニング3Ｆ,"インドカレー、インド料理、バイキング
+",-,無休,,"￥3,000～￥3,999",～￥999,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,217,アユンテラス,東京都渋谷区桜丘町20-12 ル・カルティエ桜丘102,"インドネシア料理、居酒屋、アジア・エスニック料理（その他）
+",-,無（年末年始・夏季休暇除く）,,"￥3,000～￥3,999","￥1,000～￥1,999",3.58
+ayapico(172),https://tabelog.com/rvwr/ayapico/,218,萬葉庭,東京都渋谷区猿楽町11-1 ラ・フェンテ代官山別館　２Ｆ,"創作料理、和食（その他）、懐石・会席料理
+",-,年末年始,,"￥6,000～￥7,999","￥4,000～￥4,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,219,インドレストラン モティ 赤坂見附店,東京都港区赤坂3-8-8 フローラルプラザ　２Ｆ,"インド料理、インドカレー
+",-,年中無休,,-,～￥999,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,220,グラナータ TBS店,東京都港区赤坂5-3-1 赤坂Bizタワー SHOPS＆DINING 2F,"イタリアン、カフェ、ダイニングバー
+",03-3582-3241,年末年始（12月31日～2023年1月3日）、休館日（2023年1月22日）,http://www.granata.jp/index.html,"￥6,000～￥7,999","￥2,000～￥2,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,221,成ル,東京都渋谷区渋谷3-20-18 天安館　２Ｆ,"居酒屋、鍋（その他）、ダイニングバー
+",-,年中無休,,"￥4,000～￥4,999",-,3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,222,春秋,東京都港区南青山7-14-5 針村ビル 1F,"上海料理
+",-,日曜日,http://shunju1986.com/,"￥20,000～￥29,999",-,3.62
+ayapico(172),https://tabelog.com/rvwr/ayapico/,223,クーツ・グリーンティー 六本木ティーキューブ店,東京都港区六本木3-1-1 六本木Ｔ－ＣＵＢＥ　１Ｆ,"日本茶専門店、カフェ、おにぎり
+",-,無休,http://www.koots.jp/,-,"￥1,000～￥1,999",-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,224,MOTHERS,東京都東大和市南街5-90-9 小菅ビル1F,"イタリアン、ピザ、ワインバー
+",-,なし,,"￥4,000～￥4,999","￥1,000～￥1,999",3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,225,シェンロン トーキョー,東京都渋谷区代々木2-2-1 小田急ホテルセンチュリー サザンタワー 19F,"中華料理、担々麺、飲茶・点心
+",-,無休,,"￥8,000～￥9,999","￥2,000～￥2,999",3.54
+ayapico(172),https://tabelog.com/rvwr/ayapico/,226,サルサ・ズッカ,東京都渋谷区笹塚3-19-2 ,"イタリアン
+",-,水曜日・第１木曜,,"￥8,000～￥9,999","￥2,000～￥2,999",3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,227,喜の字,東京都渋谷区上原1-13-3 Ｂ１Ｆ,"和食（その他）
+",-,日曜日,,"￥8,000～￥9,999",-,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,228,かえりやま,東京都港区赤坂2-12-11 シャルマン赤坂 1F,"フレンチ
+",03-3583-5610,日曜日,http://french-kaeriyama.com/,"￥10,000～￥14,999","￥3,000～￥3,999",3.68
+ayapico(172),https://tabelog.com/rvwr/ayapico/,229,AOYUZU 恵比寿,東京都渋谷区恵比寿1-8-14 大黒ビル　Ｂ１Ｆ,"イタリアン、パスタ、ビアホール・ビアレストラン
+",03-3449-5075,只今変則営業をさせて頂いております。,https://aoyuzuebisu.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.27
+ayapico(172),https://tabelog.com/rvwr/ayapico/,230,フォンダ・デ・ラ・マドゥルガーダ,東京都渋谷区神宮前2-33-12 ヴィラ・ビアンカ　Ｂ１Ｆ,"メキシコ料理、居酒屋、スペイン料理
+",03-5410-6288,不定休　※1/1のみ,https://fonda-tokyo.com/,"￥6,000～￥7,999",-,3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,231,六根 西麻布店,東京都港区西麻布3-17-25 ＴＫビル　Ｂ１Ｆ・Ｂ２Ｆ,"おでん、居酒屋
+",-,"年中無休,",,"￥6,000～￥7,999",-,3.08
+ayapico(172),https://tabelog.com/rvwr/ayapico/,232,四季の味ほり川 小田急ホテルセンチュリーサザンタワー店,東京都渋谷区代々木2-2-1 小田急ホテルセンチュリーサザンタワー 19F,"懐石・会席料理、しゃぶしゃぶ、寿司
+",-,年中無休,https://www.fukusuke.co.jp,"￥8,000～￥9,999","￥3,000～￥3,999",3.54
+ayapico(172),https://tabelog.com/rvwr/ayapico/,233,カ アンジェリ,東京都港区南青山3-10-32 青山森田ビル　１Ｆ,"イタリアン
+",-,日曜日,http://www.caangeli.jp/,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,234,笹乃雪,東京都台東区根岸2-15-10 ,"懐石・会席料理、豆腐料理・湯葉料理
+",-,月曜日（祝日の場合は営業し、翌火曜日代休）※夏季休業あり,http://www.sasanoyuki.com,"￥5,000～￥5,999","￥3,000～￥3,999",3.64
+ayapico(172),https://tabelog.com/rvwr/ayapico/,235,ダノイ 西麻布,東京都港区西麻布4-6-7 麻布司研堂ビル　Ｂ１Ｆ,"イタリアン、パスタ、パン
+",-,月曜日,,"￥6,000～￥7,999",-,3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,236,ラミ・デュ・ヴァン・エノ,東京都渋谷区神宮前2-5-6 アマデウスハウス　１Ｆ,"フレンチ
+",-,月曜日定休月１回不定休,http://lamiduvineno.jp,-,"￥5,000～￥5,999",3.62
+ayapico(172),https://tabelog.com/rvwr/ayapico/,237,イル・ボッカローネ,東京都渋谷区恵比寿1-15-9 シルク恵比寿　１Ｆ,"イタリアン、パスタ、ステーキ
+",03-3449-1430,無休,,"￥8,000～￥9,999",-,3.58
+ayapico(172),https://tabelog.com/rvwr/ayapico/,238,コム・ダビチュード,東京都世田谷区池尻2-7-4 ナオミアパート　１Ｆ,"フレンチ
+",-,火曜・第３水曜,http://www.jalouse.jp/,"￥6,000～￥7,999","￥4,000～￥4,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,239,カフェフレディ 銀座店,東京都中央区銀座1-4-5 ノーリーズ　銀座店　Ｂ１Ｆ,"カフェ、スイーツ（その他）、フレンチトースト
+",-,元日,http://www.cafe-fredy.jp/index.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.58
+ayapico(172),https://tabelog.com/rvwr/ayapico/,240,新北海園,東京都港区六本木5-18-2 大昌第２ビル　１Ｆ,"北京料理、担々麺、中華粥
+",-,年中無休,http://www.shin-hokkaien.com,"￥6,000～￥7,999","￥1,000～￥1,999",3.43
+ayapico(172),https://tabelog.com/rvwr/ayapico/,241,ビストロ ケル ボヌール,東京都港区赤坂1-8-14 かんべ土地赤坂ビル　１Ｆ,"フレンチ、洋食
+",-,,,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,242,中国料理「花梨」,東京都港区赤坂1-12-33 ANAインターコンチネンタルホテル東京 3F,"中華料理、広東料理
+",-,"月曜日,火曜日　※水・木のディナーはクローズ",http://www.anaintercontinental-tokyo.jp/restaurants/karin.html,"￥10,000～￥14,999","￥4,000～￥4,999",3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,243,美食 米門 新宿店,東京都新宿区新宿3-38-1 ルミネエスト新宿　ＳＨＵＮ／ＫＡＮ　７Ｆ,"居酒屋、魚介料理・海鮮料理、創作料理
+",-,不定休（ルミネに準ずる）,,"￥8,000～￥9,999",-,3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,244,AFURI 恵比寿,東京都渋谷区恵比寿1-1-7 １１７ビル　１Ｆ,"ラーメン、つけ麺
+",-,2022年12月31日〜2023年1月2日は休業とさせていただきます。,http://afuri.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.53
+ayapico(172),https://tabelog.com/rvwr/ayapico/,245,ブルー・ブリック・ラウンジ,東京都港区南青山5-3-3 ヨックモック青山本店,"カフェ、フレンチ、ケーキ
+",-,年末年始のみ定休日あり,http://www.yokumoku.co.jp/,"￥4,000～￥4,999","￥1,000～￥1,999",3.68
+ayapico(172),https://tabelog.com/rvwr/ayapico/,246,中華そば 青葉 飯田橋店,東京都千代田区富士見2-12-16 ,"ラーメン、つけ麺
+",-,日曜日,http://www.nakano-aoba.jp,～￥999,～￥999,3.45
+ayapico(172),https://tabelog.com/rvwr/ayapico/,247,カーディナス・シノワ,東京都渋谷区広尾5-22-3 広尾西川ビル　１Ｆ,"カリフォルニア料理
+",-,無,,"￥4,000～￥4,999",-,3.10
+ayapico(172),https://tabelog.com/rvwr/ayapico/,248,福来軒  すすきの店,北海道札幌市中央区南五条西4 ,"ラーメン、餃子
+",-,無休,http://www.hokkaido1.jp/search/datail/?shop_id=634,～￥999,～￥999,3.56
+ayapico(172),https://tabelog.com/rvwr/ayapico/,249,ラーメン二郎 歌舞伎町店,東京都新宿区歌舞伎町1-19-3 歌舞伎町振興組合ビル 1F,"ラーメン、つけ麺
+",-,毎週水曜日（但、水曜日が祝祭日なら翌日の木曜日）,,～￥999,-,3.57
+ayapico(172),https://tabelog.com/rvwr/ayapico/,250,さっぽろ純連 東京店,東京都新宿区高田馬場3-12-8 高田馬場センタービル 1F,"ラーメン、中華料理
+",-,無休,http://www.junren.co.jp/,～￥999,～￥999,3.52
+ayapico(172),https://tabelog.com/rvwr/ayapico/,251,カフェ ラ・ボエム 白金,東京都港区白金台4-19-17 １Ｆ・２Ｆ,"イタリアン、パスタ、カフェ
+",-,無休,http://www.boheme.jp/shirogane/,"￥3,000～￥3,999","￥1,000～￥1,999",3.24
+ayapico(172),https://tabelog.com/rvwr/ayapico/,252,ごはんや 一芯,東京都渋谷区広尾5-19-15 Ｂ１Ｆ,"和食（その他）
+",-,,,-,-,-
+ayapico(172),https://tabelog.com/rvwr/ayapico/,253,bentornato! maggio,東京都千代田区神田小川町3-24-17 ,"イタリアン
+",-,日曜日,,-,"￥1,000～￥1,999",3.06
+ayapico(172),https://tabelog.com/rvwr/ayapico/,254,韓国食堂 ジョッパルゲ,東京都新宿区西新宿3-3-11 第２杉本ビル　１Ｆ,"韓国料理、焼肉、居酒屋
+",-,日・祝　,,"￥3,000～￥3,999",～￥999,3.09
+ayapico(172),https://tabelog.com/rvwr/ayapico/,255,太樹苑 笹塚本店,東京都渋谷区笹塚1-57-15 ,"焼肉、韓国料理、ホルモン
+",03-3373-0791,無休,http://www.taijuen.co.jp/shop/sasazuka/,"￥3,000～￥3,999",-,3.19
+ayapico(172),https://tabelog.com/rvwr/ayapico/,256,となりのキッチン 市原亭,東京都渋谷区笹塚2-27-7 ,"洋食、定食・食堂
+",-,土曜、祝日,,-,～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,257,せたが屋,東京都世田谷区野沢2-1-2 ,"ラーメン、つけ麺
+",-,無休,http://www.setaga-ya.com/,"￥1,000～￥1,999",-,3.43
+ayapico(172),https://tabelog.com/rvwr/ayapico/,258,光陽楼,東京都杉並区和泉1-8-15 ,"中華料理
+",-,,,"￥3,000～￥3,999","￥1,000～￥1,999",3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,259,cafe decadence 代々木上原店,東京都渋谷区上原1-25-6 ,"カフェ
+",-,,,-,～￥999,3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,260,あなごめしうえの 宮島口本店,広島県廿日市市宮島口1-5-11 ,"あなご、弁当、丼もの（その他）
+",-,年中無休,https://www.anagomeshi.com/,-,"￥2,000～￥2,999",3.63
+ayapico(172),https://tabelog.com/rvwr/ayapico/,261,cafeMedica,東京都杉並区和泉1-9-21 ,"カフェ
+",-,日曜・祝日,,-,～￥999,3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,262,江南 ＪＲセントラルタワーズ店,愛知県名古屋市中村区名駅1-1-4 タワーズプラザ 13Ｆ,"ラーメン、餃子、居酒屋
+",052-586-0252,年中無休,http://konan-nagoya.jp/store/,"￥1,000～￥1,999",～￥999,3.60
+ayapico(172),https://tabelog.com/rvwr/ayapico/,263,ビストロ イッシュウ,東京都世田谷区松原2-28-11 明大前ニューコーポ２ 1F,"フレンチ、イタリアン、ビストロ
+",-,月曜日,http://www.isshuu.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,264,ジーテン,東京都渋谷区西原3-2-3 ,"中華料理
+",-,火曜日(不定期で水曜日),,"￥5,000～￥5,999",-,3.56
+ayapico(172),https://tabelog.com/rvwr/ayapico/,265,FIORIA 六本木,東京都港区六本木5-1-3 ゴトウビル 3F,"ダイニングバー、すき焼き、イタリアン
+",03-5413-8877,無休,http://fioria.co.jp/roppongi,"￥5,000～￥5,999",-,3.26
+ayapico(172),https://tabelog.com/rvwr/ayapico/,266,野杏,東京都日野市多摩平1-2-6 ,"チョコレート
+",-,,,-,"￥1,000～￥1,999",3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,267,TUKIJI,東京都港区六本木6-6-9 ピラミデビル　３Ｆ,"シーフード、ダイニングバー
+",-,日曜日,,"￥3,000～￥3,999",-,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,268,ミー・ピアーチェ,東京都渋谷区笹塚1-56-1 ＮＨ駅前ビル　１Ｆ,"パスタ、イタリアン
+",-,日曜日,,-,"￥1,000～￥1,999",3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,269,ぼちぼち 笹塚店,東京都渋谷区笹塚1-33-15 ヴィラージュ笹塚Ⅱ　１Ｆ,"お好み焼き、鉄板焼き
+",-,無休,,"￥3,000～￥3,999",-,3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,270,プチ ハシヤ,東京都杉並区和泉1-10-10 ,"パスタ
+",-,日曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,271,兎屋,東京都渋谷区笹塚1-10-6 １Ｆ,"居酒屋、懐石・会席料理、割烹・小料理
+",-,月曜,https://m.facebook.com/sasazukausagiya,"￥5,000～￥5,999",-,3.47
+ayapico(172),https://tabelog.com/rvwr/ayapico/,272,デヴィ フュージョン 六本木店,東京都港区六本木3-3-15 ＳＫビル　１Ｆ・２Ｆ,"インド料理、インドカレー
+",-,無休,http://devi-group.com/,-,"￥1,000～￥1,999",3.46
+ayapico(172),https://tabelog.com/rvwr/ayapico/,273,あんず,東京都港区虎ノ門3-17-1 藤田観光ビル　１Ｆ,"うどん、西洋各国料理（その他）
+",-,日曜・祝日,,-,～￥999,3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,274,我聞,東京都立川市柴崎町3-6-29 アレアレア２　３Ｆ,"ラーメン
+",-,年中無休,,-,～￥999,3.02
+ayapico(172),https://tabelog.com/rvwr/ayapico/,275,CHUBBY,東京都世田谷区大原2-27-9 ,"カフェ、ダイニングバー、ラウンジ
+",-,火曜日,http://www.chubby.bz/,"￥2,000～￥2,999","￥1,000～￥1,999",3.25
+ayapico(172),https://tabelog.com/rvwr/ayapico/,276,カフェ ラ・ボエム 新宿御苑,東京都新宿区新宿1-1-7 コスモ新宿御苑ビル　１Ｆ・２Ｆ,"イタリアン、パスタ、ピザ
+",-,なし,http://www.boheme.jp/shinjukugyoen/,"￥3,000～￥3,999","￥1,000～￥1,999",3.26
+ayapico(172),https://tabelog.com/rvwr/ayapico/,277,六本木 季菜 CHINA,東京都港区六本木1-6-1 泉ガーデンタワー　３Ｆ,"中華料理
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.01
+ayapico(172),https://tabelog.com/rvwr/ayapico/,278,すみか 南青山店,東京都港区南青山5-11-24 グレイセス土山　Ｂ１Ｆ,"和食（その他）
+",-,,,"￥5,000～￥5,999","￥1,000～￥1,999",3.00
+ayapico(172),https://tabelog.com/rvwr/ayapico/,279,蕎の蔵 新宿店,東京都新宿区西新宿1-18-8 新宿スカイビル　Ｂ２Ｆ,"そば、魚介料理・海鮮料理、居酒屋
+",-,無休,,"￥4,000～￥4,999",～￥999,3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,280,タヴォロッツァ,東京都目黒区自由が丘2-20-5 ＣＴＣビル　Ｂ１Ｆ,"イタリアン、パスタ、ワインバー
+",03-3723-4999,水曜日（臨時休業あり),,"￥4,000～￥4,999","￥2,000～￥2,999",3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,281,銀座天龍,東京都中央区銀座2-6-1 中央銀座ビル　１Ｆ,"餃子、中華料理、中華麺（その他）
+",-,無休（年末年始休）,http://ginza-tenryu.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.59
+ayapico(172),https://tabelog.com/rvwr/ayapico/,282,らーめん天神下 大喜,東京都文京区湯島3-47-2 白木ビル 1F,"ラーメン
+",-,日曜日,http://www.daiki1999.com/,～￥999,～￥999,3.61
+ayapico(172),https://tabelog.com/rvwr/ayapico/,283,スペイン料理銀座エスペロ ガス灯通り店,東京都中央区銀座3-4-4 大倉別館　２Ｆ,"スペイン料理、ビストロ、ワインバー
+",-,年中無休,http://www.ginza-espero.com,"￥6,000～￥7,999","￥1,000～￥1,999",3.61
+ayapico(172),https://tabelog.com/rvwr/ayapico/,284,独楽,東京都中央区銀座1-3-3 Ｇ１ビル　Ｂ１Ｆ,"居酒屋、日本酒バー、魚介料理・海鮮料理
+",03-3561-5550,日曜日・祝日　,,"￥5,000～￥5,999",-,3.46
+ayapico(172),https://tabelog.com/rvwr/ayapico/,285,ル・カフェ・ベルトレ,東京都港区北青山3-5-15 ミヤヒロビル　Ｂ１Ｆ,"フレンチ、カフェ
+",-,月曜日,,-,"￥2,000～￥2,999",3.39
+ayapico(172),https://tabelog.com/rvwr/ayapico/,286,自然式食堂 餉餉 銀座店,東京都中央区銀座3-3-1 ＺＯＥ銀座　４Ｆ,"自然食、バイキング
+",-,無休,,"￥3,000～￥3,999","￥2,000～￥2,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,287,シャンティ 原宿店,東京都渋谷区神宮前3-26-11 ホノラリー原宿ビル　２Ｆ,"スープカレー
+",-,定休日なし。,http://www.shanticurry.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.46
+ayapico(172),https://tabelog.com/rvwr/ayapico/,288,ひしゅうや,東京都渋谷区円山町18-2 藤田ハイツ　１Ｆ,"郷土料理（その他）、焼酎バー、居酒屋
+",-,日曜・祝日　,,"￥4,000～￥4,999",～￥999,3.48
+ayapico(172),https://tabelog.com/rvwr/ayapico/,289,たもいやんせ,東京都渋谷区神泉町10-10 神泉ビル1F,"郷土料理（その他）、鳥料理、水炊き
+",-,日曜日,http://tamoiyanse.net,"￥4,000～￥4,999",～￥999,3.46
+ayapico(172),https://tabelog.com/rvwr/ayapico/,290,トラットリア・ベッラファミリア,東京都港区虎ノ門4-3-1 城山ＪＴトラストタワー　２Ｆ,"イタリアン
+",-,日・祝日,,"￥3,000～￥3,999","￥1,000～￥1,999",3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,291,ラ・カスカータ,東京都港区六本木1-3-39 アークタワーズイースト　１Ｆ,"イタリアン、地中海料理
+",-,無休,,"￥10,000～￥14,999","￥1,000～￥1,999",3.03
+ayapico(172),https://tabelog.com/rvwr/ayapico/,292,南麻布 あら喜,東京都港区南麻布2-6-17 ,"居酒屋、割烹・小料理
+",-,土曜日、日曜日、祝日,https://ja-jp.facebook.com/azabu.araki,"￥10,000～￥14,999",-,3.72
+ayapico(172),https://tabelog.com/rvwr/ayapico/,293,菜な 渋谷宮益坂下店,東京都渋谷区渋谷1-14-16 渋谷野村證券ビル　Ｂ１Ｆ,"居酒屋、魚介料理・海鮮料理、日本酒バー
+",-,12月31日・1月1日お休み,https://byo.co.jp/nana/,"￥4,000～￥4,999",-,3.30
+ayapico(172),https://tabelog.com/rvwr/ayapico/,294,一滴八銭屋 新宿本店,東京都新宿区西新宿1-15-9 KCビル　２Ｆ・３Ｆ,"うどん、居酒屋、おでん
+",03-3342-8889,お盆＆年末年始(12/30～1/4),https://www.itteki.com/,"￥4,000～￥4,999",～￥999,3.61
+ayapico(172),https://tabelog.com/rvwr/ayapico/,295,豚肉料理専門店　とんとことん,東京都港区西麻布1-2-3 アクティブ六本木　B1F,"とんかつ、焼肉、欧風カレー
+",-,無休,,"￥6,000～￥7,999","￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,296,嗟哉,東京都渋谷区本町2-4-3 ,"ラーメン、つけ麺
+",-,,,"￥1,000～￥1,999",～￥999,3.43
+ayapico(172),https://tabelog.com/rvwr/ayapico/,297,チェントルーチ,東京都世田谷区太子堂2-4-11 ,"イタリアン
+",-,水曜,http://www.centoluci.com/,-,"￥1,000～￥1,999",3.07
+ayapico(172),https://tabelog.com/rvwr/ayapico/,298,西麻布 五行,東京都港区西麻布1-4-36 ロジマン西麻布　１Ｆ,"ラーメン、居酒屋、カフェ
+",-,無休,http://ramendining-gogyo.com/shop_nisiazabu/index.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.67
+ayapico(172),https://tabelog.com/rvwr/ayapico/,299,五臓六腑,東京都港区麻布十番2-1-11 ,"ホルモン、焼肉
+",-,無休,,"￥4,000～￥4,999",-,3.12
+ayapico(172),https://tabelog.com/rvwr/ayapico/,300,カフェ エルリック,東京都渋谷区幡ケ谷3-2-6 3F,"ケーキ、スイーツ（その他）
+",-,火曜、水曜、木曜,http://www.elric.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.31
+ayapico(172),https://tabelog.com/rvwr/ayapico/,301,レストラン HUSHHUSH,東京都渋谷区渋谷1-24-10 渋谷東急REIホテル B1F,"ダイニングバー、洋食、ビストロ
+",-,なし,https://www.tokyuhotels.co.jp/shibuya-r/restaurant/index.html,"￥3,000～￥3,999","￥1,000～￥1,999",3.35
+ayapico(172),https://tabelog.com/rvwr/ayapico/,302,セラドン,東京都渋谷区幡ケ谷1-8-3 VORT幡ヶ谷BLDG 1Ｆ,"タイ料理、タイカレー、鍋（その他）
+",-,月曜日,http://www.cela-don.com/,"￥3,000～￥3,999",～￥999,3.64
+ayapico(172),https://tabelog.com/rvwr/ayapico/,303,MOTHERS ORIENTAL,東京都立川市曙町2-8-5 シネマシティ　１Ｆ,"イタリアン、ピザ、パスタ
+",042-528-0855,不定休,https://www.mothersgroup.jp/shop/mothers_oriental.html,"￥3,000～￥3,999","￥1,000～￥1,999",3.49
+ayapico(172),https://tabelog.com/rvwr/ayapico/,304,びぃすとろ 汁べゑ,東京都港区六本木4-11-4 六本木ビル 1F,"居酒屋、魚介料理・海鮮料理、おでん
+",-,年中無休,,"￥3,000～￥3,999",-,3.34
+ayapico(172),https://tabelog.com/rvwr/ayapico/,305,大かまど飯 寅福 城山ヒルズ店,東京都港区虎ノ門4-3-1 城山ＪＴトラストタワー　２Ｆ,"和食（その他）、居酒屋
+",-,日曜・祝日,,"￥4,000～￥4,999","￥1,000～￥1,999",3.19
+ayapico(172),https://tabelog.com/rvwr/ayapico/,306,いち,東京都港区六本木7-10-30 清水ビル　１Ｆ,"割烹・小料理、魚介料理・海鮮料理、野菜料理
+",-,日曜・祝日,,"￥10,000～￥14,999",-,3.52

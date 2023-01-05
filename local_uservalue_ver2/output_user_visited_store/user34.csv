@@ -1,0 +1,2401 @@
+reviewr_name,reviewr_url,store_id,store_name,store_address,store_genre,store_tellnum,store_closedday,store_homepage,store_dinner_price_range,store_lunch_price_range,store_score
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1,39 タイ レストラン,神奈川県横浜市港南区港南中央通4-13 ,"タイ料理
+",-,無休,https://39-thai-restaurant.business.site/,"￥1,000～￥1,999",～￥999,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,2,コストコ 金沢シーサイド店,神奈川県横浜市金沢区幸浦2-6 ,"その他
+",-,年中無休,http://www.costco.co.jp/,-,～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,3,サンタアンジェラ 越谷工房,埼玉県越谷市登戸町25-8 ,"ケーキ、チョコレート、洋菓子（その他）
+",-,日曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,4,パティスリーブーケ,神奈川県横浜市磯子区滝頭2-31-26 ,"洋菓子（その他）、ケーキ
+",-,水曜・木曜・日曜・祝日,https://patisseriebouquet.jimdofree.com/,～￥999,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,5,刀削麺屋 港南,神奈川県横浜市港南区港南中央通9-12 ,"刀削麺、ラーメン、中華料理
+",-,日曜日,,～￥999,～￥999,3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,6,カネヒラ,神奈川県磯子区久木町20-4 ,"コロッケ・フライ、天ぷら・揚げ物（その他）、デリカテッセン
+",-,毎月9日・19日・29日,http://www.gachi045.com/cnts/entry_shop/?c=14&p=0&gr=18,～￥999,-,3.31
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,7,近江屋製菓,静岡県浜松市西区雄踏町宇布見7962 ,"和菓子、パン
+",-,水曜日,http://supponsabure.jp/,-,～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,8,家帝 磯子店,神奈川県横浜市磯子区久木町17-7 桑名ビル 1F,"インドカレー
+",-,無休,,～￥999,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,9,カサネオ 梅田阪急店,大阪府大阪市北区角田町8-7 阪急うめだ本店 B1F,"洋菓子（その他）、スイーツ（その他）
+",-,,,～￥999,"￥1,000～￥1,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,10,ジョリーパスタ 港南台店,神奈川県横浜市港南区港南台6-37-58 ,"ファミレス、パスタ、ピザ
+",-,無休,http://www.jolly-pasta.co.jp/,～￥999,"￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,11,モミアンドトイズ 上大岡mioka店,神奈川県横浜市港南区上大岡西1-18-3 mioka リスト館 1F,"クレープ、カフェ、サンドイッチ
+",-,不定休(miokaに準ずる),http://www.momiandtoy.com/,"￥1,000～￥1,999",-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,12,定食屋 おじいちゃんの台所,神奈川県横浜市磯子区中原1-4-15 ,"定食・食堂
+",-,第3日曜日(加えて不定休あり),,-,～￥999,3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,13,ピカール 横浜元町店,神奈川県横浜市中区元町2-84 ,"その他
+",-,無休,https://www.picard-frozen.jp,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,14,アジア食堂 新嘉坡鶏飯 三井アウトレットパーク 横浜ベイサイド店,神奈川県横浜市金沢区白帆5-2 三井アウトレットパーク 横浜ベイサイド,"シンガポール料理、東南アジア料理（その他）、ベトナム料理
+",-,,https://www.createrestaurants.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,15,CAFE CORE,神奈川県横浜市金沢区福浦3-9 病院内カフェ,"カフェ
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,16,ヴィレッジカフェ 磯子店,神奈川県横浜市磯子区磯子3-13-2 Brillia City 横浜磯子 ヒルトップモール,"カフェ、パスタ、スイーツ（その他）
+",-,1月1日,http://www.villagecafe.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,17,ラ･マーレ･ド･チャヤ 上大岡京急百貨店,神奈川県横浜市港南区上大岡西1-6-1 京急百貨店上大岡駅 B1F,"ケーキ、洋菓子（その他）
+",-,不定休(京急百貨店上大岡駅に準ずる),http://www.chaya.co.jp/index.html,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,18,グリル アラベル 新杉田分店,神奈川県横浜市磯子区新杉田町3-5 1F,"ハンバーグ、ステーキ、レストラン（その他）
+",-,年末年始,,"￥2,000～￥2,999","￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,19,ATHENA,神奈川県横浜市金沢区富岡西3-39-5 ,"カフェ、ダイニングバー、スイーツ（その他）
+",-,水曜日,,-,"￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,20,中華料理 向陽飯店 磯子店,神奈川県横浜市磯子区上中里町275-3 ,"中華料理
+",-,不定休,https://demae-can.com/shop/menu/3206616,～￥999,"￥1,000～￥1,999",3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,21,オーケー 新杉田店,神奈川県横浜市磯子区新杉田町8-8 ハマシップモール 1F,"その他
+",-,,,-,～￥999,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,22,サン コースト,神奈川県横浜市金沢区富岡東5-18-15 ,"アメリカ料理、ハンバーガー、カフェ
+",-,毎週木曜日　第二、第四水曜日　定休日でも祝日は営業,https://goodtimesuncoast39.wixsite.com/mysite,"￥2,000～￥2,999","￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,23,CoCosand-R,神奈川県横浜市磯子区中原1-4-15 ライオンズマンション新杉田第2 1F,"サンドイッチ、カフェ、からあげ
+",-,不定休,https://yokohama.mypl.net/isogo-kanazawa/article/newopen_isogo-kanazawa-yokohama/50364,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,24,ミスタードーナツ 上大岡駅前ショップ,神奈川県横浜市港南区上大岡西1丁目15-1 ,"ドーナツ、カフェ
+",-,,http://www.misterdonut.jp/,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,25,インドアジアン料理 スバカマナ,神奈川県横浜市磯子区栗木1-28-21 ,"インド料理、ネパール料理
+",-,,,"￥1,000～￥1,999","￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,26,ベーカリーエッセン 京急百貨店上大岡店,神奈川県横浜市港南区上大岡西1-6-1 京急百貨店 上大岡店 B1F,"パン・サンドイッチ（その他）、洋菓子（その他）
+",-,京急百貨店上大岡店に準じる,,-,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,27,とんかつ和幸 ビーンズ新杉田店,神奈川県横浜市磯子区新杉田町6 ビーンズ新杉田 2F,"とんかつ
+",-,不定休,http://www.wako-group.co.jp/WGCS/v.php?xid=wako&uid=admin&fid=1&m=h&cno=225,"￥1,000～￥1,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,28,タコとハイボール 横浜杉田店,神奈川県横浜市磯子区杉田1-12-28 ,"たこ焼き、居酒屋
+",-,,https://tako-hai.jp/,"￥2,000～￥2,999",～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,29,ありあけハーバーズムーン 京急上大岡店,神奈川県横浜市港南区上大岡西1-6-1 京急百貨店本店 B1F,"洋菓子（その他）
+",-,無休（京急百貨店に準じる）,http://www.ariakeharbour.com/index.html,"￥1,000～￥1,999",～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,30,祥園,神奈川県横浜市磯子区洋光台3-1-1 207,"中華料理、中華麺（その他）
+",-,,,-,～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,31,ピカール 横浜ベイクォーター店,神奈川県横浜市神奈川区金港町1-10 横浜ベイクォーター 3F,"その他
+",-,不定休,https://www.picard-frozen.jp/,-,～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,32,イル・デ・パン 杉田店,神奈川県横浜市磯子区杉田1-12-27 ,"パン、サンドイッチ
+",-,月曜日・火曜日※祝日の場合営業、不定休(Facebookにて告知),https://liledespains.com/,-,～￥999,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,33,KOKO PHO,神奈川県横浜市磯子区森1-10-20 ライオンズステーションプラザ磯子,"ベトナム料理
+",-,月曜日,,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,34,ドルチェ&マルコ 上大岡店,神奈川県横浜市港南区上大岡西1-6-1 京急百貨店 1F,"洋菓子（その他）、スイーツ（その他）
+",-,京急百貨店に準ずる,,～￥999,～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,35,景珍酒家,神奈川県横浜市磯子区中原1-1-5 ,"中華料理
+",-,不定期定休日,,"￥2,000～￥2,999",～￥999,3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,36,CORE,神奈川県横浜市金沢区福浦1-1-1 横浜テクノタワーホテル 1F,"カフェ・喫茶（その他）、パン、洋食・欧風料理（その他）
+",-,無休,http://www.technotower.jp/,"￥1,000～￥1,999",～￥999,3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,37,LONCAFE 三井アウトレットパーク 横浜ベイサイド店,神奈川県横浜市金沢区白帆5-2 Cブロック 2F,"カフェ、フレンチトースト、中南米料理（その他）
+",-,三井アウトレットパーク横浜ベイサイドに準じる,https://loncafe.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,38,マクドナルド 新杉田駅店,神奈川県横浜市磯子区新杉田町6 ,"ハンバーガー、カフェ
+",-,年中無休,http://www.mcdonalds.co.jp/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,39,ホテルニューグランド SOGOショップ,神奈川県横浜市中区山下町10 ホテルニューグランド 本館 1F,"その他
+",-,無休,https://www.sogo-seibu.jp/yokohama/kakutensublist/?article_seq=202694,-,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,40,タリーズコーヒー ビアレ横浜店,神奈川県横浜市金沢区並木2-13-2 ビアレ横浜新館　１Ｆ,"カフェ、コーヒー専門店
+",-,不定休（ビアレ横浜に準ずる）,http://as.chizumaru.com/tullys/detailMap?account=tullys&bid=261,～￥999,-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,41,メルヘン,神奈川県横浜市金沢区福浦3-9 ,"喫茶店
+",-,月曜日,http://www.maerchen.co.jp,-,～￥999,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,42,CaCa Grill ＆ Pizza 杉田店,神奈川県横浜市磯子区杉田1-17-1 プララ杉田 2F 209,"イタリアン、ピザ、ダイニングバー
+",-,月(祝日は営業、翌火曜日が休みになります),,"￥1,000～￥1,999",～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,43,ビハニ 富岡店,神奈川県横浜市金沢区富岡西2-2-5 ,"カレーライス、インド料理、ネパール料理
+",-,年中無休,,-,～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,44,ビストロ 634,神奈川県横浜市港南区上大岡西1-6-1 京急百貨店,"デリカテッセン、弁当
+",-,無休,https://www.keikyu-depart.com/kqdep/shop/tmp01.html/?shop_id=s12037,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,45,ブーズ・カフェ,神奈川県横浜市金沢区八景島E-3-01 ,"カフェ、定食・食堂、レストラン（その他）
+",-,無休,http://www.hotel-famiel.com,"￥1,000～￥1,999",-,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,46,アバロンコーヒー,神奈川県横浜市港南区上大岡西2-1-28 赤い風船パーク北館 1F,"カフェ、サンドイッチ
+",-,不定休(赤い風船パークに準ずる),http://www.aballoncoffee.jp/,～￥999,～￥999,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,47,プチフルール 上大岡本店,神奈川県横浜市港南区上大岡西1-6-1 京急百貨店 1F,"ケーキ、洋菓子（その他）、チョコレート
+",-,無休,http://www.petitefleur.co.jp/,-,～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,48,横浜中華街 景珍樓 杉田店,神奈川県横浜市磯子区杉田4-2-20 8・8ビル　1F,"広東料理、中華料理、飲茶・点心
+",-,水曜日（祝日の際は休まず営業致します）,,"￥2,000～￥2,999",～￥999,3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,49,ののはなカフェ,神奈川県横浜市金沢区釜利谷東5-15-1 ,"カフェ
+",-,月曜日（祝日の場合は翌日休み）、年末年始（12/29～1/1）,https://www.aqua-yokohama.com/shop016,-,～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,50,中華街美食店,神奈川県横浜市金沢区鳥浜町1-1 横浜南部市場 食の専門街,"中華料理、飲茶・点心
+",-,,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,51,ネパールのカジャガル ソルティニコ バッティ,神奈川県横浜市磯子区杉田4-8-6 2F,"インドカレー、ネパール料理
+",045-773-5472,月曜日,https://bhatti-yokohama.com/,"￥1,000～￥1,999",～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,52,YES！うちのハンバーグ,神奈川県横浜市磯子区森1-10-20 ライオンズステーションプラザ磯子 205,"ハンバーグ、ステーキ、居酒屋
+",045-350-8329,火曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,53,ケンタッキーフライドチキン プララ杉田店,神奈川県横浜市磯子区杉田1-17-1 プララ杉田,"レストラン（その他）、ハンバーガー、洋食・欧風料理（その他）
+",-,プララ杉田に準じる,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,54,八景,神奈川県横浜市金沢区福浦1-1-1 横浜テクノタワーホテル 18F,"鉄板焼き、ステーキ、魚介料理・海鮮料理
+",045-788-7403,無休,http://www.technotower.jp/hakkei.html,"￥6,000～￥7,999","￥6,000～￥7,999",3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,55,サイゼリヤ 磯子駅前,神奈川県横浜市磯子区森1-6-23 ,"ファミレス、イタリアン、パスタ
+",-,,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,56,居酒屋 かもん 杉田プラムロード店,神奈川県横浜市磯子区杉田1-13-1 野村ビル　１・２Ｆ,"居酒屋、魚介料理・海鮮料理、創作料理
+",045-770-5155,無休,,"￥2,000～￥2,999",-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,57,スタミナカレーの店 バーグ 杉田本店,神奈川県横浜市磯子区杉田1-1-1 らびすた新杉田 2F,"カレーライス、カレー（その他）、定食・食堂
+",-,月曜日,https://www.staminaburg.com/,～￥999,～￥999,3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,58,から揚げの天才 プララ杉田店,神奈川県横浜市磯子区杉田1-17-1 ,"からあげ、定食・食堂、弁当
+",-,無休(施設休館に準じる）,https://karaagenotensai.com/#carousel4,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,59,クック・ハウス,神奈川県横浜市磯子区杉田5-24-59 ,"カフェ、パン・サンドイッチ（その他）
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,60,酒とワインの創作料理店 SOIA,神奈川県横浜市金沢区能見台通3-15 ステイションピア 1F,"ダイニングバー、無国籍料理、バー
+",-,水曜のディナータイム（ランチタイムは営業有）,,"￥3,000～￥3,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,61,ミスタードーナツ 京急杉田駅前ショップ,神奈川県横浜市磯子区杉田1-14-9 ,"ドーナツ、飲茶・点心
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,62,スパイスカレー カンパネラ,神奈川県横浜市磯子区中原2-20-20 ,"カレー（その他）
+",-,月曜・日曜　,,-,"￥1,000～￥1,999",3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,63,ピザハット 杉田店,神奈川県横浜市磯子区杉田1-11-5 杉本ビル 1F,"ピザ
+",-,,,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,64,インドダイニング サティー,神奈川県横浜市金沢区富岡東2-1-22 ,"インド料理
+",-,年中無休							,,"￥1,000～￥1,999",～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,65,久遠チョコレート 横浜金沢店,神奈川県横浜市金沢区富岡東6-2-2 ,"チョコレート、アイスクリーム
+",-,月曜日(祝日の場合は火曜日),https://quon-choco.com/,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,66,ミゲルフアニ 三井アウトレットパーク 横浜ベイサイド店,神奈川県横浜市金沢区白帆5-2 三井アウトレットパーク 横浜ベイサイド Cブロック 1F,"スペイン料理、シーフード、ビストロ
+",045-770-1518,施設に準ずる,https://www.zato.co.jp/restaurant/migueljuani/yokohama_bayside/,"￥3,000～￥3,999","￥1,000～￥1,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,67,コシード,東京都町田市中町1-4-17 ,"地中海料理
+",-,"日曜,第1・第2月曜",,"￥1,000～￥1,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,68,ハワイアンスイーツカンパニー 横浜本店,神奈川県横浜市金沢区鳥浜町1-1 ブランチ南部市場 葉山珈琲,"ドーナツ、スイーツ（その他）
+",-,ブランチ南部市場に準じる,https://www.hawaii-sweets.com/,～￥999,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,69,Cafe花と海,東京都町田市能ヶ谷1-13-4 ,"カフェ、喫茶店、サンドイッチ
+",-,土、日、月、祝日,https://cafehanatoumi.amebaownd.com,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,70,Kanakoのスープカレー屋さん ブランチ横浜南部市場店,神奈川県横浜市金沢区鳥浜町1-1 ブランチ横浜南部市場 1F,"スープカレー
+",-,,https://www.kanako-curry.jp/,-,"￥1,000～￥1,999",3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,71,ロゴス ショップ&カフェ 三井アウトレットパーク 横浜ベイサイド店,神奈川県横浜市金沢区白帆5-2 三井アウトレットパーク 横浜ベイサイド Bブロック 1F,"カフェ・喫茶（その他）、ソフトクリーム、洋菓子（その他）
+",-,施設に準ずる,https://www.logos.ne.jp/,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,72,ル・シエール,神奈川県横浜市磯子区磯子3-5-1 横浜市磯子区役所 1F,"カフェ、喫茶店、カレーライス
+",-,月・土・日・祝日,http://www.city.yokohama.lg.jp/isogo/somu/yosan/tyousya.html,～￥999,-,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,73,小麦の家,東京都町田市原町田5-4-19 コメット会館 1F,"パン、サンドイッチ、パン・サンドイッチ（その他）
+",-,土曜・日曜・祝日,http://www.normanet.ne.jp/~komugi/toppage.htm,～￥999,～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,74,オステリア ウチェッロ,東京都町田市原町田5-5-6 ブリューエントプラッツ 1F,"イタリアン
+",-,木曜日、第1・3水曜日,https://www.osteria-uccello.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,75,かもめベーグルラボ,神奈川県横浜市中区吉浜町2-10 ,"ベーグル、パン
+",-,月曜日、第2・第3火曜日,http://www.kamome-smile.com/,-,～￥999,3.53
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,76,IMPASTO,神奈川県横浜市中区石川町1-13 マガジンスポット 1F,"イタリアン、パスタ、ピザ
+",045-307-4980,毎週月曜日（祝日の場合は翌日火曜日）　第3火曜日,https://sites.google.com/view/impastoyokohama/home,"￥5,000～￥5,999","￥2,000～￥2,999",3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,77,カフェ ガレスピー,東京都町田市原町田4-15-12 2F,"カフェ、バー、喫茶店
+",-,水曜日,https://cafegillespie.jimdofree.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,78,街角グラス,東京都町田市森野1-35-4 ,"ダイニングバー、ワインバー
+",-,月曜日,,"￥3,000～￥3,999",-,3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,79,パティスリー・レ・ビアン・エメ,神奈川県横浜市中区石川町2-78-15 ,"ケーキ、カフェ
+",-,火曜・水曜,,"￥1,000～￥1,999","￥1,000～￥1,999",3.61
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,80,045ピザマイロ,神奈川県横浜市中区石川町1-24-1 ,"ピザ、カフェ
+",-,月曜日,,-,～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,81,白楽 栗山製麺 三井アウトレットパーク 横浜ベイサイド店,神奈川県横浜市金沢区白帆5-2 Cブロック 2F,"つけ麺、ラーメン
+",-,,,～￥999,～￥999,3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,82,フオーコディブラーチェ,東京都町田市南成瀬1-4-4 MAX-74 1F,"イタリアン
+",-,火曜日、水曜日、臨時休業あり,,"￥3,000～￥3,999","￥1,000～￥1,999",3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,83,三善堂,東京都町田市原町田3-8-23 ,"和菓子
+",-,日曜日,,-,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,84,アレグロ コン ブリオ,東京都町田市原町田4-6-12 2F,"イタリアン
+",042-850-9284,火曜日,https://allegroconbrio.foodre.jp/,"￥6,000～￥7,999","￥3,000～￥3,999",3.64
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,85,フロリモ珈琲,東京都町田市原町田2-10-14 原町田ハイツ 1F,"カフェ、コーヒー専門店
+",-,月曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,86,cona 町田店,東京都町田市原町田6-11-7 YMビル,"イタリアン、ダイニングバー、ピザ
+",-,無休,,"￥2,000～￥2,999",～￥999,3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,87,アルヴォリーニ,東京都町田市森野1-22-1 都南ビルB1F,"西洋各国料理（その他）、ワインバー
+",-,毎週火曜日、及び第１、第３月曜日,https://arvoreni.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,88,水曜のカフェ,東京都町田市原町田6-29-4 寺田ビル 1F,"カフェ、喫茶店、洋菓子（その他）
+",-,,,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,89,イルバッコ,東京都町田市原町田6-29-4 寺田ビル 1F,"イタリアン、ワインバー、バル・バール
+",042-850-8148,月曜日,,"￥4,000～￥4,999","￥1,000～￥1,999",3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,90,EPIC,神奈川県相模原市南区上鶴間本町3-10-7 ニチジュンビル 2F,"カレーライス、インド料理、アメリカ料理
+",-,木曜日,https://epicdining.stores.jp/,"￥1,000～￥1,999",～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,91,トロス スペイン グリルバル,東京都町田市原町田2-1-1 ドエル町田 1F,"スペイン料理、バル・バール、居酒屋
+",042-850-8926,日曜日※月曜祝日の場合、日曜日営業（月曜は振替休日）,http://machida-toros.com/,"￥3,000～￥3,999",-,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,92,香令屋,東京都町田市原町田6-7-14 LOco LehuA 3F,"カレーライス、カレー（その他）
+",-,不定休,,-,"￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,93,とうふ菜園 玉川学園店,東京都町田市玉川学園2-7-13 メゾンド・ポミエ 1F,"デリカテッセン、スイーツ（その他）
+",-,日・祝,,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,94,博多串焼き いっぽん,東京都町田市原町田4-7-2 1F,"焼鳥、居酒屋、馬刺し
+",042-794-7626,不定休,,"￥4,000～￥4,999",-,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,95,町田ノイズ,東京都町田市森野1-37-10 きめたハウジング第23ビル 1F,"喫茶店、カフェ・喫茶（その他）
+",-,,,-,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,96,トラットリア シェ ラパン,東京都町田市森野1-34-16 ニューウィング町田 1F,"イタリアン、ピザ、居酒屋
+",042-726-2955,無休,http://www.chez-lapin.net/,"￥4,000～￥4,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,97,Pecora,東京都町田市玉川学園7-8-3 MYプラザ 1F,"洋菓子（その他）、カフェ、スイーツ（その他）
+",-,日曜日、祝日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,98,つばめパン,東京都町田市金森東3-22-9 ,"パン
+",-,日曜日,,-,～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,99,IN,東京都町田市原町田5-2-15 アイザワビル 2F,"ワインバー、ダイニングバー
+",-,月曜日,,"￥3,000～￥3,999",-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,100,FarmMart & Friends,東京都渋谷区代々木3-9-5 ,"カフェ、ドーナツ
+",-,水曜日、木曜日,,～￥999,～￥999,3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,101,この世の天國,東京都町田市原町田4-15-15 町田ハントリービル１階,"居酒屋
+",-,水曜日,http://konoyonotengoku.com/,"￥4,000～￥4,999",-,3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,102,カタルーニャ厨房 カサマイヤ,東京都町田市玉川学園2-1-29 グローリア玉川学園　１Ｆ,"スペイン料理、創作料理、地中海料理
+",-,月曜日・火曜日（2019年6月から火曜日全て定休日となります。該当日が祝日の場合は営業),http://casamalla.exblog.jp/,"￥6,000～￥7,999","￥3,000～￥3,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,103,航旅莉屋,東京都町田市森野2-31-4 スカイハイツ渋谷Ⅱ　１F,"洋食
+",-,日曜、祝祭日、第３月曜日、その他臨時休業あり,http://r.goope.jp/koryoriya,"￥2,000～￥2,999","￥1,000～￥1,999",3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,104,黒船屋 成瀬店,東京都町田市成瀬が丘2-24-4 桐伸ビル 1F,"焼肉、ホルモン、居酒屋
+",-,無,http://kurofuneya.locopo-jp.com/,"￥2,000～￥2,999",～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,105,ハリッツ 上原店,東京都渋谷区上原1-34-2 ,"ドーナツ、カフェ、洋菓子（その他）
+",-,日曜日,http://www.haritts.com/,-,～￥999,3.78
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,106,Suns Burger,東京都町田市小川7-1-57 ,"ハンバーガー、ダイニングバー
+",-,火曜日,,"￥3,000～￥3,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,107,マイペンライ 2号店,東京都町田市原町田6-10-3 藤ビル 2F,"タイ料理、タイカレー
+",-,年中無休,http://maipenrai.jp/index.html,"￥2,000～￥2,999",～￥999,3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,108,テラマジカ,東京都町田市原町田6-15-2 RSビル 1F,"イタリアン
+",-,月曜日(火曜日不定休あり),http://www.terramagica.jp/,"￥8,000～￥9,999","￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,109,菓舗 中野屋,東京都町田市原町田4-4-7 ,"和菓子
+",-,水曜日（祝祭日は営業）,,～￥999,～￥999,3.52
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,110,サンマルクカフェ 小田急町田北口店,東京都町田市森野1-36-14 ,"カフェ、パン、スイーツ（その他）
+",-,無休,http://www.saint-marc-hd.com/cafe/,～￥999,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,111,鮨 やざわ,東京都町田市原町田4-11-6 1F,"寿司、和食（その他）、割烹・小料理
+",042-785-5420,毎週火曜日,https://www.sushi-yazawa.com/,"￥10,000～￥14,999","￥5,000～￥5,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,112,No.,東京都渋谷区上原1-33-11 3F,"カフェ、バー
+",-,不定休,http://no.301.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,113,はてな 代官山,東京都渋谷区代官山町10-3 ,"パン・サンドイッチ（その他）、カフェ、ドーナツ
+",-,月曜日,,-,"￥2,000～￥2,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,114,ネコタ ベーカリー,東京都町田市本町田1297-1 ラ・ベルチュ町田 103,"パン
+",-,日曜日・水曜日,,～￥999,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,115,ハルダモンカレー,東京都渋谷区上原1-33-12 ちとせビル 1F,"カレーライス
+",-,火曜日、水曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.65
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,116,ラテグラフィック 町田店,東京都町田市原町田6-11-11 T-wing Machida 2F,"カフェ、ステーキ、ダイニングバー
+",042-728-8015,12月31日まで営業　１月1日はお休み　1月2日より通常営業　（他年1回不定休有）,https://www.lattegraphic.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,117,403ノットファウンド,東京都町田市金井1-17-10 ,"カフェ
+",-,公式Instagramを参照下さい,,-,"￥1,000～￥1,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,118,コシード デ ソル,東京都町田市原町田6-29-4 寺田ビル１Ｆ,"スペイン料理
+",-,月曜・第２日曜・第３日曜,,"￥2,000～￥2,999","￥1,000～￥1,999",3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,119,WithGreen,東京都千代田区大手町1-6-1 大手町ビル B2F,"自然食
+",-,,https://withgreen.club/,"￥1,000～￥1,999","￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,120,きみどりカフェ,東京都町田市南成瀬6-12-13 ,"カフェ
+",-,月曜(祝日の場合は翌火曜が休),http://kimidoricafe.com,"￥1,000～￥1,999","￥1,000～￥1,999",3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,121,日本酒・和食処 神田 木花,東京都千代田区内神田3-5-3 第2矢萩ビル 1F,"居酒屋、魚介料理・海鮮料理、割烹・小料理
+",-,土曜日日曜日祝日,http://www.kono-hana.com,"￥5,000～￥5,999",～￥999,3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,122,堀口珈琲 Otemachi One店,東京都千代田区大手町1-2-1 Otemachi One 1F,"コーヒー専門店
+",-,日曜日、祝日,https://www.kohikobo.co.jp/,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,123,不二家 町田木曽店,東京都町田市木曽東4-19-3 ,"ケーキ、カフェ、クレープ
+",-,年中無休,https://xn--nckh9t067hfsa254do7r2jar19h3ca.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,124,BEER&CAFE つるま食堂,東京都町田市鶴間2-5-13 鶴間公園クラブハウス,"定食・食堂
+",-,月曜日,,"￥3,000～￥3,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,125,atri,東京都町田市中町1-5-3 CLA司法関連・公証センタービル 2A,"イタリアン
+",042-785-5348,毎週月曜日（祝日含む）を中心とし他、月1〜2回の不定休を頂きます。12月のお休みは、毎週月曜日と、18(日)、31(土)です。宜しくお願いいたします。,http://www.atri.jp/,"￥6,000～￥7,999","￥3,000～￥3,999",3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,126,LIFE 相模大野駅前店,神奈川県相模原市南区相模大野3-2-1 ,"その他
+",-,,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,127,実家,神奈川県相模原市南区上鶴間本町1-27-12 ,"和食（その他）、定食・食堂、居酒屋・ダイニングバー（その他）
+",-,日曜・月曜,,"￥2,000～￥2,999",～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,128,ビストロ リコスタンド,神奈川県相模原市南区相模大野3-3-2 bono相模大野 2F,"ビストロ、パスタ、イタリアン
+",-,火曜日,https://b-ricostand.amebaownd.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,129,G'RANBAKE 南町田店,東京都町田市鶴間3-15-22 ,"パン
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,130,北海道どさんこプラザ 町田店,東京都町田市原町田6-4-1 町田東急ツインズ イースト 1F,"ソフトクリーム
+",-,,https://www.tokyu-dept.co.jp/twins/floor/detail.html?shopcode=DOSANKOPLAZA,-,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,131,CURRY LOUNGE ハーフ&ハーフ,神奈川県相模原市南区相模台2-4-8 ,"カレーライス
+",-,火曜日,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,132,バーガーキング  町田ジョルナ店,東京都町田市原町田6-6-14 町田ジョルナ 1F,"ハンバーガー
+",-,無休（施設に準ずる）,https://www.burgerking.co.jp/#/home,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,133,パルミエ,神奈川県相模原市南区相模台2-2-3 ,"ケーキ
+",-,不定休,http://www.1000r.com/shop/insyoku/parumie.htm,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,134,KAMOME,神奈川県相模原市南区上鶴間本町5-33-20 ,"パン、パン・サンドイッチ（その他）、サンドイッチ
+",-,,https://kamome.space/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,135,創作中華 清の,東京都町田市原町田4-7-2 2F,"中華料理、広東料理
+",-,日曜･月曜,http://sosakukiyono.com/,"￥5,000～￥5,999","￥5,000～￥5,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,136,ランバリオン,東京都町田市原町田6-20-10 中野屋ビルB1F,"バー
+",-,無休,,"￥2,000～￥2,999",～￥999,3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,137,居酒家 土間土間 町田店,東京都町田市原町田6-10-15 新光町田ビル B1F,"居酒屋、創作料理、和食（その他）
+",-,年中無休　,https://domadoma-taiyouent.com/machida,"￥3,000～￥3,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,138,カフェ カルマ,神奈川県相模原市南区相模台2-14-6 さがみスクエア 1F,"イタリアン、カフェ、洋菓子（その他）
+",-,,,"￥1,000～￥1,999","￥2,000～￥2,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,139,カフェ ハロゲン,神奈川県座間市相模が丘1-25-1 リビオタワー小田急相模原コモンズざま3F 座間市立市民交流プラザプラッとざま内,"カフェ
+",-,第1火曜日,,-,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,140,点心爛漫tejima,東京都町田市木曽東3-33-6 ,"中華料理
+",-,,,-,"￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,141,SCALES 町田店,東京都町田市原町田6-7-16 マサダヤビル 1F,"丼もの（その他）、ハワイ料理、韓国料理
+",-,"1/1,1/2,1/3",,"￥1,000～￥1,999",～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,142,炭焼てんがらもん 原町田店,東京都町田市原町田4-10-18 ,"居酒屋、焼鳥、鍋（その他）
+",-,なし,http://www.tengaramon.net/,"￥2,000～￥2,999",-,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,143,バーガーキング 小田急マルシェ町田店,東京都町田市原町田6-1-1 小田急マルシェ町田2F,"ハンバーガー
+",-,年中無休,http://www.burgerkingjapan.co.jp/,"￥3,000～￥3,999",～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,144,仲見世クロワッサン専門店 クロッジュ!,東京都町田市原町田4-5-9 ,"パン
+",-,年末年始,https://www.nakamise-croissant.com/,～￥999,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,145,台湾老劉胡椒餅 町田店,東京都町田市原町田4-3-14 白鳥ビル 1F,"台湾料理、飲茶・点心、カフェ・喫茶（その他）
+",-,月曜日,https://roryu-koshomochi.studio.site/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,146,ワイン食堂 アルベロ,東京都町田市原町田6-26-11 岡本ビル 1F,"イタリアン、パスタ、ワインバー
+",-,月曜日、12／29〜1／9の期間休業,,"￥3,000～￥3,999",～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,147,ハートブレッドアンティーク 町田店,東京都町田市原町田4-1-11 大塚プラザビル 1F,"パン、カフェ
+",-,無休（年末年始休みあり）,http://www.heart-bread.com/,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,148,バル Jimmy 大手町店,東京都千代田区大手町1-3-2 大手町カンファレンスセンター B1F,"バル・バール、イタリアン、居酒屋
+",03-6810-0190,土日祝(土曜日営業の場合は17時より営業となります),,"￥4,000～￥4,999",～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,149,崎陽軒 町田東急ツインズ店,東京都町田市原町田6-4-1 町田東急ツインズ 東館 1F,"飲茶・点心、肉まん・中華まん、その他
+",-,不定休(町田東急ツインズに準ずる),,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,150,町田 鮨 よこ田,東京都町田市原町田6-11-11 T-wing Machida 5F,"寿司、天ぷら、割烹・小料理
+",042-707-6413,年中無休,,"￥10,000～￥14,999","￥3,000～￥3,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,151,ウェンディーズ・ファーストキッチン 町田パークアベニュー店,東京都町田市原町田6-3-11 ,"ハンバーガー、パスタ
+",-,,http://www.first-kitchen.co.jp/wendys_fk/,"￥1,000～￥1,999",～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,152,フォーミン 関内店,神奈川県横浜市中区相生町3-53 ,"ベトナム料理
+",-,,,"￥1,000～￥1,999",～￥999,3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,153,イルバールデル プレジデンテ,神奈川県横浜市中区太田町5-67 1F,"イタリアン、ダイニングバー、ワインバー
+",-,"日曜日(12月25日の日曜日は営業いたします！振替で26日が店休日となります！)第1月曜日(月曜日が祝日の場合、日曜日営業、月曜日休業)現在、12月23,24,25日のネット予約が満席となっておりますが、空席はございますので、ご予約希望の方はお電話していただければ対応可能です。",,"￥3,000～￥3,999","￥1,000～￥1,999",3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,154,高級食パン専門店 嵜本 東京町田店,東京都町田市原町田4-3-14 白鳥ビル 1F,"パン
+",-,,https://shokupan-sakimoto.com/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,155,ガトー フェスタ ハラダ 小田急百貨店町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"洋菓子（その他）、スイーツ（その他）
+",-,,http://www.gateaufesta-harada.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,156,ベジ・フル・スパイス,東京都町田市原町田3-1-4 町田ターミナルプラザ,"カレーライス
+",-,月曜　(祝日は営業),http://www.at-ml.jp/index.php?tn=index&in=64301&pan=54,-,"￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,157,つじ田 Otemachi One店,東京都千代田区大手町1-2-1 Otemachi One B1F,"つけ麺
+",-,日曜日,https://tsukemen-tsujita.com/shop/#!/l/-/-/0010018,"￥1,000～￥1,999","￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,158,THE FRONT ROOM,東京都千代田区丸の内2-4-1 丸の内ビルディング 1F,"カフェ、ダイニングバー、フレンチトースト
+",-,施設に準ずる,https://www.huge.co.jp/restaurant/cafe/thefrontroom,"￥3,000～￥3,999","￥1,000～￥1,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,159,スターバックスコーヒー 小田急町田駅店,東京都町田市原町田6-12-20 ,"コーヒー専門店、カフェ、パン
+",-,不定休,http://www.starbucks.co.jp/,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,160,マフィン＆ボウルズカフェ カップス,東京都町田市原町田3-1-4 町田ターミナルプラザ 2F,"カフェ、かき氷、ソフトクリーム
+",-,月曜日(祝日の場合は営業、翌日を振替休業日とさせていただきます)　火曜日は不定期でお休みの場合がございます。,https://cups.owst.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,161,四川豆花飯荘 東京店,東京都千代田区丸の内1-5-1 新丸の内ビルディング 6F,"四川料理、飲茶・点心、中華料理
+",03-3211-4000,不定休（新丸ビルに準ずる）,http://www.sichuandouhua-tokyo.com/,"￥10,000～￥14,999","￥2,000～￥2,999",3.59
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,162,the 3rd Burger Otemachi One店,東京都千代田区大手町1-2-1 Otemachi One B1F,"ハンバーガー、カフェ、スイーツ（その他）
+",-,土日祝、年末年始(詳細は店舗までお問合せください),https://www.the3rdburger.com/,～￥999,～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,163,うしゃぎさん,東京都町田市原町田3-6-5 1F,"ケーキ、クレープ、アイスクリーム
+",-,,,-,～￥999,3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,164,なだ万厨房 小田急百貨店町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"弁当
+",-,無休(1月1日のみ休み),,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,165,然 大手町店,東京都千代田区大手町1-3-2 大手町カンファレンスセンター ショップ＆レストラン B1F C-9,"居酒屋・ダイニングバー（その他）、自然食
+",-,日・祝,http://shizenkaiki.jp/,"￥4,000～￥4,999",～￥999,3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,166,カプリチョーザ 町田モディ店,東京都町田市原町田6-2-6 町田モディ 9F,"イタリアン
+",-,館内休業に準ずる,http://capricciosa.com/location/tokyo/町田モディ店/,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,167,縁道パン,神奈川県横浜市中区相生町3-63 八百政ビル 1F,"パン、サンドイッチ
+",-,日曜日,http://enmichi-pan.com/,～￥999,～￥999,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,168,韓国屋台ハンサム 町田店,東京都町田市原町田4-3-1 HOEIDO10 1F,"韓国料理
+",-,年末年始,https://hangsome.jp/machida/,"￥5,000～￥5,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,169,やきとり処 大舞 町田駅前店,東京都町田市原町田6-11-17 ,"焼鳥、居酒屋
+",042-710-2345,無休,http://www.y-getyou.com/,"￥3,000～￥3,999",-,3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,170,ガトーフェスタ ハラダ グランスタ東京店,東京都千代田区丸の内1-9-1 東京駅 グランスタ B1F スクエア ゼロエリア,"洋菓子（その他）、カフェ、ソフトクリーム
+",-,無休,http://www.gateaufesta-harada.com/store/detail_kanto/18,～￥999,～￥999,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,171,トラットリア・リトルマルコ,東京都千代田区神田淡路町1-4-1 友泉淡路町ビル１Ｆ,"イタリアン、バル・バール、居酒屋・ダイニングバー（その他）
+",03-3525-4768,日、祝、年末年始,http://littlemarco.favy.jp/,"￥4,000～￥4,999","￥1,000～￥1,999",3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,172,boulangerie chiro,東京都町田市森野2-31-5 ,"パン
+",-,毎週日曜日＆第2、4水曜日　（年末年始、夏休み、クリスマスなど特別な日を除く）,,～￥999,～￥999,3.57
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,173,神戸牛のミートパイ グランスタ店,東京都千代田区丸の内1-9-1 東京駅 B1F,"パン、洋菓子（その他）
+",-,無休,https://www.juchheim.co.jp/brand/kobebeef,-,～￥999,3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,174,カレーの店 アッチャ,東京都町田市中町2-11-10 ,"インドカレー、インド料理
+",-,木曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,175,フリホーレス 大手町ファーストスクエア店,東京都千代田区大手町1-5-1 大手町ファーストスクエアEAST 1F,"メキシコ料理、アメリカ料理、カリフォルニア料理
+",-,日曜日・祝日,http://www.frijoles.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,176,せい家 匠 町田店,東京都町田市原町田6-10-3 ,"ラーメン
+",-,無,,～￥999,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,177,アンデルセン レ・シ・ピ町田店,東京都町田市原町田6-4-1 町田東急ツインズ レ・シ・ピ町田　1F,"パン、カフェ
+",-,無休,https://www.andersen.co.jp/,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,178,文明堂東京 町田小田急店,東京都町田市原町田6-12-20 小田急町田店,"和菓子
+",-,不定休,http://www.bunmeido.co.jp/index.html,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,179,ビー! フルーツ サンドイッチ,東京都千代田区丸の内1-9-1 グランスタ東京 1F,"サンドイッチ
+",-,無休,,～￥999,～￥999,3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,180,肉汁餃子製作所 ダンダダン酒場 町田店,東京都町田市原町田6-8-1 ,"餃子、居酒屋
+",-,,https://www.dandadan.jp/,"￥2,000～￥2,999",-,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,181,マクドナルド アエタ町田店,東京都町田市原町田6-9-7 アエタ町田 2F,"ハンバーガー
+",-,,http://www.mcdonalds.co.jp/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,182,本場韓国料理酒場 おぱ屋 町田店,東京都町田市原町田4-2-3 秀興ビル 2F,"韓国料理、居酒屋、サムギョプサル
+",042-728-0601,なし,,"￥3,000～￥3,999",～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,183,モニカ＆アドリアーノ,東京都町田市原町田6-11-16 ツブラアダチビル1F～3F,"カフェ、バー、居酒屋
+",042-794-7495,なし,,"￥3,000～￥3,999","￥1,000～￥1,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,184,ビアード パパ 町田マルイ店,東京都町田市原町田6-1-6 町田マルイ 2F,"洋菓子（その他）
+",-,不定休(町田マルイに準ずる),https://www.beardpapa.jp/sp/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,185,天丼てんや 町田東店,東京都町田市原町田6-20-13 ,"天丼・天重、天ぷら
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,186,ラーメン 町田家 町田本店,東京都町田市原町田3-7-2 ,"ラーメン
+",-,無休,,～￥999,～￥999,3.60
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,187,サーティワンアイスクリーム 町田東急ツインズ店,東京都町田市原町田6-4-1 町田東急ツインズ イースト 1F,"アイスクリーム
+",-,不定休(町田東急ツインズに準ずる),,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,188,トラットリア＆ピッツェリアＤａｉ,東京都町田市森野1-34-2 鹿島屋ビル 1F,"イタリアン、居酒屋、ピザ
+",0428-60-6191,12月31日～1月4日.,http://www.pleasure-company.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,189,マクドナルド 町田駅前店,東京都町田市原町田6-2-10 ,"ハンバーガー
+",-,年中無休,http://www.mcdonalds.co.jp/index.html,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,190,cafe+atelier coo,神奈川県相模原市南区東林間4-44-6 ,"カフェ
+",-,土・日,https://ateliercoo.co.jp,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,191,サイゼリヤ 町田南成瀬店,東京都町田市南成瀬2-7-1 ,"ファミレス、イタリアン、パスタ
+",-,無休,http://www.saizeriya.co.jp/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,192,メーテルリンク,神奈川県横浜市西区岡野1-12-18 新倉ビル,"ケーキ、カフェ・喫茶（その他）
+",-,月曜定休,http://www.maeterlinck.net,-,～￥999,3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,193,信伸,東京都町田市森野2-20-10 ,"中華料理
+",-,,,～￥999,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,194,クレープきッズ,東京都町田市原町田4-3-3 ,"クレープ、カフェ・喫茶（その他）
+",-,,,-,～￥999,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,195,マルヤ製菓,東京都町田市原町田4-5-18 ,"和菓子、たい焼き・大判焼き、弁当
+",-,水曜日,,～￥999,～￥999,3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,196,ジャミジャミ,東京都町田市原町田4-5-18 仲見世商店街内,"ハンバーガー、カフェ、バー
+",-,不定休,https://demae-can.com/shop/menu/3025516/,"￥2,000～￥2,999",～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,197,北辰鮨 町田小田急店,東京都町田市原町田6-12-20 B1F,"寿司、魚介料理・海鮮料理、弁当
+",-,不定休(小田急百貨店に準ずる),,～￥999,-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,198,ラ・メゾン・デュ・ショコラ 横浜タカシマヤ店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F フーディーズポート2,"チョコレート
+",-,,,-,"￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,199,焼鳥酒場まさ兄,東京都町田市木曽町496 ,"焼鳥、居酒屋、串焼き
+",-,水・木曜日　年末年始、お盆、臨時休業、臨時営業あり,http://焼鳥酒場まさ兄です！地元の本厚木と町田で焼鳥屋を12年修業して町田で焼鳥酒場まさ兄を開店することが出来ました。常に初心の気持ちの元気で笑顔で謙虚な気持ちで頑張って行きたいと思います！よろしくお願い致します。お店のおすすめはやっぱり焼鳥です。その中でもレバー、はつ、自家製生つくねはお勧めです。是非召し上がって下さい。一品料理はとりせんべいがオススメです。おつまみに最適です！,"￥2,000～￥2,999",-,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,200,自家焙煎珈琲カフェR,東京都町田市森野2-2-38 1F,"コーヒー専門店、カフェ
+",-,火曜日,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,201,175°DENO担担麺 TOKYO,東京都新宿区西新宿7-2-4 新宿MSビル 1F,"担々麺、ラーメン、居酒屋
+",-,なし,https://www.175.co.jp,～￥999,～￥999,3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,202,町田商店33,東京都町田市原町田6-7-9 ヒロセビル 1F,"ラーメン、つけ麺、餃子
+",-,無休,https://www.eak-ramen.jp/,～￥999,～￥999,3.44
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,203,カフェ・ド・クリエ ミーナ町田,東京都町田市原町田4-1-17 mina 2F,"カフェ、ケーキ
+",-,無休,http://www.pokkacreate.co.jp/shops/detail/194,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,204,サラベス ルミネ新宿店,東京都新宿区新宿3-38-2 ルミネ新宿LUMINE2 2Ｆ,"カフェ、パンケーキ、フレンチトースト
+",-,無休,http://sarabethsrestaurants.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,205,ブルトンヌ 新宿小田急店,東京都新宿区西新宿1-1-3 小田急百貨店 新宿店本館 B2F,"洋菓子（その他）
+",-,,https://www.bretonne-bis.com,～￥999,～￥999,3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,206,おむすび紀行 町田東急店,東京都町田市原町田6-4-1 町田東急ツインズ,"おにぎり
+",-,不定休（1/1お休み）,http://www.koichian.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,207,間借り弁当ミートル,東京都町田市森野2-3-17 Reverieビル B1F,"弁当、カレーライス
+",-,月曜・火曜・水曜・木曜・土曜・日曜,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,208,天寿し 横浜店,神奈川県横浜市西区南幸2-17-8 横浜トラストビル 7-B,"寿司、懐石・会席料理、魚介料理・海鮮料理
+",045-565-9432,不定休,,"￥8,000～￥9,999","￥3,000～￥3,999",3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,209,パティスリー モンシェール 小田急新宿店,東京都新宿区西新宿1-1-3 小田急新宿店 B2F,"ケーキ、洋菓子（その他）
+",-,,,～￥999,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,210,熱血食堂すわ,東京都町田市原町田4-3-7 本橋ビル　１Ｆ,"中華料理、定食・食堂、担々麺
+",-,水曜日,,～￥999,～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,211,BAKERY & BURGER JB'S TOKYO,東京都渋谷区代々木1-33-3 ,"ハンバーガー
+",-,無休（年末年始のみお休みをいただきます）,https://www.jbs-burger.tokyo/home,"￥1,000～￥1,999",～￥999,3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,212,Atelier TiDANEFA,東京都町田市成瀬が丘2-23-13 ,"ケーキ、洋菓子（その他）
+",-,,,-,"￥3,000～￥3,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,213,モスバーガー 町田駅ターミナル口店,東京都町田市原町田4-6-15 ,"ハンバーガー、カフェ
+",-,,http://www.mos.co.jp/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,214,米屋のおにぎり屋 菊太屋米穀店 ニュウマン新宿店,東京都渋谷区千駄ヶ谷5-24-55 NEWoMan SHINJUKU 2F エキナカ,"おにぎり、弁当
+",-,,http://www.kikutaya.co.jp/,～￥999,～￥999,3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,215,東京カオマンガイ,東京都千代田区内神田3-7-8 サトウハウスビル 1F,"タイ料理、居酒屋、タイカレー
+",-,閉店,,"￥2,000～￥2,999",～￥999,3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,216,すし処金太郎,東京都町田市原町田4-6-8 スペランツァ町田　3F ,"寿司、魚介料理・海鮮料理、和食（その他）
+",-,木曜日,,"￥15,000～￥19,999","￥3,000～￥3,999",3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,217,ドナテロウズ 新宿高島屋タイムズスクエア店,東京都渋谷区千駄ヶ谷5-24-2 新宿タカシマヤ 12F,"アイスクリーム、カフェ、ソフトクリーム
+",-,不定休　※タカシマヤタイムズスクエアに準ずる,http://www.donatellos.co.jp/shoplist/2010/01/post.php,～￥999,～￥999,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,218,Buona pizza 町田店,東京都町田市中町2-11-10 1F,"その他
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,219,寿司 高瀬,東京都渋谷区千駄ヶ谷4-26-11 代々木TH&Cビル 2F,"寿司、懐石・会席料理、魚介料理・海鮮料理
+",03-3470-0666,年末年始,http://www.takase-sushi.com/,"￥8,000～￥9,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,220,おむすび権米衛 町田マルイ店,東京都町田市原町田6-1-6 町田マルイ 2F,"おにぎり、弁当
+",-,無休,http://www.omusubi-gonbei.com/,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,221,スリー リトル エッグス 町田東急ツインズ店,東京都町田市原町田6-4-1 町田東急ツインズ イースト 8F,"オムライス、カフェ・喫茶（その他）
+",-,不定休(町田東急ツインズに準ずる),http://www.kichiri.co.jp/brand/3littleeggs/,"￥1,000～￥1,999","￥1,000～￥1,999",3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,222,ベジテリア ルミネ新宿店,東京都新宿区新宿3-38-2 ルミネ新宿2 1F (改札内),"ジュースバー、スープ
+",-,,http://www.rockfield.co.jp/brand/vege/,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,223,メゾン・イチ ニュウマン新宿店,東京都新宿区新宿4-1-6 NEWoMan新宿 2F,"パン、サンドイッチ
+",-,不定休,http://daikanyama-maisonichi.com/,-,～￥999,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,224,モンマスティー 千駄ヶ谷店,東京都渋谷区千駄ヶ谷1-21-2 ,"紅茶専門店
+",-,無休,http://www.monmouth.jp/,～￥999,～￥999,3.63
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,225,マチダイナー,東京都町田市原町田6-11-14 菊甚ビル 201,"ビストロ、イタリアン、野菜料理
+",042-724-0303,なし,https://machidiner.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,226,レストラン モロッコ,東京都千代田区内神田1-5-9 丸山ビル 1F,"アフリカ料理、創作料理、地中海料理
+",-,,https://restaurant-morocco.owst.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,227,こなな ルミネ町田店,東京都町田市原町田6-1-11 ルミネ町田 9F,"カフェ、パスタ
+",-,施設に準ずる,http://www.konana.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,228,旬菜亭 昌,東京都町田市玉川学園前7-5-3 礒部ビル2 2F,"魚介料理・海鮮料理、割烹・小料理、寿司
+",-,なし,,"￥2,000～￥2,999","￥1,000～￥1,999",3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,229,アジアンスタンド アマ,東京都渋谷区代々木1-33-1 ,"インドカレー、タイ料理、タイカレー
+",-,日曜日,,～￥999,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,230,ジョリーパスタ 成瀬店,東京都町田市成瀬4628-1 ,"ファミレス、パスタ、ピザ
+",-,無休,http://www.jolly-pasta.co.jp/,"￥1,000～￥1,999",～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,231,サラベス 東京店,東京都千代田区丸の内1-8-2 鉃鋼ビルディング南館 2・3F,"カフェ、パンケーキ、フレンチトースト
+",03-6206-3551,不定休,http://sarabethsrestaurants.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,232,あつんこパン,東京都千代田区内神田1-10-5 1F,"パン、ベーグル
+",-,月土日祝,,～￥999,～￥999,3.68
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,233,和食レストランとんでん 南成瀬店,東京都町田市南成瀬4-2-16 ,"和食（その他）
+",-,無休,http://www.tonden.co.jp/,-,"￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,234,Oyster & Italian ジャックポット 溝の口,神奈川県川崎市高津区溝口1-11-8 OKKA 634ビル 7F,"ダイニングバー、イタリアン、オイスターバー
+",-,無し,https://www.jack-pot.co.jp/brands/herb_diner_bar_jackpot-mizonokuchi/,"￥4,000～￥4,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,235,ニコ キッチン,東京都町田市玉川学園1-22-14 ,"パン、サンドイッチ、スープ
+",-,月曜日、火曜日、水曜日、木曜日、金曜日、日曜日,,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,236,HAUTE COUTURE・CAFE,東京都目黒区青葉台1-16-9 サクラガーデンイースト 2F,"カフェ、ケーキ、パフェ
+",03-6416-9926,なし,https://www.instagram.com/hautecouturecafe_official/,"￥4,000～￥4,999","￥4,000～￥4,999",3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,237,星乃珈琲店  町田北口店,東京都町田市森野1-19-20 小田急バス町田ビルディング B1F,"カフェ
+",-,,,"￥1,000～￥1,999",～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,238,氷おばけ,東京都新宿区歌舞伎町1-28-2 第二鈴鹿ビル 1F,"かき氷
+",-,火曜・金曜,,"￥1,000～￥1,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,239,萬寿園,東京都町田市成瀬が丘2-25-12 ,"中華料理
+",-,,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,240,グランコントワー,東京都千代田区大手町2-3-1 大手町プレイスウエストタワー B1F,"バル・バール、ビアガーデン、ダイニングバー
+",03-6281-9066,日・祝定休日（貸切予約はご予約可能です）,http://thedining.org/,"￥4,000～￥4,999","￥1,000～￥1,999",3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,241,Patisserie Snow Man,東京都町田市玉川学園2-21-6 ,"ケーキ、洋菓子（その他）、バームクーヘン
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,242,サカノウエカフェ,東京都文京区湯島2-22-14 ビュークレスト御茶ノ水 1F,"カフェ、かき氷
+",-,月曜日※公式サイトに営業日カレンダーあり,http://sakanoue-cafe.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.63
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,243,倉式珈琲店 シエロ町田店,東京都町田市原町田4-9-8 サウスフロントタワー町田,"カフェ、喫茶店
+",-,「町田シエロ」に準ずる,https://www.saint-marc-hd.com/kurashiki/,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,244,一蕃鶏 町田店,東京都町田市森野6-359 ,"焼鳥、釜飯
+",-,,,"￥1,000～￥1,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,245,Mondatta,神奈川県横浜市西区南幸町2-5-4 ,"バル・バール、ピザ、イタリアン
+",-,定休日なし,,"￥3,000～￥3,999",-,3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,246,ROLLS cafe 町田店,東京都町田市原町田6-7-16 マサダヤビル 1F,"アメリカ料理、カリフォルニア料理、魚介料理・海鮮料理
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,247,増田屋,東京都町田市金森1137 ,"そば、うどん、丼もの（その他）
+",-,木曜日,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,248,麦の道,東京都千代田区神田駿河台2-4-3 藤沢ビル 1F,"パン、洋菓子（その他）
+",-,日曜日,,-,～￥999,3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,249,日本茶専門店 茶倉,神奈川県横浜市中区元町2-107 ,"日本茶専門店、豆腐料理・湯葉料理、カフェ
+",-,月曜日,http://www.sakura-yokohama.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,250,まぐろ一番本舗 町田東急ツインズ店,東京都町田市原町田6-4-1 町田東急イースト 1F,"海鮮丼
+",-,,https://www.tokyu-dept.co.jp/twins/floor/detail.html?shopcode=MAGUROICHIBAN,～￥999,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,251,Francais La Porte,神奈川県川崎市高津区久本1-16-20 フィオーレの森,"フレンチ、パスタ、ビストロ
+",-,月曜日（祝日の場合は営業、翌日休）その他、不定休,https://laporte.owst.jp/,"￥5,000～￥5,999","￥2,000～￥2,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,252,タリーズコーヒー with U 小田急百貨店町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 6F,"カフェ
+",-,,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,253,ビストロ エルエラ,神奈川県横浜市中区元町3-132 ジョイ元町１F,"ビストロ、フレンチ、ワインバー
+",-,5月21日・5月22日・元旦・月曜日ディナー,,"￥3,000～￥3,999","￥1,000～￥1,999",3.36
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,254,ジェイハン,神奈川県横浜市中区石川町2-70 ,"トルコ料理、居酒屋、バル・バール
+",045-633-9566,火曜日※祝日・チャーミングセール期間中は営業いたします。,https://tsuku2.jp/ceyhan,"￥3,000～￥3,999","￥1,000～￥1,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,255,つくしのシフォン,東京都町田市南つくし野3-4-2 久保田ビル 1F,"ケーキ
+",-,月曜日、火曜日、水曜日、日曜日,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,256,町田のバーグカレー屋,東京都町田市原町田3-8-23 ,"カレーライス、韓国料理
+",-,金曜日、土曜日、日曜日,https://peraichi.com/landing_pages/view/sisterskitchen,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,257,風タピオラ,東京都町田市西成瀬3-6-14 ,"パン、洋菓子（その他）
+",-,土曜日、日曜日、祝日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,258,焼肉トラジ 町田店,東京都町田市原町田6-2-6 町田モディ 10F,"焼肉、ホルモン、韓国料理
+",-,不定休(町田モディに準ずる),https://www.ebisu-toraji.com/shop_area/machida/,"￥4,000～￥4,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,259,茶寮 億万,東京都新宿区新宿3-36-12 杉忠ビル 4F,"甘味処、かき氷、カフェ
+",070-6964-5337,2022年12月30日〜2023年1月4日は休業日となります。,https://www.instagram.com/saryou.okuman/,-,"￥1,000～￥1,999",3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,260,柿島屋別館,東京都町田市原町田6-19-9 アーバン柿島2 2F,"居酒屋、和食（その他）
+",-,日曜日,,"￥1,000～￥1,999",-,3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,261,YONA YONA BEER WORKS 新宿東口店,東京都新宿区新宿3-28-10 ヒューマックスパビリオン新宿東口 B1F,"ビアホール・ビアレストラン、ビアバー、バー
+",-,無休（年末年始は除く）,http://yonayonabeerworks.com/shinjuku/,"￥4,000～￥4,999","￥2,000～￥2,999",3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,262,エミリア,東京都渋谷区神宮前2-25-4 パストラーレ神宮前　１Ｆ,"イタリアン
+",-,火曜日（定休日以外にも臨時休業有り)※インスタグラムをご覧ください。,http://www.ciao-emilia.com/,"￥6,000～￥7,999","￥1,000～￥1,999",3.66
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,263,LAYER,東京都渋谷区代々木2-30-3 ヨシダペアランドB棟 1F,"パン・サンドイッチ（その他）、カフェ、洋食・欧風料理（その他）
+",-,なし,http://www.layer.tokyo/,～￥999,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,264,ローゼンハイム 町田東急ツインズ,東京都町田市原町田6-4-1 町田東急ツインズ 1F,"デリカテッセン
+",-,不定休(町田東急ツインズに準ずる),,～￥999,-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,265,巴,東京都町田市成瀬1381-1 ,"懐石・会席料理、割烹・小料理、馬刺し
+",-,火曜日,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,266,サントフエゴ 橋本,神奈川県相模原市緑区橋本3-29-2 芳栄ビル 1F,"イタリアン、バル・バール、ピザ
+",042-703-4118,なし、12/31．1/1/2/3,,"￥5,000～￥5,999","￥1,000～￥1,999",3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,267,味の民芸 本町田店,東京都町田市本町田3002-1 ,"ファミレス、和食（その他）、うどん
+",-,年中無休,http://www.ajino-mingei.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,268,焼物 ばんない,東京都町田市成瀬が丘2-2-6 WERT成瀬駅前ビル 1F,"焼鳥、焼きとん、たこ焼き
+",-,月曜日,https://www.xn--n8jydra4l.jp/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,269,ドトールコーヒーショップ 成瀬店,東京都町田市南成瀬1-1-3 ,"コーヒー専門店
+",-,,https://www.doutor.co.jp/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,270,ティー スイーツ ラボ コンテナート 南新宿店,東京都渋谷区代々木1-42-14 村野ビル 1F,"紅茶専門店、スイーツ（その他）、かき氷
+",-,月曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,271,めがね庵 屋根裏,東京都町田市原町田3-6-12 2F,"カフェ、かき氷
+",-,月曜日、火曜日、水曜日、金曜日,,-,"￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,272,CIBI corner store Kitasando,東京都渋谷区千駄ヶ谷3-14-10 ,"サンドイッチ
+",-,,https://www.cibi.jp/,-,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,273,玉川椿堂,東京都町田市玉川学園7-1-9 ,"居酒屋
+",-,月曜日,,"￥1,000～￥1,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,274,TOFFEE tokyo,東京都千代田区大手町2-6-4 常盤橋タワー 1F,"カフェ
+",-,不定休,https://www.co193toffee.com/pages/toffee-tokyo,～￥999,"￥1,000～￥1,999",3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,275,Boulangerie  SALUT,東京都町田市薬師台3-268-6 ,"パン
+",-,月曜日、火曜日、水曜日、木曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,276,西山美術館喫茶コーナー,東京都町田市野津田町1000番地 ,"喫茶店
+",-,月・火（祝日は開館）,,-,～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,277,KAITEKI CAFE,東京都千代田区大手町1-6-1 大手町ビル 1F,"カフェ、カフェ・喫茶（その他）
+",-,土日祝　(貸切パーティーのみ対応可),http://www.kaitekicafe.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,278,過門香 丸の内トラストタワー店,東京都千代田区丸の内1-8-1 丸の内トラストタワーＮ館　２Ｆ,"中華料理、小籠包、担々麺
+",03-5288-7788,祝日　※12/28～1/3休業,http://www.kamonka-tokyo.jp/,"￥6,000～￥7,999","￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,279,熊猫餃子商店,東京都町田市中町1-18-2 ,"餃子、中華料理
+",-,月曜日,,"￥2,000～￥2,999",-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,280,いろどりや 町田店,東京都町田市原町田4-15-16 ,"居酒屋
+",-,日曜日,,-,-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,281,ケ・セラ・セラ,東京都町田市本町田3031-1 ,"カフェ、ケーキ
+",-,,https://www.queserasera.shop/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,282,ヴェンキ 大手町ワン店,東京都千代田区大手町1-2-1 Otemachi One 1F,"カフェ、チョコレート、アイスクリーム
+",-,日曜日、祝日,https://venchi.co.jp/,～￥999,～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,283,FLOWS GRILL|BAR,東京都中野区中野4-10-2 中野セントラルパーク サウス 1F,"ダイニングバー、ビアバー、ステーキ
+",03-3228-6088,施設の休館日に準じます。,http://athreeparlor.jp/flows/,"￥3,000～￥3,999","￥1,000～￥1,999",3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,284,中国酒家 十年 町田北口店,東京都町田市森野1-35-4 TM5ビル 1F,"弁当
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,285,ただいま変身中,東京都中野区中野5-53-3 松本ビル 101,"ラーメン、担々麺、汁なし担々麺
+",03-5942-6636,毎週日曜ディナー帯年末年始（12/30〜1/3はお休みとなります）,https://tadahen.com/,～￥999,～￥999,3.67
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,286,采,東京都町田市中町1-29-19 ,"居酒屋、ダイニングバー
+",-,日曜日(月曜日祝日の場合、日曜日営業、月曜日休み),,"￥3,000～￥3,999",-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,287,ゼノビア東京,東京都中野区中野5-66-7 ,"西アジア料理（その他）
+",-,無休,,～￥999,～￥999,3.31
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,288,ゼルビア×キッチン,東京都町田市野津田町919 ,"定食・食堂、カフェ
+",-,火曜日,http://www.zelvia.co.jp/,-,～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,289,希望の丘ベーカリー タパン 町田小山店,東京都町田市小山町612-1 ,"パン
+",042-860-0045,火曜日,,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,290,グッドモーニングカフェ 中野セントラルパーク店,東京都中野区中野4-10-2 中野セントラルパーク サウス 1F,"カフェ、バーベキュー、イタリアン
+",03-5318-3222,不定休(中野セントラルパークに準ずる),http://www.gmc-nakano.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,291,キッチンアモーレ。,東京都町田市小山町1152-5 ,"イタリアン
+",-,水曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,292,ダンチキンダン,東京都町田市原町田4-10-18 2F,"居酒屋、ダイニングバー、イタリアン
+",-,無休,http://www.danchickendan.com/,"￥3,000～￥3,999",-,3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,293,ニューサフラン,東京都町田市忠生4-9-12 ,"パン・サンドイッチ（その他）、洋菓子（その他）
+",-,日曜日,,～￥999,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,294,なるかふぇ,東京都町田市成瀬が丘2-28-4 ヒロビル B1F,"ハンバーガー、ジュースバー、カフェ
+",-,第2・4土曜日、日曜日、祝日,,-,"￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,295,おやつと雑貨 poco a poco,東京都町田市玉川学園2-17-5-1 ,"カフェ
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,296,soup-ya SEKAI.,東京都町田市小山町1149-17 ,"スープ
+",-,月曜・日曜,,～￥999,"￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,297,BISTRO ひつじや 代々木本店,東京都渋谷区代々木2-1-1 新宿マインズタワー B1F,"南アジア料理（その他）、インドカレー
+",-,無休,http://hitujiya.ddo.jp/,"￥4,000～￥4,999",～￥999,3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,298,季四十舎,東京都町田市原町田4-3-6 ,"デリカテッセン
+",-,無休,https://www.kijitoya.com/,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,299,EL REY AMIGO,東京都町田市原町田4-5-9 ,"メキシコ料理
+",-,水曜日,https://www.instagram.com/elreyamigo888/,"￥1,000～￥1,999",～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,300,氷屋きみこ﻿,東京都渋谷区千駄ヶ谷3-14-3 ワイズテラス原宿 1F,"かき氷
+",-,,,"￥1,000～￥1,999","￥1,000～￥1,999",3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,301,喫茶けやき 1号店,東京都町田市原町田4-28-1 国際版画美術館,"喫茶店
+",-,月曜日,https://sites.google.com/site/amitymachida/,-,～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,302,Season2 気ぶん屋,東京都町田市成瀬8-17-1 ,"カフェ、居酒屋
+",-,月曜日、火曜日、水曜日、木曜日、金曜日、日曜日,,-,"￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,303,ビゴの店 東京本店,東京都中央区銀座3-2-1 マロニエゲート銀座2 B2F,"パン、サンドイッチ、洋菓子（その他）
+",-,無休,http://www.bigot.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.78
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,304,サリュー,東京都渋谷区千駄ヶ谷4-30-6 エビデンワビル 3F,"カレーライス、無国籍料理、西洋各国料理（その他）
+",03-6899-1105,月曜定休・月に数回火曜日休、その他不定休あり。,,"￥6,000～￥7,999","￥2,000～￥2,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,305,アボット チョイス 町田店,東京都町田市森野1-37-10 ,"ダイニングバー、バー、ビアバー
+",042-785-5984,年中無休,,"￥2,000～￥2,999",-,3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,306,楓,東京都町田市森野2-27-14 ,"居酒屋、ダイニングバー、割烹・小料理
+",-,月曜日,,"￥1,000～￥1,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,307,銀座のジンジャー 銀座本店,東京都中央区銀座1-4-3 カルチェブラン・ギンザ 1F～2F,"カフェ、スイーツ（その他）、かき氷
+",-,不定休,https://www.cep-shop.co.jp,"￥2,000～￥2,999","￥1,000～￥1,999",3.67
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,308,HIGASHIYA man 丸の内,東京都千代田区丸の内1-4-5 三菱UFJ信託銀行本店ビル 1F,"和菓子、日本茶専門店、和食（その他）
+",-,年中無休(年末年始を除く)					,https://www.higashiya.com/shop/man_marunouchi/,-,"￥2,000～￥2,999",3.36
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,309,美味だれ焼き鳥 鳥幸,東京都町田市原町田6-8-1 ,"焼鳥、居酒屋、立ち飲み居酒屋・バー
+",-,不定休,,"￥2,000～￥2,999",-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,310,バル ポルティージョ デ エスパーニャ,東京都千代田区丸の内1-3-4 丸の内テラス 1F,"スペイン料理、バル・バール、ワインバー
+",-,無し,https://www.vandk.jp/restaurant/barportillodeespana/,"￥4,000～￥4,999","￥1,000～￥1,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,311,common cafe 丸の内センタービル店,東京都千代田区丸の内1-6-1 丸の内センタービルディング 1F,"カフェ、ハンバーガー、スイーツ（その他）
+",03-6551-2511,不定休※丸の内センタービル準ずる。　年末年始は、12/30～1/3休業いたします。,https://commoncafe-marunouchi.owst.jp/,"￥4,000～￥4,999","￥1,000～￥1,999",3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,312,5shukuru,東京都町田市森野2-3-17 Reverieビル B1F　,"弁当
+",-,,,-,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,313,町村農場 丸の内店,東京都千代田区丸の内1-5-1 新丸の内ビルディング B1F,"ソフトクリーム、ケーキ、カフェ
+",-,無休,http://machimura.co.jp/,"￥1,000～￥1,999",～￥999,3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,314,あっぷるぱい 考太郎,東京都町田市鶴間3-4-1 南町田グランベリーパーク ギャザリングマーケット 1F,"洋菓子（その他）
+",-,,https://kotaropie.com/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,315,やきにくひぃちゃん KASUYA 東京町田店,東京都町田市南町田3-38-24 ,"焼肉、うどん
+",-,水曜,http://www.aburakasu.com/71592/,-,～￥999,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,316,BISTRO DOUBLE,東京都千代田区丸の内1-4-1 丸の内永楽ビルディング 1F,"ビストロ、フレンチ、ワインバー
+",03-6269-9730,永楽ビルに準ずる,http://www.bistro-double.com,"￥6,000～￥7,999","￥1,000～￥1,999",3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,317,和カフェTsumugi 氷室 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク 1F,"カフェ、かき氷
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,318,クラフト ビア マーケット 大手町店,東京都千代田区大手町1-9-2 大手町フィナンシャルシティ グランキューブ 1F,"ビアバー、メキシコ料理
+",-,日曜日・祝日,https://www.craftbeermarket.jp/home.html,"￥3,000～￥3,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,319,WIRED KITCHEN  南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク南町田 B1F,"洋食・欧風料理（その他）
+",-,館に準ずる,https://www.cafecompany.co.jp/brands/,"￥2,000～￥2,999","￥1,000～￥1,999",3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,320,Cheese Chef,東京都町田市森野1-34-16 太陽ビル No.11 3F,"洋食、カフェ、ケーキ
+",-,月曜日,,～￥999,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,321,aer,東京都町田市木曽東4-27-19 ,"喫茶店、パン、デリカテッセン
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,322,まぐろ間二,東京都町田市木曽東4-28-17 ,"弁当、寿司、デリカテッセン
+",-,水曜日,http://arikinu.net/flyer-design/651/,～￥999,-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,323,LA BUONA VITA,東京都渋谷区代々木1-45-4 代々木山陽ビル 1F,"イタリアン、パスタ、ピザ
+",03-6276-3212,不定休,http://www.labuonavita.tokyo,"￥5,000～￥5,999","￥1,000～￥1,999",3.56
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,324,スパゲッティーのパンチョ 町田店,東京都町田市原町田4-2-9 関口ビル 1F,"レストラン（その他）、パスタ、洋食
+",-,無休,https://naporitanpancho.com/,～￥999,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,325,JUNCHAN&KENCHAN,東京都町田市木曽西5-4-15 ,"喫茶店、ダイニングバー
+",-,月曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,326,代々木parabola,東京都渋谷区代々木1-14-5 1F,"カフェ、ダイニングバー、イタリアン
+",03-6276-0650,日曜日+不定休(12/29〜1/4、1/17.18),http://www.yoyogi-parabola.com/,"￥3,000～￥3,999",～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,327,八屋,東京都渋谷区千駄ヶ谷3-2-10 MiyamaBldg. 1F,"日本茶専門店、カフェ、喫茶店
+",-,土日祝,http://8ya.jp/,～￥999,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,328,KAIGANDORI Des Anges,神奈川県横浜市中区海岸通3-12-1 ,"オイスターバー、ビストロ、カフェ
+",-,不定休,http://desanges.co.jp/top,"￥4,000～￥4,999","￥1,000～￥1,999",3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,329,ラ ナトゥーラ,神奈川県横浜市中区真砂町3-33 CERTE B1F,"デリカテッセン
+",-,火曜日,https://lanatura.theshop.jp/,-,"￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,330,関内もつ焼のんき,神奈川県横浜市中区真砂町2-17-1 平栄ビル 1F,"もつ焼き、居酒屋、焼鳥
+",045-641-0810,不定休要お店まで,,"￥3,000～￥3,999",-,3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,331,Yokohama SORAiRO gelato,神奈川県横浜市中区海岸通1-1 大桟橋共同ビル 105,"アイスクリーム
+",-,月曜日、火曜日、水曜日、木曜日,,～￥999,～￥999,3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,332,タイ東北酒場 ソムタムローンプレーン,東京都町田市原町田6-10-4 山崎商事町田ビル B1F,"タイ料理、居酒屋、ダイニングバー
+",-,お問い合わせください,,"￥3,000～￥3,999","￥1,000～￥1,999",3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,333,グーツ いちょう並木通り店,神奈川県横浜市中区日本大通15 朝日会館ビル　1F,"その他
+",-,年末年始休業,http://www.three-f.co.jp/company/gooz/,～￥999,～￥999,3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,334,大阪焼肉・ホルモンふたご 町田店,東京都町田市原町田4-11-13 天野ビル 1F,"焼肉、ホルモン、居酒屋
+",0427-85-4725,定休日なし※12/31～1/3は除く,http://www.yakiniku-futago.com/,"￥4,000～￥4,999",-,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,335,カフェドゥラプレス,神奈川県横浜市中区日本大通11 情報文化センター　２Ｆ,"カフェ、フレンチ
+",-,月曜・火曜,http://www.alteliebe.co.jp/cafedelapresse/,-,"￥1,000～￥1,999",3.60
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,336,ロータスバゲット 横浜ロータス,神奈川県横浜市中区海岸通1-1 ,"パン、サンドイッチ、カフェ
+",-,[毎週]月曜日・火曜日,https://www.lotusbaguette.com/yokohama?utm_campaign=OTHER&utm_medium=OTHER&utm_source=tabelog_yokohama_lotus,～￥999,～￥999,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,337,大衆酒場 Sagara,東京都町田市原町田3-2-6 TMビル 1F,"居酒屋、おでん、郷土料理（その他）
+",-,,https://sakaba-sagara.com/,"￥2,000～￥2,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,338,あずきとこおり,東京都渋谷区代々木1-46-2 グランデュオ代々木 1F,"かき氷
+",-,火曜日、水曜日,https://azukitokouri.com/,"￥2,000～￥2,999","￥2,000～￥2,999",3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,339,ミニマル ザ ベイキング 代々木上原店,東京都渋谷区上原1-34-5 ,"チョコレート、ケーキ、カフェ
+",03-6407-8292,不定休（公式サイト・SNSにて告知）,https://mini-mal.tokyo/,"￥1,000～￥1,999","￥1,000～￥1,999",3.52
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,340,NIVAL,東京都世田谷区上北沢4-36-23 京王リトナード八幡山 1F,"カレー（その他）、バル・バール、弁当
+",-,月曜日,http://curry-stand.com,"￥5,000～￥5,999","￥1,000～￥1,999",3.44
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,341,めがね庵,東京都町田市原町田3-6-12 ,"居酒屋、おでん、かき氷
+",-,月曜定休日祝前日の場合は営業,,"￥4,000～￥4,999",～￥999,3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,342,YOTTERIA GAKU,東京都千代田区丸の内1-3 丸の内テラス 1F,"イタリアン
+",03-6810-0717,不定休,,"￥5,000～￥5,999","￥1,000～￥1,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,343,バスあいのりキッチン,東京都千代田区大手町1-1-1 大手町パークビルディング 2F,"カフェ
+",-,土曜・日曜・祝日,http://www.ainoribin.com/,-,"￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,344,日本一 町田東急ツインズイースト店,東京都町田市原田6-4-1 町田東急ツインズイースト 1F,"焼鳥
+",-,年中無休(1月1日のみ休み),,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,345,GOOD MORNING CAFE NOWADAYS,東京都新宿区大京町31-4 Brillia ist 千駄ヶ谷 1F,"カフェ、ハンバーガー、イタリアン
+",-,12/31、1/1お休みを頂きます,http://www.good-morning-cafe.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,346,磯丸水産 町田2号店,東京都町田市原町田6-15-9 シティシャインビル1F,"居酒屋
+",-,年中無休,https://isomaru.jp/,"￥2,000～￥2,999",～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,347,鮨一,東京都町田市森野6-396-1 ,"寿司
+",-,水曜日,,"￥4,000～￥4,999",-,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,348,焼肉ライク 町田北口店,東京都町田市森野1-39-18 ,"焼肉、定食・食堂、ホルモン
+",-,無休,https://yakiniku-like.com/,"￥1,000～￥1,999",～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,349,コメダ珈琲店 町田森野店,東京都町田市森野6-4-12 ,"コーヒー専門店、喫茶店、洋菓子（その他）
+",-,無休,http://www.komeda.co.jp/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,350,お米とお肉のお店 一源,神奈川県相模原市南区相模大野6-13-8 1F,"居酒屋、釜飯、イタリアン
+",-,不定休,https://ichigen-sagamiono.com,"￥3,000～￥3,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,351,焼肉 闘牛門,東京都町田市原町田4-12-4 ,"焼肉、韓国料理、居酒屋
+",042-850-8629,12/31・1/1,,"￥5,000～￥5,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,352,おひつごはん四六時中 相模大野店,神奈川県相模原市南区相模大野3-8-1 小田急相模大野ステーションスクエア A館 8F,"丼もの（その他）
+",-,不定休(小田急相模大野ステーションスクエアに準ずる),http://www.aeoneaheart.co.jp/index.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,353,ブラッスリーオザミ丸の内,東京都千代田区丸の内3-3-1 新東京ビル 1F,"ビストロ、フレンチ、ワインバー
+",03-6212-1566,月曜日(祝祭日の場合は変更になることがございます),https://auxamis.com/brasserie,"￥4,000～￥4,999","￥2,000～￥2,999",3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,354,Made in ピエール・エルメ 丸の内,東京都千代田区丸の内3-2-3 二重橋スクエア 1F,"カフェ、スイーツ（その他）、パン・サンドイッチ（その他）
+",-,無休,https://www.pierreherme.co.jp/ph/,"￥1,000～￥1,999","￥1,000～￥1,999",3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,355,Craft Beer Kitchen ARMY,東京都町田市原町田6-11-7 風月堂ビル 2F,"パブ、イタリアン、スポーツバー
+",042-794-7019,火曜日,,"￥3,000～￥3,999","￥2,000～￥2,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,356,シャンウェイ 本店,東京都渋谷区千駄ヶ谷4-29-12 北参道ダイヤモンドパレス 1F,"四川料理
+",-,日曜（その他、年末年始等）,http://shanway.jp/,"￥6,000～￥7,999",～￥999,3.53
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,357,PUBLIC HOUSE Yoyogi Uehara,東京都渋谷区西原3-11-8 GOOD EAT VILLAGE 1F,"カフェ
+",-,なし(年末年始を除く),https://www.cafecompany.co.jp/brands/publichouse/,"￥3,000～￥3,999","￥1,000～￥1,999",3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,358,EMMUSUBI,神奈川県相模原市南区相模大野6-15-28 シュバルブラン 102,"カフェ、喫茶店
+",-,火曜日,https://cafe-emmusubi.business.site,"￥1,000～￥1,999",～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,359,Restaurant Le repos,神奈川県相模原市南区相模大野6-15-28 シュバルブラン 1F,"フレンチ
+",-,水曜日・木曜日　祝日営業,,"￥5,000～￥5,999","￥3,000～￥3,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,360,フォレスティー コーヒー ウィズ ホクオウ 町田店,東京都町田市原町田6-12-20 小田急線町田駅,"パン、サンドイッチ、カフェ
+",-,無休,http://www.odakyu-restaurant.jp/shop/cafe/forestycoffee/machida.html,～￥999,～￥999,3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,361,Bonne qúela,東京都千代田区大手町1-9-2 大手町フィナンシャルシティ グランキューブ 1F,"ビストロ、フレンチ、モダンフレンチ
+",03-6225-2730,日曜・祝日年末年始定休　※貸切は応相談,http://bonnequela.tumblr.com/,"￥8,000～￥9,999","￥1,000～￥1,999",3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,362,アンドコーヒーメゾンカイザー Otemachi One店,東京都千代田区大手町1-2-1 OTEMACHI ONE AVENUE B1F,"カフェ
+",-,土曜日・日曜日・祝日,https://maisonkayser.jp/brands/and_coffee/1465/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,363,ホルモン道場,東京都町田市原町田4-6-3 ,"ホルモン
+",-,,,"￥5,000～￥5,999",-,3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,364,DEAN & DELUCA  CAFES 丸の内,東京都千代田区丸の内1-4-5 三菱UFJ信託銀行本店ビル 1F,"カフェ、デリカテッセン、パン
+",-,無休,http://www.deandeluca.co.jp/,"￥1,000～￥1,999",～￥999,3.31
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,365,デリツィオーゾ フィレンツェ,東京都千代田区丸の内1-5-1 新丸の内ビルディング 5F,"イタリアン、ピザ、パスタ
+",03-3211-8055,月曜日,https://delizioso-firenze.owst.jp,"￥6,000～￥7,999","￥2,000～￥2,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,366,ボンボニエール,東京都町田市野津田町3539-14 ,"ケーキ
+",-,水曜日以外,http://bonbonniere.org/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,367,Yomi Cafe,東京都千代田区大手町1-7-1 読売新聞ビル 1F,"カフェ
+",-,,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,368,茶房はるか,東京都町田市大蔵町377-1 ,"カフェ
+",-,,,-,"￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,369,タルイベーカリー,東京都渋谷区代々木4-5-13 レインボービル3 1F,"パン、サンドイッチ
+",-,月曜、日曜,,～￥999,～￥999,3.64
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,370,ビィーンズファーム,東京都町田市大蔵町468-6 ,"コーヒー専門店
+",-,月曜+不定休,,～￥999,～￥999,3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,371,キノシタ,東京都渋谷区代々木3-37-1 代々木エステートビル 1Ｆ,"フレンチ、ビストロ
+",-,月曜・年末年始,http://www.restaurant-kinoshita.com/,"￥10,000～￥14,999","￥2,000～￥2,999",3.75
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,372,麺場 田所商店 成瀬店,東京都町田市南成瀬5-1-1 ,"ラーメン
+",-,無休,http://www.misoya.net/top.html,～￥999,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,373,FLOTO,東京都渋谷区代々木4-12-6 Cala参宮橋 1F-A,"アイスクリーム、洋菓子（その他）、カフェ
+",-,水曜日、木曜日、不定休(SNSにて告知),,"￥1,000～￥1,999",～￥999,3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,374,赤レンガ個室ビストロ RENGARO 町田店,東京都町田市森野1-39-1 グランドゥールビル 5F-A,"居酒屋、肉バル、フレンチ
+",070-2636-5747,不定休※12月31日~1月3日は休業日となります。,,"￥4,000～￥4,999","￥2,000～￥2,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,375,そば処 笹や,東京都町田市金森2-21-35 ,"そば、うどん、天ぷら
+",-,木曜日、第3水曜日,,-,～￥999,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,376,かもめのイタリアン,東京都渋谷区千駄ヶ谷4-26-11 ,"イタリアン、ワインバー、パスタ
+",03-5413-7505,月曜日,http://cave-terroir.jp,"￥6,000～￥7,999","￥1,000～￥1,999",3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,377,居酒屋 さざん,東京都町田市高ヶ坂2-43-23 ,"居酒屋
+",042-785-5389,月曜、火曜、水曜、木曜,,"￥2,000～￥2,999",～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,378,そばの里 ときわ,東京都町田市小川1527-1 ,"そば、うどん
+",-,水曜日,http://www.ishimori-seifun.co.jp/shop/0509.htm,-,"￥1,000～￥1,999",3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,379,山ノ食堂,神奈川県相模原市南区相模台2-4-16 ,"定食・食堂
+",-,土曜日・日曜日他不定休要お店のインスタの確認,https://yamanoshokudo.wixsite.com/yamano,-,"￥2,000～￥2,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,380,香港厨房 風香園,東京都町田市原町田4-2-8 ワコービル B1F,"中華料理、中華粥、定食・食堂
+",-,年中無休,,"￥3,000～￥3,999",～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,381,ひものや 銀次 成瀬店,東京都町田市南成瀬1-8-12 中山ビル 2F,"居酒屋、魚介料理・海鮮料理、ラーメン
+",-,日曜日（月曜日が祝日の場合日曜営業）,https://ginji.owst.jp,"￥3,000～￥3,999",～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,382,きばらし,東京都町田市原町田6-15-16 コマヤビル 2F,"居酒屋、焼鳥、魚介料理・海鮮料理
+",-,日曜日,https://www.kibarashi.net/,"￥2,000～￥2,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,383,本格ナポリピッツァ ニューキッチンイロハ,東京都渋谷区千駄ヶ谷5-20-20 ほぼ新宿のれん街 り区画,"イタリアン、ピザ、居酒屋
+",03-3356-8226,不定休,,"￥3,000～￥3,999",-,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,384,とん久,東京都町田市木曽町1464-10 ,"とんかつ、かつ丼・かつ重、定食・食堂
+",-,火曜日,,-,"￥1,000～￥1,999",3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,385,パン屋 塩見,東京都渋谷区代々木3-9-5 ,"パン
+",-,"水曜・木曜・第1,3火曜",,-,"￥1,000～￥1,999",3.64
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,386,878,東京都町田市成瀬6-7-43-102 ,"カフェ
+",-,日曜日、祝日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,387,バー リバティーン,東京都町田市原町田4-5-19 ,"バー
+",-,水曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,388,メゾン ド ルル,神奈川県鎌倉市御成町2-9-1 ,"洋菓子（その他）、スイーツ（その他）、ケーキ
+",0467-81-5901,不定休12月の店休日は13(火)14(水)26(月)の予定です。変更があるかもしれません。,,-,～￥999,3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,389,Yasai no Kimochi,東京都渋谷区代々木1-38-6 ,"ジュースバー、カフェ
+",03-3320-3194,無休,https://yasaino.tokyo,-,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,390,トラットリア タンタボッカ,東京都渋谷区千駄ヶ谷4-5-1 ニュー外苑ハイツ 1F,"イタリアン、パスタ、ステーキ
+",-,月曜日　定休日(月曜日祝日の場合は翌日定休日）,https://selecao.co.jp/ourshops/,"￥8,000～￥9,999","￥1,000～￥1,999",3.73
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,391,山下本気うどん 町田駅前,東京都町田市原町田6-14-13 ,"うどん、天ぷら、和食（その他）
+",042-725-6886,なし,https://yamashita-honki-udon.com,～￥999,～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,392,ICON,東京都渋谷区代々木1-41-4 ,"ハンバーガー、カフェ、パン・サンドイッチ（その他）
+",-,月曜（※「胡椒屋」ランチ11:30-15:00で営業中！）,https://burger.tokyo/,"￥1,000～￥1,999","￥1,000～￥1,999",3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,393,埜庵,神奈川県藤沢市鵠沼海岸3-5-11 ,"かき氷
+",-,月曜・火曜（※10月～3月は不定休）,http://kohori-noan.com/,～￥999,"￥1,000～￥1,999",3.76
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,394,ヴァーヴコーヒーロースターズ 鎌倉雪ノ下店,神奈川県鎌倉市雪ノ下1-10-8 酒井ビル 1F,"コーヒー専門店、カフェ、スイーツ（その他）
+",-,不定休,https://vervecoffee.jp/,～￥999,"￥1,000～￥1,999",3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,395,ブレッドイットビー,神奈川県鎌倉市小町2-16-35 ,"パン
+",-,水曜日、第2木曜日,https://breaditbe.com/,-,～￥999,3.54
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,396,フードスタンド マガリ,神奈川県鎌倉市御成町9-34 コンフォールタカサキビル 1F,"カフェ
+",-,水曜日,https://www.fs-magali.com/?fbclid=IwAR2b0BkWleh5JQ58e_8wkM_uu4Z4iDC1vmh3oaAB1JRthmRYuqKFrq6EGpM,-,～￥999,3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,397,DADA,神奈川県鎌倉市雪ノ下1-11-2 雪ノ下ビル　１Ｆ,"ピザ、ワインバー、ビアバー
+",-,無休,,"￥4,000～￥4,999","￥2,000～￥2,999",3.61
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,398,ビーファクトリー,東京都町田市山崎町1877-1 ,"カフェ
+",-,不定休,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,399,オステリア ジョイア,神奈川県鎌倉市雪ノ下1-9-30 田中屋ビル 102,"イタリアン、野菜料理、創作料理
+",0467-24-6623,第2&3火曜日＆毎週水曜日（祝日の場合は翌日）,http://gioiakamakura.com/,"￥6,000～￥7,999","￥3,000～￥3,999",3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,400,THE GOOD GOODIES,神奈川県鎌倉市御成町10-1 ,"コーヒー専門店、カフェ、ケーキ
+",-,水曜日,https://thegoodgoodies.jp,～￥999,～￥999,3.54
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,401,タイム フライズ,東京都町田市木曽西3-23-10 ,"カフェ、洋食
+",-,日曜日,,-,"￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,402,タベルナッチャ,神奈川県鎌倉市雪ノ下1-5-10 1F,"イタリアン、パスタ、炭火焼き
+",-,"水曜日,不定休",,"￥5,000～￥5,999","￥1,000～￥1,999",3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,403,la boutique de yukinoshita kamakura,神奈川県鎌倉市小町2-12-25 ,"洋菓子（その他）、ケーキ、カフェ
+",-,不定休,https://yukinoshita.info/,-,～￥999,3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,404,みずき,東京都町田市本町田3486 ,"カフェ
+",-,,,"￥1,000～￥1,999",-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,405,サカモト,東京都町田市本町田3205-7 ,"パン、サンドイッチ
+",-,日曜日・第3月曜日,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,406,ベイサイドレストランカフェ モア,神奈川県横須賀市佐島3-7-4 佐島マリーナホテル,"フレンチ、ハンバーグ、魚介料理・海鮮料理
+",-,無休,,"￥4,000～￥4,999","￥2,000～￥2,999",3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,407,キノココチ ヨコハマ,神奈川県横浜市金沢区鳥浜町1-1 ブランチ横浜南部市場 1F,"カフェ、イタリアン、ハンバーグ
+",045-752-9646,不定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,408,森のcafe fu,東京都町田市大蔵町2927-1 ,"カフェ、ハンバーグ、洋食
+",-,,,-,"￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,409,森のテラスカフェ,神奈川県横浜市中区根岸台8 ,"カフェ、ドーナツ
+",-,,https://www.hama-midorinokyokai.or.jp/park/negishi/shop.php,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,410,まちパフェ すずらん,東京都町田市原町田4-10-18 MSM町田II3 2F,"パフェ、バー、カフェ
+",-,不定休,,"￥2,000～￥2,999",～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,411,ゼロツー ナシカンダール トーキョー,東京都千代田区大手町1-9-2 グランキューブ 1F,"アジア・エスニック料理（その他）
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.63
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,412,パニーニ一番,東京都渋谷区千駄ヶ谷1-21-3 ,"カフェ、パン
+",-,不定休,https://bread-espresso.jp/shop/panini1ban.html,～￥999,～￥999,3.56
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,413,6889cafe,東京都町田市南町田5-4-10 ALIVE　１F,"カフェ、バー・お酒（その他）、ラーメン
+",-,無休,http://www.6889cafe.com/,"￥1,000～￥1,999","￥4,000～￥4,999",3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,414,生はちみつ食パン ローズメイ 町田つくし野店,東京都町田市つくし野1-31-3 ,"パン
+",-,水曜日,,-,"￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,415,ティグテリア,東京都渋谷区千駄ヶ谷4-21-5 ,"創作料理、パン・サンドイッチ（その他）、スイーツ（その他）
+",-,月曜・日曜,http://www.bistro-konka.tokyo/,～￥999,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,416,フルーツサンド専門店 nico,東京都渋谷区千駄ヶ谷4-29-12 北参道ダイアモンドパレス 1F,"サンドイッチ
+",-,無休,,～￥999,～￥999,3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,417,おひつ膳 田んぼ 代々木本店,東京都渋谷区代々木1-41-9 DMK代々木ビル 1F,"和食（その他）、おにぎり、うなぎ
+",-,無休,http://tanbo.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,418,GOOD NEWS,東京都町田市つくし野1-22-32 ,"カフェ、パンケーキ、スープカレー
+",-,日・月,https://gospelcafe7.wixsite.com/website,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,419,和食処 けんけん,東京都町田市つくし野1-28-1 ,"懐石・会席料理、天ぷら、ふぐ
+",-,水曜,http://www.kenken-tsukushino.jp,"￥8,000～￥9,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,420,マミーズ キッチン おべんとう村,東京都町田市小川5-18-5 ,"弁当
+",-,日曜日、祝日,http://www.mami-kitchen.com/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,421,鳥良商店 ＪＲ町田駅ターミナル口店,東京都町田市原町田4-6-1 ksビル 1F 2F,"居酒屋、焼鳥、鳥料理
+",-,年中無休,https://toriyoshishoten.jp/,"￥3,000～￥3,999",～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,422,金子園 成瀬店,東京都町田市南成瀬1-2-1 成瀬駅前ハイツ 1F,"日本茶専門店
+",-,年中無休(1月1日のみ休み),,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,423,バートン,神奈川県相模原市南区東林間5-2-4 ,"カフェ、ケーキ、サンドイッチ
+",-,水曜日,,～￥999,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,424,純手打ち十割そば 蕎澤,神奈川県相模原市南区上鶴間2-17-19 ,"そば、豆腐料理・湯葉料理
+",-,不定休,,-,～￥999,3.63
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,425,パティスリー　ル・ソレイユ,東京都町田市鶴川6-7-1 103,"洋菓子（その他）
+",-,火曜日,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,426,つるかわキッチン ビーミングリー,東京都町田市鶴川3-18-29 マルナカハイツ 1F,"カフェ
+",-,日曜日・祝日,http://r.goope.jp/beamingly,"￥2,000～￥2,999","￥1,000～￥1,999",3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,427,夜もすがら骨董店,東京都町田市鶴川2-14-15 ,"喫茶店
+",-,日曜日(加えて不定休あり),,-,"￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,428,チャタイム AETA町田店,東京都町田市原町田6-9-8 AETA Machida 1F,"スイーツ（その他）
+",-,無休,https://chatime.jp/,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,429,アンテナアメリカ 東京店,東京都中央区八重洲2-1 八重洲地下街 B1F,"ビアバー、アメリカ料理、ハンバーガー
+",03-6262-1906,なし,,"￥1,000～￥1,999","￥1,000～￥1,999",3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,430,BRIANZA TOKYO,東京都千代田区大手町2-6-4 常盤橋タワー 2F,"イタリアン、パスタ、炭火焼き
+",03-6262-7862,11/21,http://www.la-brianza.com/,"￥5,000～￥5,999","￥2,000～￥2,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,431,HOPE STREET COFFEE,東京都町田市中町1-28-8 ,"カフェ
+",-,,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,432,カラスのカフェ,東京都町田市成瀬8-17-1 ,"カフェ
+",-,月曜日、水曜日、木曜日、金曜日、土曜日、日曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,433,ボン クール,東京都中央区日本橋室町4-3-12 バンセイ室町ビル 1F,"パン、カフェ、ケーキ
+",-,日曜日、祝日,http://www.bansei-gp.com/boncoeur/,-,～￥999,3.66
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,434,キュル・ド・サック,東京都中央区日本橋本石町4-4-16 ,"ビストロ、フレンチ、ワインバー
+",03-6214-3630,日曜日・祝(不定休)・土曜日(不定休),https://cul-de-sac.tokyo/,"￥6,000～￥7,999","￥1,000～￥1,999",3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,435,双方形,東京都町田市中町1-8-2 1F,"カフェ、バー
+",-,,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,436,しんぱち食堂 町田店,東京都町田市森野1-39-15 ロードビル 1F,"定食・食堂
+",042-732-3249,無休,https://www.shinpachi-shokudo.com/,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,437,スティッキーフィンガーズ,東京都町田市原町田4-15-11 ,"バー
+",-,火曜日,,"￥2,000～￥2,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,438,ティールーム　Rose,東京都千代田区大手町1-7-2 東京サンケイビル 2F,"喫茶店、パスタ、ケーキ
+",-,土曜・日曜・祝日,,-,～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,439,影千代,東京都千代田区鍛冶町2-13-5 1F,"もつ料理
+",-,,,-,～￥999,3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,440,スワンカフェアンドベーカリー 町田店,東京都町田市中町3-7-17 1F,"パン、チョコレート
+",-,土曜・日曜・祝日,https://www.swanbakery.co.jp/shopguide/machida.html,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,441,グッドサンド,東京都町田市原町田5-4-3 ,"サンドイッチ
+",-,月曜・火曜・土曜・日曜,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,442,カワッペリ商店,東京都町田市図師町626-7 ,"その他
+",-,水曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,443,カントリー,東京都町田市忠生2-29-5 ,"パン
+",-,木・金,https://panyasan.biz/,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,444,くき乃,東京都町田市森野3-18-17 WING森野 1F,"焼鳥、ラーメン、つけ麺
+",-,,,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,445,チャオベッラ,東京都町田市原町田4-4-2 昌興ビル B1F,"パスタ
+",-,火曜日,https://www.jack-pot.co.jp/brands/ciaobella-machida/,"￥1,000～￥1,999","￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,446,ヤマギシファーム 町田店,東京都町田市忠生2-29-5 ,"その他
+",-,木曜日、金曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,447,もつ煮の店 マボロシ,東京都町田市図師町1887-1 ,"もつ料理
+",-,月曜・火曜,,"￥1,000～￥1,999","￥1,000～￥1,999",3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,448,格安ビールと鉄鍋餃子 3・6・5酒場 町田駅前店,東京都町田市原町田6-3-11 ユニオンスクウェア 2F,"居酒屋、餃子、焼鳥
+",-,ビルに準ずる　※営業時間・メニュー内容は変更となる場合がございますので、詳細は店舗までお問合せください。,https://www.365sakaba.jp/,"￥1,000～￥1,999",～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,449,すし処緒多留,東京都町田市成瀬が丘2-4-1 ,"寿司、魚介料理・海鮮料理、かに
+",042-799-0378,月曜日,https://sumamoba.com/otaru,"￥3,000～￥3,999","￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,450,CHERUBIM CAFE,東京都町田市原町田6-17-19 ロクビル 1F,"カフェ
+",-,月曜日,http://www.cherubim.jp/,-,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,451,TENT CAFE,東京都町田市南成瀬1-2-1 成瀬駅前ハイツ2号棟 1F,"カフェ、喫茶店、洋菓子（その他）
+",-,月曜日、木曜日、金曜日、土曜日、日曜日,https://www.tent-naruse.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,452,鎌倉小川軒 町田小田急店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"ケーキ、洋菓子（その他）
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,453,一品香 町田店,東京都町田市原町田6-1-1 小田急マルシェ町田 2F,"中華料理
+",-,無休,http://www.ippinko.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,454,アサヒフーズ,東京都町田市中町2-6-14 ,"弁当、デリカテッセン
+",-,不定休,,"￥1,000～￥1,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,455,フィーコディンディア,神奈川県厚木市旭町1-24-16 ,"イタリアン、弁当、パスタ
+",046-265-0297,月曜日（祝日の場合は翌日）,,"￥5,000～￥5,999","￥1,000～￥1,999",3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,456,三軒目,東京都町田市森野1-13-22 リバーウエスト町田ビル 1F,"居酒屋
+",-,無休,,"￥1,000～￥1,999",～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,457,ラ・ビオラ,東京都町田市大蔵町5007-13 ,"パン
+",-,日・月・火,http://laviola-pan.com/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,458,えびせんべい 一色屋 町田店,東京都町田市高ヶ坂2-39-19 クリエールサン 1F,"せんべい
+",-,（土）(日)（火）（木）,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,459,ティーガーデン,神奈川県相模原市南区上鶴間本町9-8-38 ,"カフェ
+",-,月曜日、火曜日、水曜日、木曜日、金曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,460,マルノウチハップ スタンド アンド ギャラリー,東京都千代田区丸の内2-5-1 丸の内二丁目ビル 1F（仲通り側）,"カフェ、バー・お酒（その他）
+",-,無,http://marunouchi-happ.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,461,アラリヤランカ 新東京ビル店,東京都千代田区丸の内3-3-1 新東京ビル B1F,"スリランカ料理、弁当
+",-,土曜日、日曜日、祝日,,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,462,町田餃子商店,東京都町田市本町田2507-4 町田木曽団地名店街,"餃子
+",-,日曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,463,パティスリー・ジューンベリー,東京都町田市根岸2-1-7 ,"ケーキ、カフェ
+",-,月曜日・第2火曜日・第4火曜日,http://june-berry.net/,～￥999,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,464,La Pacchia,神奈川県相模原市南区東林間5-4-9 1F,"イタリアン
+",-,月曜（その他不定休有り）,http://www.lapacchia.net/,"￥3,000～￥3,999","￥1,000～￥1,999",3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,465,Kogasaka Bake PATISSERIE&BAKERY 鶴川店,東京都町田市鶴川能ヶ谷1-6-5 ,"パン、ケーキ、洋菓子（その他）
+",-,無休,https://www.kogasaka-bake.com/,-,"￥2,000～￥2,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,466,なまはげや,東京都町田市能ヶ谷1-3-3 近藤ビル 4F,"居酒屋、郷土料理（その他）、魚介料理・海鮮料理
+",-,火曜・水曜,,"￥2,000～￥2,999","￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,467,フォンテーヌ 町田市忠生工場直売所,東京都町田市忠生1-9-20 ,"パン
+",-,,,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,468,炭火串焼 栖 成瀬店,東京都町田市成瀬が丘2-25-1 きめたハウジング第11ビル 1F,"焼鳥、居酒屋、もつ鍋
+",042-850-5159,水曜定休(水曜祝日は営業、翌木曜休み),https://ameblo.jp/kushiyaki-sumika,"￥4,000～￥4,999",-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,469,HEARTY 町田店,東京都町田市木曽西2-13-8 ,"カフェ、カフェ・喫茶（その他）、バー
+",-,木曜日、31日,http://www.gshearty.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,470,Cafe レストラン ボンクール,東京都町田市根岸2-10-28 ,"洋食、洋食・欧風料理（その他）、カフェ
+",-,,https://ameblo.jp/bigban-aisu/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,471,パン工房 ほろほろ,東京都町田市本町田97 イ401,"パン
+",-,土日祝,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,472,Sunmelt,神奈川県川崎市麻生区岡上328-3 ,"カフェ
+",-,月曜日,,～￥999,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,473,鳥平ちゃん 町田中町店,東京都町田市中町1-16-14 太陽ビル 1F,"居酒屋、焼鳥
+",-,,,"￥2,000～￥2,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,474,Prima factory,東京都町田市原町田6-4-1 町田東急ツインズ EAST 1F,"ケーキ、どら焼き、洋菓子（その他）
+",-,,https://ecimg.tokyu-dept.co.jp/twins/floor/detail.html?shopcode=PRIMAFACTORY,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,475,日本酒ラボ,東京都町田市森野1-34-13 TMビル 2F,"居酒屋、日本酒バー、魚介料理・海鮮料理
+",042-850-8346,月曜日（月曜祝日の場合は翌日休み）,https://www.nihonshu-labo.com/,"￥2,000～￥2,999","￥3,000～￥3,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,476,Le Beurre Noisette TOKYO,東京都千代田区丸の内3-2-3 二重橋スクエア 1F,"フレンチ、ビストロ、ワインバー
+",03-6275-6007,不定休,http://www.lebeurrenoisettetokyo.com/,"￥8,000～￥9,999","￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,477,お食事処・居酒屋 清水,東京都町田市中町1-16-11 なかじまビル　３Ｆ,"和食（その他）、居酒屋
+",-,土曜日,,"￥4,000～￥4,999",-,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,478,Ron Herman Cafe 千駄ヶ谷店,東京都渋谷区千駄ヶ谷 2-11-1 サザビーリーグ 1F,"カフェ
+",03-3470-6839,不定休,http://ronherman.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,479,プロント 町田マルイ店,東京都町田市原町田6-1-6 町田マルイ 3F,"カフェ、バー
+",-,無休,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,480,ノーマライゼーション カフェ＆ビストロ,東京都町田市山崎町2200-3-19-105 ,"カフェ
+",-,無休,,～￥999,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,481,金子園 町田店,東京都町田市原町田6-10-2 ,"日本茶専門店
+",-,年中無休（1月1日のみ休み）,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,482,エシレ・パティスリー オ ブール 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"洋菓子（その他）
+",-,,https://www.kataoka.com/echire/patisserieaubeurre/yokohama/,～￥999,～￥999,3.54
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,483,浜名屋精肉店,東京都町田市本町田2507-7 ,"デリカテッセン
+",-,月曜日,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,484,町子 山崎店,東京都町田市山崎町2200 第3-17号棟 1F,"和菓子、大福
+",-,,,～￥999,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,485,#海南鶏飯食堂 CIAL横浜,神奈川県横浜市西区南幸1-1-1 CIAL横浜 B3F バル＆キッチン ハマチカ,"シンガポール料理、居酒屋、ダイニングバー
+",-,,,"￥1,000～￥1,999",～￥999,3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,486,パン工房シマ,東京都町田市山崎町1343-2 ,"パン、サンドイッチ、パン・サンドイッチ（その他）
+",-,月・日曜日,http://pankoboshima.com,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,487,讃岐うどん かいと,東京都町田市野津田町2413-1 ,"うどん、天ぷら、丼もの（その他）
+",-,年末年始（１２月３１日～１月３日）,http://www.udon-kaito.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,488,エスパーク カフェ シセイドウ パーラー,神奈川県横浜市西区高島1-2-11 ,"カフェ
+",-,日曜日,https://spark.shiseido.co.jp/cafe/,-,"￥1,000～￥1,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,489,ドトールコーヒーショップ 町田幸町通り店,東京都町田市原町田6-21-28 ,"コーヒー専門店
+",-,無休,,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,490,カフェガーデン　風見鶏,東京都町田市野津田町2193-2 ,"カフェ、ケーキ
+",-,,,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,491,フレンズ,東京都町田市南成瀬5-12 ,"レストラン（その他）
+",-,,,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,492,パティスリー アンカド,東京都町田市原町田3-6-12 ,"ケーキ、洋菓子（その他）、カフェ
+",042-851-7217,火曜日※場合によっては臨時休業がございますのでご了承ください,https://uncadeau.info/,～￥999,～￥999,3.62
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,493,ニューヤードケータリング,神奈川県横浜市西区みなとみらい4-4-2 横浜ブルーアベニュー 1F,"野菜料理、弁当
+",-,不定休,https://nyc.pwapp.jp/#/home,"￥1,000～￥1,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,494,THRASH ZONE,神奈川県横浜市神奈川区鶴屋町2-10-7 田村ビル 1Ｆ,"ビアバー、バー
+",-,無休（不定休）,http://www.beerdrinkinginternational.com/,"￥1,000～￥1,999",～￥999,3.59
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,495,デッラ クッチーナ 小田急百貨店 町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"デリカテッセン
+",-,不定休(小田急百貨店町田店に準じる),,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,496,MAISON ICHI 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"パン
+",-,横浜高島屋に準ずる,http://daikanyama-maisonichi.com/,～￥999,～￥999,3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,497,プティデリリウム タップ カフェ 新宿サザンテラス店,東京都渋谷区代々木2-2-1 新宿サザンテラス内 (新宿サザンテラス),"カフェ、イタリアン、居酒屋
+",03-6300-0807,１月1日　ビルに準ずる,http://www.deliriumcafe.jp/little/,"￥5,000～￥5,999","￥1,000～￥1,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,498,ドトールコーヒーショップ  町田ターミナル店,東京都町田市原町田3-1-4 ,"カフェ
+",-,無休,https://www.doutor.co.jp/,～￥999,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,499,TEgg.42 町田店,東京都町田市原町田4-2-3 ,"パン・サンドイッチ（その他）、カフェ
+",-,不定休,,～￥999,～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,500,LUKE'S LOBSTER 新宿サザンテラス店,東京都渋谷区代々木2-2-1 新宿サザンテラス 2F,"パン・サンドイッチ（その他）、カフェ・喫茶（その他）、シーフード
+",-,不定休,https://www.flavorworks.co.jp/brand/lukeslobster.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.44
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,501,GINGER GRASS modern thai vietnamese,東京都渋谷区代々木2-2-1 小田急サザンタワー 1F ,"タイ料理、ベトナム料理、ワインバー
+",-,なし,http://www.huge.co.jp/restaurant/modern-asian/gingergrass,"￥4,000～￥4,999","￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,502,焼き鳥 まる,東京都町田市玉川学園2-17-23 ,"焼鳥、鳥料理
+",-,不定休,,"￥2,000～￥2,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,503,トラットリア フランコ,神奈川県横浜市西区北幸2-4-10 大明ビル 1F,"イタリアン、パスタ
+",-,年中無休（夏季・冬季休暇を除く）,,"￥5,000～￥5,999","￥1,000～￥1,999",3.61
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,504,OSTERIA il FUOCO,神奈川県横浜市西区岡野1-16-14 ,"イタリアン、パスタ、炭火焼き
+",045-594-6380,年末年始と秋のイタリア研修中１０日間,https://www.fuoco.jp,"￥5,000～￥5,999","￥1,000～￥1,999",3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,505,ドトールコーヒーショップ 町田駅前店,東京都町田市原町田6-11-10 ,"カフェ、ケーキ、サンドイッチ
+",-,年中無休,http://www.doutor.co.jp/,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,506,ティールームファイン・エステート,東京都町田市玉川学園7-8-9 ,"喫茶店、紅茶専門店、カフェ
+",-,日曜日、祝日,http://www.asahi-net.or.jp/~vi8h-tjm/,"￥1,000～￥1,999","￥1,000～￥1,999",3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,507,TAP9 CIAL横浜,神奈川県横浜市西区南幸1-1-1 CIAL横浜 B3F,"ビアバー、バー、居酒屋
+",-,施設に準ずる,https://www.create-restaurants.co.jp/sp/tenpo/index.php?id=1986&mode=shop_show&lang=ja,"￥1,000～￥1,999","￥1,000～￥1,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,508,シュミネー,神奈川県横浜市西区戸部本町17-3 ,"フレンチ
+",-,日曜・水曜,http://www.cheminee.jp,"￥6,000～￥7,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,509,スターバックスコーヒー 日産グローバル本社ギャラリー店,神奈川県横浜市西区高島1-1-1 日産自動車グローバル本社 1F,"カフェ
+",-,不定休,http://www.nissan.co.jp/GALLERY/HQ/FLOORMAP/CAFE/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,510,Bamboo Beauty Cafe,東京都町田市森野1-9-18 プリマコスモ 2F,"ジュースバー
+",-,火曜・木曜・日曜,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,511,サラダイス 大手町パークビル店,東京都千代田区大手町1-1-1 大手町パークビル,"野菜料理、デリカテッセン
+",-,,http://www.saladice.jp/index.html,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,512,ドトールコーヒーショップ 町田中町店,東京都町田市中町1-1-4 ,"コーヒー専門店
+",-,,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,513,ぐりーんハウス,東京都町田市山崎町2200-3-17 山崎団地 1F,"その他
+",-,日曜日、不定休,,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,514,炭焼き＆WINE　利三郎,東京都千代田区内神田3-4-4 寿々木ビル1F,"ビストロ、ワインバー、フレンチ
+",03-5577-5923,土・日・祝祭日,http://endo-risaburou.com/index2.html,"￥4,000～￥4,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,515,実り菓子 栗のみ堂,東京都町田市金森3-4-1 ,"ケーキ、洋菓子（その他）
+",-,,https://minorikashikurinomi.com/,-,"￥1,000～￥1,999",3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,516,ティータイム,東京都千代田区内神田3-10-5 満留賀ビル 2F,"コーヒー専門店、カフェ、喫茶店
+",-,,,-,～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,517,農家料理 高宮,東京都町田市野津田800-2 ,"郷土料理（その他）、自然食
+",-,水曜日、木曜日,http://takamiya.la.coocan.jp,"￥4,000～￥4,999","￥2,000～￥2,999",3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,518,こがさかベイク,東京都町田市高ヶ坂5-12-1 ,"カフェ、ケーキ
+",-,無し,http://kogasaka-bake.com,-,"￥1,000～￥1,999",3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,519,焼菓子プラタナス,東京都町田市南つくし野4-8-1 ,"洋菓子（その他）
+",-,月曜日・水曜日・金曜日・日曜日,,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,520,らぱん,東京都町田市南つくし野3-4-2 久保田ビル,"パン
+",-,月曜日、火曜日、水曜日、金曜日、土曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,521,インド料理マラバル,東京都町田市南つくし野3-5-3 グランフォーレ 1F,"インドカレー、インド料理
+",-,第2水曜日,,-,"￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,522,michiru by plein UEHARA,東京都渋谷区上原1-29-5 BIT代々木上原 1F,"カレーライス、カレー（その他）、バル・バール
+",-,月・火,,"￥1,000～￥1,999","￥1,000～￥1,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,523,BAR Soulcocktail’s 町田店,東京都町田市原町田6-21-23 クボタビル　3F,"バー
+",-,火曜日,https://www.soulcocktail.com/machida/5/index.html,～￥999,-,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,524,黒ぶたや ルミネ町田店,東京都町田市原町田6-1-11 ルミネ町田店 9F,"とんかつ、居酒屋、豚しゃぶ
+",-,1/1,http://www.cardenas.co.jp/shop/kurobutaya/kurobutaya--lumine-machida-.html,"￥2,000～￥2,999","￥1,000～￥1,999",3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,525,そば処 満屋,東京都町田市高ヶ坂5-12-3 ,"そば、うどん
+",-,月曜日、不定休,http://members2.jcom.home.ne.jp/4664046801/hanbai%20hp/www.manya-soba.jp/yume_menu.html,-,～￥999,3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,526,ケポベーグルズ,東京都世田谷区上北沢4-16-13 ,"ベーグル、パン、サンドイッチ
+",-,定休日：月曜（祝日の場合は営業）　火曜,https://kepobagels.com,-,～￥999,3.52
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,527,チュッピン,東京都世田谷区上北沢3-18-12 ラヴェル上北沢 B1F,"イタリアン
+",-,日曜日、祝日,,-,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,528,タチアナ焙煎所,東京都杉並区下高井戸4-8-2 ,"カフェ
+",-,月曜,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,529,中華レストラン 品源,東京都町田市南成瀬5-1-7 中島ビル 1F,"中華料理、四川料理、餃子
+",-,火曜日,,"￥1,000～￥1,999",～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,530,ブレッツ カフェ クレープリー 新宿タカシマヤ店,東京都渋谷区千駄ヶ谷5-24-2 新宿タカシマヤ 13F,"カフェ、フレンチ、クレープ
+",03-5361-1335,不定休（新宿タカシマヤに準ずる）,http://www.le-bretagne.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.53
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,531,CRAFT TEA 大手町,東京都千代田区大手町1-2-1 temachi One B1F,"カフェ、居酒屋
+",-,土曜日・日曜日・祝日,https://otemachi.crafttea.cafe/,"￥3,000～￥3,999","￥1,000～￥1,999",3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,532,Pasha Kebab,東京都町田市森野1-22-1 都南ビル 1F,"トルコ料理
+",-,無休,https://pasha-kebabmachida.business.site/,～￥999,～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,533,BAKERY＆CAFE ブンブン,東京都町田市根岸2-19-4 ,"パン、サンドイッチ、カフェ
+",-,木曜日,https://bakerycafe-bunbun.com/,～￥999,～￥999,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,534,かっぽうぎ 大手町フィナンシャルシティ店,東京都千代田区大手町1-9-5 大手町フィナンシャルシティ ノースタワー B1F,"居酒屋、和食（その他）、串揚げ・串かつ
+",-,日曜日・祝日,http://www.kappougi.jp/,"￥2,000～￥2,999",～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,535,長峰製茶 町田根岸店,東京都町田市根岸1-13-19 ,"日本茶専門店、カフェ・喫茶（その他）
+",-,,http://item.rakuten.co.jp/nagamine/c/0000000105/,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,536,グッドタウンベイクハウス,東京都渋谷区渋谷区上原1-30-1 1F,"カフェ
+",-,無休,,"￥3,000～￥3,999","￥1,000～￥1,999",3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,537,シャーロックホームズ 町田街道店,東京都町田市根岸町144-1 ,"ハンバーグ、ステーキ
+",-,火曜日、月曜不定休（Twitterに記載あり）,,"￥2,000～￥2,999","￥1,000～￥1,999",3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,538,焼鳥の浜名屋,東京都町田市木曽東4-17-33 ,"焼鳥
+",-,月曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,539,こげちゃ家,東京都町田市南成瀬1-4-2 ,"コーヒー専門店
+",-,水曜日,https://kogechaya.com/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,540,え 町田なのに ネパール餃子酒場 そるてぃ,東京都町田市中町1-19-5 大貫ビル 1F,"ネパール料理、カレー（その他）、餃子
+",042-709-3808,なし,https://soalteemode.com/,"￥2,000～￥2,999",～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,541,町子 町田南店,東京都町田市原町田1-1-3 ,"和菓子、大福
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,542,結き,東京都町田市原町田4-5-18 仲見世商店街,"寿司、サンドイッチ、居酒屋
+",-,水曜日,http://sushi-arai.jp/yuki-index.html,"￥5,000～￥5,999",～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,543,yelo,東京都港区六本木5-2-11 パティオ六本木 1F,"かき氷、バー
+",-,,http://yelo.jp/,-,"￥1,000～￥1,999",3.67
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,544,グランドフードホール 六本木店,東京都港区六本木6-10-1 六本木ヒルズ ヒルサイド　B2F,"イタリアン、カフェ、スイーツ（その他）
+",-,月曜日,https://www.grand-food-hall.com,～￥999,"￥1,000～￥1,999",3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,545,ファラフェルブラザーズ 六本木店,東京都港区六本木5-1-10 カドガンビル 1F,"カフェ、野菜料理、ケーキ
+",-,日曜日,http://www.falafelbrothers.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,546,ダルマット 六本木ヒルズ店,東京都港区六本木6-10-1 六本木ヒルズ ウェストウォーク 5F,"イタリアン、パスタ、ケーキ
+",-,無休,http://www.dal-matto.com/,"￥8,000～￥9,999","￥4,000～￥4,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,547,匡,東京都町田市原町田6-11-7 第41東京ビル 2F,"ダイニングバー、バー
+",-,,,"￥4,000～￥4,999",-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,548,ベーカリーフジヤ,東京都町田市鶴川6-7-2-107 ,"パン、サンドイッチ
+",-,木曜日,http://www.turukawa.com/sub_009/,-,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,549,BrewDog Roppongi,東京都港区六本木5-3-2 斉藤ビル 1F,"ビアバー、ダイニングバー、西洋各国料理（その他）
+",-,無休,http://www.brewdogbar.jp/,"￥3,000～￥3,999",-,3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,550,ダウンステアーズコーヒー,東京都港区六本木7-3-10 ,"カフェ、パン・サンドイッチ（その他）、スイーツ（その他）
+",-,無休,https://www.mercedesme.jp/cafe_restaurant/,～￥999,～￥999,3.62
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,551,プラスハート カフェ 劇場,東京都町田市鶴川6-7-4-110 ,"カフェ・喫茶（その他）
+",-,,http://www.turukawa.com/sub_016/,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,552,佐藤商店,東京都町田市鶴川6-7-2 鶴川団地 1F,"コロッケ・フライ、焼鳥、デリカテッセン
+",-,木曜日,http://www.turukawa.com/sub_008/,"￥1,000～￥1,999",-,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,553,L3 oyatsu&cafe with Wine,神奈川県相模原市南区南台5-11-19 ペアナードオダサガ 2F,"ビストロ、パン、洋菓子（その他）
+",-,日曜日（その他に不定休あり）,https://www.l3oyatsu-cafe.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,554,ガンバdish,神奈川県座間市相模が丘5-15-45 ,"デリカテッセン、弁当
+",-,月曜日、火曜日、木曜日、土曜日、日曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,555,PAN COOK,神奈川県座間市相模が丘5-15-44 ,"パン
+",-,月曜日、日曜日,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,556,シウマイのタチバナ,神奈川県相模原市南区相南4-1-30 ,"飲茶・点心、弁当
+",-,水曜日,https://www.siomainotachibana.com/,～￥999,～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,557,cochi cafe,神奈川県座間市相模が丘5-9-25 ,"カフェ
+",-,,https://cochicafe.crayonsite.info/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,558,Ta-im 丸の内店,東京都千代田区丸の内3-2-3 丸の内二重橋ビル B1F,"地中海料理、西アジア料理（その他）、パン・サンドイッチ（その他）
+",03-6268-0985,日曜日,http://www.ta-im.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.44
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,559,Bar小峰,東京都町田市原町田4-11-4 WINGビル　２Ｆ,"バー、ワインバー、ダイニングバー
+",-,日曜、月曜,,"￥6,000～￥7,999",-,3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,560,ゴドノフ東京 丸の内店,東京都千代田区丸の内2-4-1 丸の内ビルディング 5F,"ロシア料理、ビストロ、洋食・欧風料理（その他）
+",03-5224-6558,無し。（ビルに準ずる）,https://www.zato.co.jp/restaurant/godunov/godunov_marunouch/,"￥6,000～￥7,999","￥1,000～￥1,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,561,ローズベーカリー 丸の内,東京都千代田区丸の内2-1-1 明治安田生命ビル 1F,"カフェ、パン、洋菓子（その他）
+",-,,,"￥1,000～￥1,999","￥1,000～￥1,999",3.68
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,562,WISE SONS TOKYO,東京都千代田区丸の内2-4-1 丸ビル B1F,"ベーグル、デリカテッセン、カフェ
+",-,丸ビルに準ずる,https://www.giraud.co.jp/wisesons/,"￥1,000～￥1,999",～￥999,3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,563,エシレ・メゾン デュ ブール,東京都千代田区丸の内2-6-1 丸の内ブリックスクエア 1F,"ケーキ、パン、アイスクリーム
+",-,定休日無し(1月1日および法定点検日を除く),https://www.kataoka.com/echire/maisondubeurre/,"￥3,000～￥3,999","￥3,000～￥3,999",3.87
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,564,ボンデセール 町田売店,東京都町田市森野1-4-17 西友町田店,"パン、サンドイッチ、パン・サンドイッチ（その他）
+",-,年中無休,http://www.ito-pan.co.jp/bakeryfc/bondessert/machida/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,565,モン・ペシェ・ミニョン,神奈川県鎌倉市雪ノ下4-3-17 ,"パン、サンドイッチ、カフェ
+",-,月曜日、第2第4火曜日(火曜祝日の場合週の変更あり),https://bigot-tokyo.co.jp/,-,～￥999,3.65
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,566,カールヴァーン デリカテッセン,神奈川県横浜市西区南幸1-6-31 横浜髙島屋 B1F,"地中海料理、西洋各国料理（その他）
+",-,横浜タカシマヤに準ずる,https://delicatessen.carvaan.jp/,-,"￥1,000～￥1,999",3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,567,ナトス そごう横浜店,神奈川県横浜市西区高島2-18-1 そごう横浜店 B2F,"デリカテッセン
+",-,無休,http://www.natori.co.jp/corporate/deli_shops.html,-,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,568,いただきますとごちそうさま,東京都町田市原町田4-6-12 ,"和食（その他）、割烹・小料理
+",-,水曜日,https://akr8117553700.owst.jp/,"￥5,000～￥5,999","￥4,000～￥4,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,569,張大夫 そごう横浜店,神奈川県横浜市西区高島2-18-1 そごう横浜店 B2F,"飲茶・点心、弁当、デリカテッセン
+",-,不定休(そごう横浜店に準ずる),,～￥999,-,3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,570,アンテナアメリカ 横浜店,神奈川県横浜市西区南幸1-5-1 新相鉄ビル(ジョイナス) B1F,"ビアバー、ハンバーガー、バー
+",045-548-8733,不定休(ジョイナスの休業日に準ずる),http://www.antenna-america.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.54
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,571,ガストロノミアヘリテージヨコハマ,神奈川県横浜市西区平沼1-37-15 モンテベルデ第2横浜 102,"イタリアン、パスタ
+",045-624-9443,毎週月曜日,https://www.gastronomiaheritage.jp/,"￥8,000～￥9,999","￥3,000～￥3,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,572,かるかん柿島,東京都町田市原町田6-19-9 ,"焼鳥
+",-,日曜日,,"￥4,000～￥4,999",-,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,573,トラヤあんスタンド 横浜店,神奈川県横浜市西区南幸1-1-1 NEWoMan横浜 2F,"カフェ、パン、甘味処
+",-,,https://www.toraya-group.co.jp/toraya-cafe/shops/yokohama/,～￥999,～￥999,3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,574,キルン そごう横浜店,神奈川県横浜市西区高島2-18-1 そごう横浜店,"デリカテッセン、パン
+",-,不定休(そごう横浜店に準ずる),http://edepart.omni7.jp/brand/000591,-,～￥999,3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,575,たいめいけん そごう横浜店,神奈川県横浜市西区高島2-18-1 そごう横浜店 B2F,"オムライス、ハヤシライス、カレーライス
+",-,不定休(そごう横浜店に準ずる),,-,"￥1,000～￥1,999",3.36
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,576,ほんのり燦,東京都町田市成瀬台1-6-27 ,"定食・食堂、カフェ、ケーキ
+",-,月曜日、木曜日、日曜日,,-,"￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,577,365日と日本橋,東京都中央区日本橋2-5-1 日本橋髙島屋 S.C.新館 1F,"パン
+",-,日本橋高島屋S.C.に準ずる,http://ultrakitchen.jp/,-,～￥999,3.72
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,578,TATA,東京都千代田区大手町2-6-4 TOKYO TORCH 常磐橋タワー 1F,"バル・バール、スペイン料理、メキシコ料理
+",03-6281-9974,TOKYOTORCHTerraceに準ずる,https://www.mothersgroup.jp/shop/tata_bar.html,"￥4,000～￥4,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,579,ばたこぱん,東京都町田市大蔵町5006-7 ソフィア鶴川 101,"パン
+",-,月曜日・火曜日,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,580,パリヤ 日本橋髙島屋S.C.店,東京都中央区日本橋2-5-1 日本橋髙島屋S.C. 新館 B1F,"カフェ、デリカテッセン、ケーキ
+",-,無休,http://pariya.jp/,-,"￥1,000～￥1,999",3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,581,伊勢角屋麦酒 八重洲店,東京都中央区八重洲1-4-16 東京建物八重洲ビル B1F,"ビアホール・ビアレストラン、ビアバー、居酒屋
+",03-3281-2300,日・祝日・年末年始12月29日～1月4日　店休,https://isekadoyabeer.jp,"￥3,000～￥3,999","￥1,000～￥1,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,582,焼肉 Meat it,東京都町田市原町田6-19-15 大星ビル 2F,"焼肉、ホルモン、鉄板焼き
+",042-710-5510,"12/31,1/1",https://meatit.owst.jp/,"￥6,000～￥7,999",-,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,583,ロワゾー・ブルー,東京都町田市能ヶ谷2-1-30 ヴェルデコート鶴川 102,"バー、紅茶専門店
+",-,日曜日（Teatimeは水・日が定休）,https://loiseaubleu.on.omisenomikata.jp/,"￥2,000～￥2,999",～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,584,カフェ ディライト,東京都町田市大蔵町 58-1 ル・カリエンテ 1F ,"カフェ
+",-,,,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,585,シャーロックホームズ 町田金井店,東京都町田市金井町2070-1 グリーンハイム 1F,"ハンバーグ、ステーキ
+",-,火曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,586,串カツ田中 町田駅前通り店,東京都町田市原町田4-2-14 ,"串揚げ・串かつ、居酒屋、うどん
+",-,不定休,https://kushi-tanaka.com/restaurant/detail/machidaekimaedori,"￥2,000～￥2,999",-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,587,Tea Therapy 絵舞遊,東京都町田市小川2-3-5 ,"カフェ、カフェ・喫茶（その他）、韓国料理
+",-,月曜日、日曜日,https://teatherapy-emaiyu.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,588,小料理Bar 白圭,東京都町田市中町1-18-14 きよかわビル 3F,"居酒屋
+",-,月曜日,,～￥999,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,589,AFURI 南町田グランベリーパーク,東京都町田市鶴間3-3-1 グランベリーパーク セントラルコート 1F,"ラーメン、つけ麺
+",-,施設に準ずる,,"￥1,000～￥1,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,590,コナ,東京都町田市つくし野1-28-1 ,"喫茶店
+",-,木曜日,,-,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,591,ブッツ サンドウィッチ,東京都千代田区丸の内1-9-1 JR東京駅 京葉ストリート 1F,"パン・サンドイッチ（その他）
+",-,,https://www.ecute.jp/keiyostreet/shop/1856,"￥1,000～￥1,999",～￥999,3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,592,ネパール雑貨と紅茶の店 Shantea,東京都町田市南町田4-31-13 ,"紅茶専門店、カフェ、カレー（その他）
+",-,,https://shanteajapan.com/,-,"￥2,000～￥2,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,593,カフェリシオ,東京都千代田区大手町1-9-5 大手町フィナンシャルシティ 4F,"カフェ・喫茶（その他）、カフェ、パン・サンドイッチ（その他）
+",-,土曜日・日曜日・祝日,http://www.dbj-r.jp/businesslibrary/services/#lv02-03,～￥999,-,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,594,APOLLON,東京都町田市中町1-17-4 町田中町第一ビル 1F,"バル・バール、イタリアン、ワインバー
+",042-851-7150,火曜日,,"￥3,000～￥3,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,595,ブーランジェリー ニコ,神奈川県横浜市緑区長津田町2919 ,"パン、カフェ、パン・サンドイッチ（その他）
+",-,火曜日,http://www.boulangerie-niko.com/,-,～￥999,3.53
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,596,銀座 篝 大手町店,東京都千代田区大手町1-9-2 大手町フィナンシャルシティグランキューブ B1F,"ラーメン、つけ麺
+",-,,,"￥1,000～￥1,999","￥1,000～￥1,999",3.56
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,597,焼鳥 鉄弖亭 相模大野店,神奈川県相模原市南区相模大野5-27-17 エミナンサガミ 1F,"焼鳥、居酒屋
+",-,,,"￥3,000～￥3,999",-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,598,マチダとろとろ生プリン,東京都町田市原町田4-4-16 ,"洋菓子（その他）
+",-,不定休,https://machipuri.com/,～￥999,～￥999,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,599,ル コルニュイエ,東京都町田市つくし野1-28-33 ,"カフェ
+",-,"月曜・金曜・日曜・第3,4,5土曜",,-,"￥1,000～￥1,999",3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,600,スピカ,東京都町田市成瀬が丘2-22-10 ,"喫茶店
+",-,,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,601,美味しい洋食と珈琲のお店 ホットライン,東京都町田市成瀬が丘2-23-7 ,"洋食、オムライス、ハンバーグ
+",-,日曜日・祝日,,"￥1,000～￥1,999",～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,602,サラダデリMARGO オーテモリ店,東京都千代田区大手町1-5-5 オーテモリ B2F,"デリカテッセン、野菜料理、自然食
+",-,日曜日・祝日・ＧＷ・年末年始,http://margo.co.jp,"￥1,000～￥1,999","￥1,000～￥1,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,603,東京ビアホール&ビアテラス14,東京都千代田区丸の内1-4-1 丸の内永楽ビルディング 2F,"ビアホール・ビアレストラン、イタリアン、和食（その他）
+",03-6269-9585,丸の内永楽ビルディング（iiyo!）に準ずる,http://www.tokyo14.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,604,蜀味軒,東京都町田市原町田6-11-17 2F,"四川料理、中華料理、居酒屋
+",042-729-5658,火曜日,https://syokumiken.owst.jp,"￥3,000～￥3,999","￥1,000～￥1,999",3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,605,つつおやつ アイシングクッキー,東京都町田市中町3-10-6 リーブルマンション,"洋菓子（その他）、スイーツ（その他）
+",-,,https://ameblo.jp/tsukasakky/,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,606,もとよし珈琲,東京都千代田区大手町1-7-2 ,"コーヒー専門店
+",-,土曜・日曜,,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,607,CREIL,東京都町田市つくし野1-28-6 ,"カフェ
+",-,,,-,"￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,608,The Ethical Spirits&Coffee,東京都千代田区大手町1-9-5 大手町フィナンシャルシティ ノースタワー 1F,"コーヒー専門店、バー・お酒（その他）
+",-,日曜日、祝日,,-,～￥999,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,609,CoCo都可 町田店,東京都町田市原6-8-1 レミィ町田 1F,"ジュースバー、カフェ・喫茶（その他）
+",-,不定休(レミィ町田に準ずる),,～￥999,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,610,焼き鳥・炙り炭焼き をどり 大手町店,東京都千代田区大手町1-9-2 大手町フィナンシャルシティ・グランキューブ B1F,"焼鳥、居酒屋、日本酒バー
+",03-3278-8577,日・祝,https://odori-otemachi.com/,"￥3,000～￥3,999",～￥999,3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,611,ラ・パティスリー by アマン東京,東京都千代田区大手町1-5-6 大手町タワー OOTEMORI B2F,"ケーキ、洋菓子（その他）、パン
+",-,日曜日,https://www.aman.com/ja-jp/hotels/aman-tokyo/dining/la-patisserie-aman-tokyo,-,～￥999,3.60
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,612,アットホーム バー＆ダイニング 町田店,東京都町田市原町田4-15-8 和多加ビル 2F,"バー、バー・お酒（その他）
+",-,火曜日,https://homemachida.owst.jp/,"￥3,000～￥3,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,613,いくどん 町田中央店,東京都町田市原町田6丁目21-14 ,"ホルモン、焼肉
+",-,,,～￥999,"￥2,000～￥2,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,614,ポポラマーマ バル 町田店,東京都町田市森野1-39-16 渋谷一樹ビル2階 ,"パスタ、イタリアン、カフェ
+",-,なし,http://www.popolamama.com/,"￥1,000～￥1,999",～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,615,キャトル 成瀬台店,東京都町田市成瀬台3-25-15 ,"ケーキ、カフェ
+",-,水曜日,http://www.quatre.co.jp/,-,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,616,パン工房 SORA,神奈川県横浜市緑区台村町317-1 ,"パン
+",-,,,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,617,菌カフェ753,神奈川県横浜市緑区中山町21-10 ,"カフェ
+",-,不定休※詳細は店舗までご連絡ください。,http://cafe753.wix.com/753cafe,-,"￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,618,トラットリア ダ・テレーサ,神奈川県横浜市緑区中山4-26-19 ,"イタリアン、パスタ、ピザ
+",-,月曜（祝日の場合は翌日火曜日）,http://www.teresa-it.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.62
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,619,OG SHOP,東京都町田市成瀬8-2-22 ,"コーヒー専門店、カフェ、洋菓子（その他）
+",-,月曜日、木曜日,https://ogshop.jp/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,620,レストラン富士,東京都町田市玉川学園2-11-22 ,"レストラン（その他）
+",-,火曜日,,-,"￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,621,うぃすかあ,東京都町田市玉川学園7-11-13 ,"カフェ、洋食
+",-,,,～￥999,-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,622,レストラン 梅林,東京都町田市本町田1157 ,"洋食、定食・食堂
+",-,月曜日,,"￥2,000～￥2,999",～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,623,正太楼,東京都町田市本町田3674 ,"中華料理
+",-,無休,,～￥999,～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,624,CITYSHOP 東京駅店,東京都千代田区丸の内1-9-1 JR東日本東京駅 1F,"野菜料理、サンドイッチ、うどん
+",-,無休,https://cityshop.flavorworks.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,625,オルケストラヴィーノ 大手町,東京都千代田区大手町1-9-5 大手町フィナンシャルシティノースタワー 1F,"イタリアン、ワインバー、ステーキ
+",03-6265-1550,日曜日・祝日,,"￥5,000～￥5,999","￥1,000～￥1,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,626,東京パニーノ アロマフレスカ,東京都千代田区丸の内1-9-1 グランスタ東京 1F,"イタリアン、パン、バル・バール
+",03-5218-8212,無休,https://www.tokyopanino.jp/,"￥1,000～￥1,999",～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,627,極蜜熟成焼き芋 陽,東京都町田市原町田6-6-14 町田ジョルナ 1F,"その他
+",-,無休,,～￥999,～￥999,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,628,東京ギョーザスタンド ウーロン,東京都千代田区丸の内1-9-1 グランスタ東京 B1F,"餃子、ビアバー、飲茶・点心
+",-,なし,https://www.tokyoinfo.com/shop/mall/gransta/tokyogyouzastand.html,"￥2,000～￥2,999","￥1,000～￥1,999",3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,629,カーリーズ クロワッサン トウキョウ ベイク スタンド,東京都千代田区丸の内1-9-1 グランスタ東京 B1F,"パン
+",-,無休,https://the-sbk.jp/curlys/,～￥999,～￥999,3.53
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,630,FANFARE,東京都町田市玉川学園1-21-17 FUKUYAMA店舗 1F,"カフェ、ケーキ
+",-,火曜日,https://fanfare2020325.wixsite.com/fanfare-1,"￥1,000～￥1,999",～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,631,ル ボークープ,東京都渋谷区上原3-10-3 蒼天ビル 1F,"フレンチ、洋食・欧風料理（その他）、ワインバー
+",03-5738-7952,インターネット予約のカレンダーの通りです。,http://www.le-beaucoup.com/,"￥10,000～￥14,999","￥5,000～￥5,999",3.70
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,632,馬さんの店 龍仙 本館,神奈川県横浜市中区山下町218-5 ,"上海料理、飲茶・点心、中華粥
+",-,無休,http://www.ma-fam.com,-,～￥999,3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,633,01 CAFE 町田,東京都町田市原町田6-7-3 ,"カフェ、喫茶店、パンケーキ
+",042-709-7688,12月31日は19時まで営業/元旦1月1日はお休みです。1月2日より通常通り営業しております。,https://www.zero-one-cafe.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,634,切り札 町田,東京都町田市中町1-15-9 AUビル 1F,"寿司、居酒屋
+",-,月曜日（日曜日はランチのみ営業）,,"￥4,000～￥4,999",-,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,635,Sushma Asianrestaurant&Bar,東京都町田市玉川学園7-5-3 磯部ビル 2F-A,"韓国料理、インドカレー、タイ料理
+",-,None,,"￥2,000～￥2,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,636,シガニー ベイク コーヒー,東京都渋谷区上原1-17-7 フレニティハウス 2F,"カフェ、サンドイッチ、洋菓子（その他）
+",-,水曜日、不定休,,"￥1,000～￥1,999",～￥999,3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,637,バー ミュージック,東京都町田市原町田6-25-2 山内ビル 2F,"バー
+",-,,,"￥2,000～￥2,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,638,クラフトチーズ&ピザ ロマーノ 三井アウトレットパーク 横浜ベイサイド店,神奈川県横浜市金沢区白帆5-2 三井アウトレットパーク 横浜ベイサイド,"パスタ、イタリアン、ピザ
+",-,三井アウトレットパーク横浜ベイサイドに準じる,https://www.createrestaurants.com/,-,"￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,639,そらとくもと 東京代々木上原,東京都渋谷区上原3-2-3 1F,"ベーグル
+",-,月曜～木曜,,-,～￥999,3.44
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,640,ラヴァーズロック 町田店,東京都町田市原町田4-1-7 三徳ビル2F,"イタリアン、ダイニングバー
+",042-860-7254,なし,http://lovers-rock.info/,"￥3,000～￥3,999","￥1,000～￥1,999",3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,641,バニラビーンズ ベイサイド,神奈川県横浜市金沢区白帆5-2 三井アウトレットパーク 横浜ベイサイド 1F,"チョコレート
+",-,無休（三井アウトレットパーク横浜ベイサイドに準ずる）,http://vanillabeans.yokohama/,"￥1,000～￥1,999","￥1,000～￥1,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,642,蛍,東京都町田市原町田6-25-2 ,"居酒屋
+",-,水曜日,,"￥4,000～￥4,999",-,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,643,リビング,神奈川県横浜市中区山下町24-7 シティコート山下公園 1F,"ビアバー、バー、パブ
+",-,日曜日,http://www.livingyokohama.com,"￥2,000～￥2,999",-,3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,644,ハマブレッド,神奈川県横浜市中区石川町1-14-13 ,"パン
+",-,水、日、祝他不定休あり(instagramに営業日カレンダーあり),,-,～￥999,3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,645,霜降りハンバーグとステーキの店 鉄重 町田店,東京都町田市原町田6-21-1 フレンドリービル２Ｆ,"ハンバーグ、イタリアン、居酒屋
+",-,毎週木曜日定休,http://www.tesshige.com,"￥3,000～￥3,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,646,えくらい,東京都町田市原町田3-3-3 ,"焼酎バー、居酒屋、焼鳥
+",-,無休,,"￥2,000～￥2,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,647,マンマパスタ 成瀬店,東京都町田市南成瀬1-25-11 ,"イタリアン、パスタ、ピザ
+",042-728-4168,あり,https://www.giraud.co.jp/mamma/,"￥2,000～￥2,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,648,ブローストア,東京都町田市南成瀬1-11-25 メール南成瀬 1F,"弁当
+",-,土曜日、日曜日、祝日,https://bro-store.jimdo.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,649,チャコールスタンド ベンテン,神奈川県横浜市中区弁天通2-30 OMT関内ビル 1F,"バル・バール、イタリアン、立ち飲み居酒屋・バー
+",045-263-9350,日曜日はお休みを頂きます。,,"￥2,000～￥2,999",-,3.53
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,650,CRAFT BEER DINING &9,神奈川県横浜市中区日本大通34 THE BAYS 1F,"カフェ、ビアバー、ダイニングバー
+",-,不定休,http://www.baystars.co.jp/thebays/floor1/,"￥2,000～￥2,999","￥1,000～￥1,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,651,RISTORANTE REGA,神奈川県横浜市中区石川町2-66-3 ルフェニックス 1Ｆ,"イタリアン、パスタ、フレンチ
+",-,月曜日（但し、祝日はランチより営業。）,http://ristorante-rega.net/,"￥8,000～￥9,999","￥3,000～￥3,999",3.65
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,652,N's Cafe,東京都町田市南成瀬1-2-1 成瀬駅前ハイツ2号棟 1F,"カフェ、定食・食堂
+",-,月曜日、火曜日、水曜日、木曜日、土曜日、日曜日,https://www.tent-naruse.com/xo_event/20211219ns-cafe/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,653,サンタハウス,東京都町田市木曽町2447-6 ,"パン、サンドイッチ
+",-,月曜日,http://homepage2.nifty.com/LeBois/santa/index.html,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,654,炭焼ハンバーグの店あらかると,東京都町田市忠生2丁目2-32 ,"ハンバーグ、ステーキ、鉄板焼き
+",-,毎週月曜日・火曜日※定休日が祭日の場合、前日に振替,http://sumiyakialacarte.web.fc2.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,655,33ギョーザ,東京都町田市忠生1-21-14 ,"餃子、ラーメン
+",-,火曜日（季節臨時休業有り）,http://33gyoza.com/,-,～￥999,3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,656,Stand Style おりーぶ,東京都町田市玉川学園2-8-21 ,"串揚げ・串かつ
+",-,,,"￥1,000～￥1,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,657,ル・シーニ,東京都町田市忠生1-28-10 河合マンション 1F,"パン
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,658,手づくり惣菜 たまくら,東京都町田市玉川学園2-8-21 ,"弁当、デリカテッセン
+",-,土曜日・日曜日,https://souzai-tamakura.jp/sp/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,659,町田スタジアム 野球な酒場 居酒屋,東京都町田市原町田4-6-5 2F,"居酒屋
+",-,月曜日,,"￥2,000～￥2,999",-,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,660,岡本飯店,東京都町田市玉川学園1-4-33 ,"餃子、中華料理
+",-,水曜日、第1・第3火曜日、不定休(ブログにて告知),https://blog.goo.ne.jp/okahan,"￥2,000～￥2,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,661,ヒュッテ キュッヒェ,東京都町田市野津田町3210-24 ,"カフェ、洋菓子（その他）
+",-,不定休,https://huttekuche.thebase.in/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,662,ダブルフォーアパートメント 薬師池店,東京都町田市本町田3105 ,"ダイニングバー、ソフトクリーム
+",-,無休,,-,"￥1,000～￥1,999",3.31
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,663,上海公司,東京都町田市成瀬5-12-14 ,"中華料理、肉まん・中華まん、レストラン（その他）
+",-,なし(不定期で休みを頂く場合がございます),,"￥2,000～￥2,999","￥1,000～￥1,999",3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,664,garden thymus 本店,東京都町田市原町田2-22-33 ,"カフェ、カフェ・喫茶（その他）、喫茶店
+",-,木曜日,http://www.garden-thymus.com/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,665,三好寿司 つくし野店,東京都町田市小川2-18-43 ,"寿司、魚介料理・海鮮料理
+",-,,,-,"￥1,000～￥1,999",3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,666,カトウファーム 直売所,東京都町田市相原町4418 ,"洋菓子（その他）
+",-,月曜日・火曜日・木曜日・日曜日,http://katouyoukei.gozaru.jp/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,667,三吉野,神奈川県大和市中央林間5-7-6 ,"和菓子
+",-,水曜日、不定休(SNS等にて告知),https://www.wagashi-miyoshino.com/,～￥999,～￥999,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,668,俊宣茶房,東京都町田市野津田町1599-6 ,"フレンチ、創作料理
+",-,毎週火曜日定休,https://syunsensabo.owst.jp/,-,"￥5,000～￥5,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,669,Jami Jami 森野店,東京都町田市森野1-34-18 ユニオンビル 1F,"ハンバーガー、カフェ、ダイニングバー
+",-,,,-,"￥1,000～￥1,999",3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,670,炭火焼きホルモン とんしん,東京都町田市森野1-35-4 TM5ビル 2F,"焼肉、ホルモン
+",-,日曜日,,"￥3,000～￥3,999",～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,671,パティスリー・フォルミダーブル,東京都町田市野津田町2543-5 ,"ケーキ
+",-,木曜日,http://ameblo.jp/formidable-blog/,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,672,やきとりの浜名屋,東京都町田市木曽団地八-13 ,"焼鳥、デリカテッセン、アイスクリーム
+",-,月曜日～木曜日,,-,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,673,スケッチブック,東京都町田市金井2-14-16 ,"喫茶店
+",-,月曜日(祝日の際は月曜日営業、翌火曜日休み),http://w02264756.blog.fc2.com,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,674,トレビノ・カフェ,東京都町田市金井2-8-17 ,"イタリアン、カフェ
+",-,,http://www.torabinocafe.com/,-,"￥1,000～￥1,999",3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,675,パティスリー クール＆ハート,東京都町田市金井5-19-17 グランデュール金井 101,"ケーキ
+",-,水曜日(臨時休業有り),http://www.coeur-and-heart.jp/,-,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,676,食堂カフェ daily,神奈川県大和市中央林間3-17-20 タックビルⅠ B1F,"カフェ
+",-,日曜日、月曜日、木曜日、祝日,https://www.cafe-daily2019.com/,-,"￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,677,Hal,神奈川県大和市中央林間3-5-14 ,"イタリアン、ダイニングバー
+",-,木曜日,,"￥3,000～￥3,999","￥1,000～￥1,999",3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,678,シャトレーゼ 町田金井店,東京都町田市金井2丁目38-6 ,"ケーキ、和菓子、アイスクリーム
+",-,年中無休,http://www.chateraise.co.jp/,-,"￥3,000～￥3,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,679,ミスタードーナツ 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク 1F,"ドーナツ
+",-,,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,680,スノー ピーク イート 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 ,"ダイニングバー、カフェ、パンケーキ
+",-,施設に準ずる,https://sbs.snowpeak.co.jp/minamimachida_eat,"￥2,000～￥2,999","￥1,000～￥1,999",3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,681,ザ シティ ベーカリー ニューヨーク グリル 南町田グランベリーパーク店,東京都町田市鶴間3-3-1 グランベリーパーク ステーションコート,"カフェ、パン、ファミレス
+",042-850-7073,1月1日　※12月31日は18時close(L.O.17時),https://www.adastria-ec.co.jp/,"￥3,000～￥3,999","￥2,000～￥2,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,682,喫茶ラ・ドロン,東京都町田市原町田4-9-8 ,"喫茶店
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,683,げんかや 町田店,東京都町田市原町田4-6-1 ,"焼肉
+",-,無休12月31日、1月1日のみ休業,http://www.genkaya.com,"￥2,000～￥2,999",-,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,684,カフェ・グレ,東京都町田市原町田4-2-9 トミービル　２Ｆ,"カフェ、コーヒー専門店、ケーキ
+",-,月曜日（月曜祝日の場合は翌火曜日）,,-,～￥999,3.52
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,685,イタリアンダイニングDONA 町田マルシェ店,東京都町田市原町田6-1-1 小田急町田マルシェ2F,"パスタ、ピザ、イタリアン
+",042-709-5931,不定休(小田急町田マルシェ休館日に準ずる),http://www.towafood-net.co.jp/spaghettiya/index.htm,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,686,済州キムチ,東京都町田市南成瀬2-32-29 ,"その他
+",-,火曜日水曜日,http://item.rakuten.co.jp/yuukiya0097/c/0000000536,～￥999,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,687,トロワアンジュ,神奈川県相模原市南区相模大野3-11-12 中央企業ビル２Ｆ,"コーヒー専門店、喫茶店
+",-,月曜,https://troisanges.net/,-,"￥1,000～￥1,999",3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,688,イタリア食堂 Fagotto,神奈川県相模原市南区相模大野6-19-8 ,"イタリアン、パスタ、創作料理
+",042-705-3690,月曜日及び火曜日のディナー,http://www.fagotto-sagamiono.com,"￥2,000～￥2,999","￥1,000～￥1,999",3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,689,自転車ピット&カフェ フォルトゥーナ,東京都町田市木曽東1-35-7 リバーサイド中里 1F,"カフェ、コーヒー専門店、パスタ
+",-,月曜日、木曜日,https://fortuna-bicycle-store.business.site,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,690,鶏笑 町田店,東京都町田市木曽東1-36-15 萬両ビル 1F,"からあげ、弁当
+",-,月曜日(祝日の場合は営業、翌火曜日が休み),,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,691,ロプチュー 玉川学園店,東京都町田市玉川学園1-22-20 ,"紅茶専門店
+",-,日曜日,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,692,ネスカフェスタンド 小田急町田店,東京都町田市原町田6-12-20 小田急線下りホーム,"コーヒー専門店
+",-,,,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,693,パン工房,東京都千代田区大手町2-6-2 JOB HUB SQUARE 1F,"パン、サンドイッチ
+",-,土曜日、日曜日、祝日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,694,Bar Espanol YEBRA,東京都千代田区大手町2-6-4 常盤橋タワー 1F,"スペイン料理、ワインバー、モダンスパニッシュ
+",03-6281-9025,不定休（ビルに準ずる）,https://bar-espanol-yebra.com/,"￥5,000～￥5,999","￥1,000～￥1,999",3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,695,王寿庵 町田店,神奈川県相模原市南区鵜野森1-24-9 お風呂の王様 町田店,"定食・食堂
+",-,無休,https://www.ousama2603.com/shop/machida/,～￥999,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,696,レスパス,東京都町田市玉川学園2-7-6 ,"イタリアン、ダイニングバー
+",-,水曜日,,-,"￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,697,花いちもんめ 玉川学園店,東京都町田市玉川学園7-8-1 レグルスビル1F,"ラーメン
+",-,,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,698,クラフト ビア マーケット TOKYO TORCH店,東京都千代田区大手町2-6-4 TOKYO TORCH 常盤橋タワー 1F,"ビアホール・ビアレストラン、ビアバー
+",-,元旦,https://www.craftbeermarket.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,699,四川担担麺 阿吽 キッテグランシェ店,東京都千代田区丸の内2-7-2 JPタワー KITTE丸の内 B1F,"担々麺、ラーメン
+",-,無休,,～￥999,～￥999,3.57
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,700,オーロール ボン・コッペ,東京都町田市成瀬台2-17-22 ,"パン
+",-,,,-,～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,701,PiPiCO CAFE,東京都町田市成瀬台2-17-28 ,"カフェ、ケーキ、喫茶店
+",-,水曜日、日曜日、不定休,https://pipicocafe.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,702,FRIJOLES 下北沢,東京都世田谷区代沢5-8-10 DELICIOUS FACTORY,"メキシコ料理、アメリカ料理
+",-,,https://frijoles.jp/,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,703,cafepri yume,東京都町田市森野1-34-13 TM-3ビル 2F,"カフェ
+",-,無休,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,704,カイソ,東京都世田谷区代沢5-6-15 ,"パン、ベーグル
+",-,月・火・水曜日、不定休,,～￥999,～￥999,3.73
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,705,シェ ミキ,東京都世田谷区北沢1-30-8 ,"パン、洋菓子（その他）
+",-,日月火水,http://chezmikki.theshop.jp/,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,706,ポッケラン,東京都町田市成瀬3-2-1 ,"ダイニングバー、カレーライス、ステーキ
+",-,,https://www.navida.ne.jp/snavi/100906_1.html,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,707,ごちとん OOTEMORI店,東京都千代田区大手町1-5-5 OOTEMORI B2F,"定食・食堂
+",-,,,"￥1,000～￥1,999",～￥999,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,708,66kitchen,東京都町田市成瀬2-15-4 ,"ジュースバー
+",-,不定休,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,709,ペペロッソ,東京都世田谷区代沢2-46-7 エクセル桃井 1F,"イタリアン、ワインバー、ダイニングバー
+",-,毎週月曜日と、不定期で月１回火曜日,https://www.peperosso.co.jp/,"￥10,000～￥14,999","￥8,000～￥9,999",3.74
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,710,Universal Bakes Nicome,東京都世田谷区北沢3-19-20 reload 2F,"パン
+",-,月曜日、火曜日,,-,"￥1,000～￥1,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,711,おいもや 蜜うさぎ,東京都町田市森野6-58-3 ,"スイーツ（その他）、洋菓子（その他）
+",-,月曜日,,-,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,712,俺のフレンチ グランメゾン 大手町,東京都千代田区大手町1-7-2 東京サンケイビル B2F,"フレンチ、モダンフレンチ、ビストロ
+",03-6262-5146,不定休,https://www.oreno.co.jp/restaurant/grandmaison_oreno_otemachi,"￥6,000～￥7,999","￥2,000～￥2,999",3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,713,米cafe,東京都町田市原町田6-29-4 寺田ビル 1F,"カフェ、パン
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,714,MARUNOUCHI BASE,東京都千代田区丸の内1-3-4 丸の内テラス 1F～2F,"ダイニングバー、イタリアン、居酒屋
+",03-5962-9885,無休　※諸般の事情により、定休日を変更させていただく事がございます。詳細はお電話にてお問合せくださいませ。,https://marunouchibase.dkdining.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,715,ディキシー デリ OOTEMORI店,東京都千代田区大手町1-5-5 大手町タワー B2F,"弁当、デリカテッセン、野菜料理
+",-,日・祝,http://cardenas.co.jp/,-,"￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,716,米家きゅうさん 町田境川店,東京都町田市木曽西1-2-29 ,"おにぎり、デリカテッセン、和菓子
+",-,無休(年末年始のみ),http://kyusan.com/,～￥999,～￥999,3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,717,だん鳥屋 本店,東京都町田市木曽西1-2-34 浅沼ビル 1F,"居酒屋、焼鳥
+",-,毎週火曜定休日,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,718,芋屋金次郎 日本橋店,東京都中央区日本橋室町2-3-1 コレド室町2 1F,"和菓子、アイスクリーム
+",-,基本的に無休（コレド室町２休館日に準ずる）年末年始休みあり,https://www.imokin.jp/sp/index.php,～￥999,～￥999,3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,719,玉川珈琲倶楽部,東京都町田市玉川学園2-7-13 ,"コーヒー専門店、カフェ、ケーキ
+",-,月曜日（祝・祭日の場合も休業）,http://www.tamagawacoffee.com/index.html,-,～￥999,3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,720,牛たん料理 長谷川,東京都町田市玉川学園1-22-16 ,"牛タン
+",-,月曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,721,代官山 Candy apple 町田マルイ店,東京都町田市原町田6-1-6 町田マルイ 2F,"スイーツ（その他）
+",-,,https://www.candy-apple.shop/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,722,BOUL'ANGE 日本橋店,東京都中央区日本橋室町1-5-5 コレド室町3 B1F,"パン、サンドイッチ、カフェ
+",-,不定休,http://boulange.baycrews.co.jp/,～￥999,～￥999,3.36
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,723,イル バーカロ アルマ,東京都中央区日本橋室町1-5-5 コレド室町3 1F,"イタリアン、カフェ、ワインバー
+",-,無休,http://classic-inc.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.44
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,724,カフェ・ピュール,東京都町田市木曽西4-23-10 ,"カフェ、コーヒー専門店、パン
+",-,火曜日、水曜日,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,725,インド料理専門店 ロイヤルインド 町田店,東京都町田市木曽西1-27-5 ,"インド料理
+",-,,http://royalindiarestaurant.jp/,"￥1,000～￥1,999",～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,726,創作イタリアンレストラン TAK BAR,神奈川県大和市中央林間3-10-8 川手ビル 101,"バル・バール、イタリアン、ダイニングバー
+",-,無し,,"￥3,000～￥3,999","￥1,000～￥1,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,727,イーマサラ,神奈川県大和市中央林間4-28-24 ,"インドカレー、ネパール料理、居酒屋
+",-,定休日なし(公式HPをご覧ください）,https://emasala.owst.jp/,"￥2,000～￥2,999",～￥999,3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,728,炉端 美藏,東京都町田市原町田6-15-11 十弐番館 3F,"ろばた焼き、居酒屋、魚介料理・海鮮料理
+",-,日曜日,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,729,焼肉ホルモン 神田商店 町田店,東京都町田市原町田6-21-18 アネックスビル 1F,"焼肉、ホルモン、居酒屋
+",042-710-1522,"月曜日(月曜日が祝日または祝前日の場合は翌日が定休日)12/31,1/1",,"￥2,000～￥2,999",-,3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,730,ベッケライ テューリンガー ヴァルト,東京都文京区湯島3-3-1 細海ビル 1F,"パン
+",-,,http://thueringerwald.blog.fc2.com/,-,"￥1,000～￥1,999",3.60
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,731,カフェ・ディ・フェスタ,東京都中央区日本橋室町2-1-2 日本橋三井タワー 千疋屋総本店 1F,"カフェ、アイスクリーム、洋食
+",-,無休,https://www.sembikiya.co.jp/shop-list/caffe-difesta,-,"￥1,000～￥1,999",3.59
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,732,ザ マンダリン オリエンタル グルメショップ,東京都中央区日本橋室町2-1-1 マンダリン オリエンタル 東京 1F,"ケーキ、チョコレート
+",-,無休,http://www.mandarinoriental.co.jp/tokyo/dining/gourmet_shop/,"￥1,000～￥1,999","￥1,000～￥1,999",3.75
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,733,酒場4,東京都町田市原町田4-5-18 町田仲見世商店街,"居酒屋、アジア・エスニック料理（その他）
+",-,木曜日,,～￥999,-,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,734,天ぷら新宿つな八 町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 9Ｆ,"天ぷら、魚介料理・海鮮料理、居酒屋
+",042-726-3445,不定休　（小田急百貨店に準ずる）,http://www.tunahachi.co.jp,"￥3,000～￥3,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,735,松月堂,岐阜県中津川市太田町2-5-29 ,"和菓子
+",-,,http://syogetsudo.jp/,-,"￥1,000～￥1,999",3.57
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,736,天下一品 町田店,東京都町田市原町田6-7-17 ,"ラーメン
+",-,元旦,https://www.tenkaippin.co.jp/,～￥999,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,737,旭鮨総本店 町田小田急スカイタウン店,東京都町田市原町田6-12-20 小田急百貨店町田店 9Ｆ,"寿司、魚介料理・海鮮料理、懐石・会席料理
+",-,無休,http://asahizushi.com,"￥4,000～￥4,999","￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,738,和とアジアンの店 知龍,東京都町田市金井8-17-10 ,"和食（その他）、ベトナム料理、アジア・エスニック料理（その他）
+",-,不定休,,"￥2,000～￥2,999",～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,739,mano cafe おやつ直売所,東京都町田市野津田町3210-43 ,"パン、洋菓子（その他）
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,740,Lunch iroha,東京都町田市中町3-7-21 ,"丼もの（その他）、カフェ
+",-,火曜日、水曜日、木曜日、金曜日、土曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,741,ハル ディン,東京都町田市金井町1736-1 ,"洋食・欧風料理（その他）、カフェ、レストラン（その他）
+",-,月曜日,,"￥2,000～￥2,999",-,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,742,ASAHI PAIN,神奈川県横浜市中区石川町3-108 1F,"パン
+",-,水曜日、木曜日,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,743,香港飲茶専門店 香港大飯店,神奈川県横浜市中区山下町146-6 ,"中華料理、バイキング、飲茶・点心
+",045-212-1818,年中無休,https://hongkong-daihanten.owst.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,744,フルーツサンド屋SUN 横浜店,神奈川県横浜市西区南幸1-5-1 新相鉄ビル ジョイナス B1F FOOD&TIME ISETAN,"サンドイッチ
+",-,,,-,～￥999,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,745,月島もんじゃ もへじ 横浜,神奈川県横浜市西区南幸1-13-2 東海屋ビル,"もんじゃ焼き、お好み焼き、居酒屋
+",-,無休,,"￥3,000～￥3,999",～￥999,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,746,ニホンの食卓 つくみ 小田急町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 9F,"和食（その他）、魚介料理・海鮮料理、定食・食堂
+",-,無休（施設に準ずる）,https://byo.co.jp/tsukumi/,"￥1,000～￥1,999","￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,747,旬花 町田小田急店,東京都町田市原町田6-12-20 小田急百貨店町田店 9Ｆ,"和食（その他）
+",-,不定休（小田急に準ずる）,http://www.newtokyo.co.jp/,"￥1,000～￥1,999","￥2,000～￥2,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,748,中国名菜　銀座アスター プティシーヌ町田,東京都町田市原町田6-12-20 小田急百貨店町田店 9F レストラン街スカイタウン,"中華料理
+",-,百貨店に準ずる,https://www.ginza-aster.co.jp/shops/10machida/,"￥6,000～￥7,999","￥3,000～￥3,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,749,オリーブの丘 町田木曽店,東京都町田市木曽西4-12-37 ,"イタリアン、ピザ、パスタ
+",-,無休,https://www.olivenooka.jp/,"￥1,000～￥1,999",～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,750,大衆ジンギスカン酒場ラムちゃん 町田店,東京都町田市原町田4-5-22 ,"居酒屋
+",042-860-6502,不定休,https://ramuchan.jp/machida/,"￥3,000～￥3,999",-,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,751,幸せのパンケーキ 町田店,東京都町田市原町田6-10-3 町田リンズパークビル 1F,"カフェ、パンケーキ、ケーキ
+",-,不定休,https://magia.tokyo/,"￥1,000～￥1,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,752,ショーグン バーガー 町田店,東京都町田市原町田6-11-14 菊甚ビル 1F,"ハンバーガー、ステーキ、カフェ
+",042-850-9338,年末年始休業あり,https://shogun-burger.com,"￥1,000～￥1,999","￥1,000～￥1,999",3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,753,LeBRESSO グランベリーパーク店,東京都町田市鶴間3-3-1 ,"パン
+",-,,http://lebresso.com/,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,754,ムキヤキッチン,東京都町田市小川6-29-17 すずかけ台ビル 1F,"インドカレー、インド料理
+",-,不定休,,～￥999,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,755,O-cafe,東京都町田市金森6-41-19 ,"カフェ
+",-,月曜日、木曜日、日曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,756,肉料理 やまなか,東京都町田市原町田3-2-7 岸間ビル B1F,"居酒屋、ビアホール・ビアレストラン、肉バル
+",042-723-3335,月曜日（年末12月31日~1月3日まで休み）,,"￥3,000～￥3,999",-,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,757,SUNNY,東京都町田市南成瀬5-1-20 ,"ハンバーガー、カフェ、オムライス
+",-,不定休,,"￥1,000～￥1,999",～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,758,イマジン,東京都町田市南成瀬1-8-12 中山ビル 2F,"喫茶店、洋食
+",-,,http://www.k4.dion.ne.jp/~imagine/,-,～￥999,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,759,小野路宿里山交流館,東京都町田市小野路町888-1 ,"カフェ・喫茶（その他）、うどん
+",-,年中無休(年末年始のみ休み),http://www.city.machida.tokyo.jp/kanko/miru_aso/satoyamakoryukan/index.html,-,～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,760,レストランラシェット,東京都町田市小野路町2193-4 ,"創作料理
+",-,火曜日(祝日の際は営業、翌水曜日休み)・第3水曜日(祝日の際は営業、翌木曜日休み),http://lassiette-machida.com/,"￥5,000～￥5,999",-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,761,Kitchenとまりぎ,東京都町田市小野路町892-1 ,"カフェ、洋菓子（その他）、カレーライス
+",-,不定休,https://yoridoko.com/tomarigi,-,"￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,762,炉暖,東京都町田市原町田6-20-10 中野屋ビル 2F,"魚介料理・海鮮料理、割烹・小料理、居酒屋
+",-,2月14～3月6日まで休業,,"￥5,000～￥5,999","￥1,000～￥1,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,763,Coco Base,東京都町田市原町田4-11-14 コロンブスビル 3F,"その他
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,764,大衆ホルモン 肉力屋 町田店,東京都町田市原町田6-11-15 トルテ・アダチBLDG 201,"焼肉、ホルモン、居酒屋
+",042-850-8529,なし,,"￥2,000～￥2,999","￥2,000～￥2,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,765,浜焼市場,東京都町田市中町1-18-3 かたのビル B1F,"居酒屋、魚介料理・海鮮料理、寿司
+",042-860-7744,無し,,"￥3,000～￥3,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,766,なごみ庵 恵,東京都町田市鶴間1358 ,"創作料理、洋食、懐石・会席料理
+",-,月曜日,,-,"￥1,000～￥1,999",3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,767,ルッキング グッド,東京都千代田区大手町1-9-2 大手町フィナンシャルシティ グランキューブ 1F,"サンドイッチ、バー
+",-,日曜日・祝日,http://lookinggood.jp/,"￥4,000～￥4,999","￥1,000～￥1,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,768,Soup Stock Tokyo 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパークギャザリングマーケット 1F,"スープ
+",-,,https://www.soup-stock-tokyo.com/store/detail/?id=1090,-,"￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,769,セット リップ 玉川学園店,東京都町田市玉川学園7-5-4 堀ビル 2F,"イタリアン
+",-,不定休,,-,"￥1,000～￥1,999",3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,770,無限茶,東京都町田市玉川学園7-8-3 MYプラザ102,"スイーツ（その他）
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,771,マグモグ,東京都町田市原町田6-11-12 ,"洋食、パブ、バー・お酒（その他）
+",-,日曜日,http://www.mugmog.com/,"￥1,000～￥1,999",-,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,772,金木犀,東京都町田市原町田1-2-10 第二丸町ビル 1F,"居酒屋
+",-,不定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,773,ミッケラー カンダ,東京都千代田区内神田3-21-2 ,"ハンバーガー、ビアバー
+",-,無休,,"￥1,000～￥1,999","￥2,000～￥2,999",3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,774,ステーキハウス KING'S,神奈川県大和市南林間1-11-12 1F,"ステーキ、ハンバーグ、焼肉
+",046-276-0249,年中無休※年末年始のみ店休,http://www.ziou.net,"￥1,000～￥1,999",～￥999,3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,775,01 CAFE SURF DINER 金井,東京都町田市金井8-21-17 ,"カフェ、ハンバーガー、喫茶店
+",042-860-5277,12月31日は19時までの営業/元旦1月1日はお休みです。1月2日より通常通り営業しております。,https://www.zero-one-cafe.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,776,マメゾン 鶴川店,東京都町田市金井ヶ丘4-47-14 ,"西洋各国料理（その他）、パスタ、洋食・欧風料理（その他）
+",042-736-6535,水曜日定休祭日の場合営業,https://mameison-machida.owst.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.36
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,777,ザ・ハミングスプーン,神奈川県大和市林間1-17-18 ,"カフェ
+",-,"水曜日・日曜日　季節休暇等は、Facebook,instagram,twitterでご案内しております。",http://thehummingspoon.jimdo.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,778,ラ・プラヤベーキングカンパニー,神奈川県大和市南林間2-10-2 ,"パン、サンドイッチ、ドーナツ
+",-,,,-,～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,779,ホームバー ニコワミ,東京都町田市原町田4-5-19 仲見世商店街内,"バー
+",-,,https://www.nikowami.com/,"￥3,000～￥3,999",-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,780,中華食堂 真心 町田中央店,東京都町田市原町田6-10-7 ,"中華料理、定食・食堂、ラーメン
+",-,,https://hidakaya.hiday.co.jp/hits/ja/shop/98/detail/564.html,～￥999,～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,781,Anch'io,神奈川県大和市西鶴間1-3-2 ,"イタリアン、パスタ
+",-,日曜,https://anchio.owst.jp,"￥3,000～￥3,999","￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,782,台湾屋台 慈福園,神奈川県大和市南林間1-7-9 ,"アジア・エスニック料理（その他）、台湾料理
+",-,火曜日,,～￥999,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,783,キングプラッター,東京都町田市森野1-34-18 ユニオンビル 1F,"弁当、アメリカ料理
+",-,,,-,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,784,おやつこころ,神奈川県相模原市南区相模大野7-40-7 USK相模大野 1F,"ケーキ、洋菓子（その他）
+",-,月曜日、日曜日,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,785,Atelier shin.,神奈川県相模原市南区東林間3-5-3 ヴィラ東林間 1F,"ケーキ、洋菓子（その他）
+",-,,https://ateliershin.thebase.in/,-,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,786,寺屋,神奈川県相模原市南区旭町24-31 ,"割烹・小料理、居酒屋
+",-,火・水,,"￥2,000～￥2,999",～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,787,喫茶室 凛,神奈川県相模原市南区旭町8-18 太洋ビル 1F,"喫茶店、洋食
+",-,火曜日・土曜日・日曜日・祝日,,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,788,sandwich and coffee me・me,神奈川県相模原市南区相模大野5-13-1 ,"サンドイッチ、コーヒー専門店
+",-,月曜日、日曜日,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,789,みそのベーカリー,神奈川県相模原市南区御園2-1-10 ,"パン
+",-,木曜日、日曜日,,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,790,山安 ブランチ横浜南部市場店,神奈川県横浜市金沢区鳥浜町1-1 ブランチ南部市場,"その他
+",-,ブランチ南部市場に準ずる,,～￥999,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,791,DRAGON酒家 本店,神奈川県横浜市西区北幸2-5-21 ７３ビル １F～２F,"中華料理、居酒屋、餃子
+",045-620-2781,※コロナウイルス感染症拡大により営業時間の変更がございます。詳細は店舗にお尋ねください。,http://www.dragonsyuka.com,"￥3,000～￥3,999",～￥999,3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,792,公民館喫茶,東京都町田市原町田6-8-1 町田センタービル 6F,"喫茶店、カフェ
+",-,毎週月曜日,http://fujifukushikai.or.jp/htdocs/customers/cafe/,～￥999,-,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,793,すし処半田,東京都町田市中町3-6-33 ,"寿司
+",-,月曜＆第２火曜日定休(但し、祝日の場合は営業します)　,http://www.ne.jp/asahi/sushi/handa/,-,"￥1,000～￥1,999",3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,794,まん天餃子 横浜店,神奈川県横浜市西区南幸1-4 ダイヤ・キッチン,"餃子
+",-,不定休,http://www.sotetsu-joinus.com/shop/1090,～￥999,～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,795,カルビ丼とスン豆腐専門店 韓丼 町田木曽店,東京都町田市木曽西4-36-4 ,"韓国料理
+",-,無休,http://kandon.jp/,～￥999,～￥999,3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,796,横浜 鉄板焼き Sublime,神奈川県横浜市西区南幸2-17-8 横浜トラストビル 7-C,"鉄板焼き、ステーキ、フレンチ
+",-,不定休,,"￥8,000～￥9,999","￥4,000～￥4,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,797,フロックス ローカル マーケット 台町店,神奈川県横浜市神奈川区台町6-5 ,"カフェ、ダイニングバー、バー
+",045-595-9589,火曜日、水曜日,http://www.phlox-market.com/,～￥999,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,798,SPONTINI FOOD&TIME ISETAN YOKOHAMA店,神奈川県横浜市西区南幸1-5-1 新相鉄ビル ジョイナス B1F,"ピザ、カフェ、イタリアン
+",-,施設定休日に準ずる,,"￥1,000～￥1,999","￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,799,ジロー珈琲 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク,"カフェ、カフェ・喫茶（その他）、サンドイッチ
+",-,不定休(※施設に準ずる),,～￥999,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,800,超純水採麺 天国屋,東京都町田市鶴間3-13-13 ,"ラーメン
+",-,水曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.72
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,801,鉄板焼きWAGYU LIVERARY,神奈川県横浜市神奈川区鶴屋町2-16-2 YT16ビル 5F,"鉄板焼き、ステーキ、魚介料理・海鮮料理
+",045-577-0471,不定休,,"￥8,000～￥9,999","￥8,000～￥9,999",3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,802,チョップスプーン ガパオキッチン シャル 横浜店,神奈川県横浜市西区南幸1-1-1 CIAL横浜 B2F,"タイ料理
+",-,シャル横浜に準じる,https://www.cial.co.jp/yokohama/floorguide/detail.php?store_id=35,～￥999,～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,803,レガーメ,東京都町田市原町田6-25-5 エリーゼ2ビル   1F,"ダイニングバー
+",-,月曜日,,"￥2,000～￥2,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,804,七輪炭火焼肉 味ん味ん 町田店,東京都町田市森野6-350-3 ,"焼肉
+",-,,https://www.y-minmin.com/,"￥2,000～￥2,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,805,独楽寿司 町田木曽店,東京都町田市木曽東1-49-16 ,"寿司、魚介料理・海鮮料理、回転寿司
+",-,,https://komasushi.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,806,焼肉ホルモン サンキュー 町田店,東京都町田市原町田4-5-9 仲見世商店街,"焼肉
+",-,,,"￥2,000～￥2,999",-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,807,トキドキ ソイ,東京都町田市原町田6-26-14 ,"餃子、からあげ、定食・食堂
+",-,月曜日、火曜日、水曜日、木曜日、金曜日、土曜日,,-,"￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,808,中華ダイニング 貫,東京都町田市原町田6-11-14 菊甚ビルB1F,"アジア・エスニック料理（その他）、中華料理
+",-,月曜日(日曜休みの場合有り）,,"￥3,000～￥3,999",～￥999,3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,809,酒処 やき善,東京都町田市原町田5-4-2 ルミナス 1F,"居酒屋、焼鳥、鳥料理
+",042-725-6060,月曜日,,"￥4,000～￥4,999",-,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,810,らぁ麺 胡心房,東京都町田市原町田4-1-1 太陽ビル 1F,"ラーメン、つけ麺
+",-,月曜日、第2・4火曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.71
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,811,しまどん,東京都町田市中町1-16-14 ,"立ち飲み居酒屋・バー
+",-,,,"￥1,000～￥1,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,812,鉄板 Here,東京都町田市原町田4-5-19 ,"鉄板焼き、居酒屋
+",-,水曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,813,喜DoI楽,東京都町田市森野1-10-9 サンシティ萩原ビル 1Ｆ,"居酒屋、創作料理、魚介料理・海鮮料理
+",-,日曜日,,"￥3,000～￥3,999",～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,814,ANT,東京都町田市金井町2496-5 ,"パン、パン・サンドイッチ（その他）
+",-,月曜日、木曜日、金曜日,https://sweetbakery-ant.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,815,カフェ ラ マッキナ,東京都町田市金井2-36-19 ,"クレープ、カフェ
+",-,月曜日、火曜日、水曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,816,ラララ　キッチン,東京都町田市金井2-7-5 アルカディアスクエア 1F,"カフェ
+",-,月曜日（祝日の場合は火曜日）,,-,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,817,立ち呑み屋,東京都町田市原町田6-14-7 ,"立ち飲み居酒屋・バー
+",-,無休,,"￥1,000～￥1,999",～￥999,3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,818,圡方精肉店,東京都町田市中町1-17-10 圡方ビル 1F,"その他
+",-,日曜日・祝日,,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,819,いとと色いろ,東京都町田市森野3-4-7 ,"カフェ
+",-,不定休,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,820,やっぱりステーキ 町田駅中央口店,東京都町田市原町田6-23-7 ,"ステーキ
+",-,水曜日,https://yapparigroup.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,821,大衆酒場 かね子 町田店,東京都町田市原町田6-11-15-1 トルテ・アダチビル 1F,"居酒屋、創作料理、焼きとん
+",042-794-7333,年末年始,,"￥2,000～￥2,999","￥2,000～￥2,999",3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,822,秀玉,東京都町田市つくし野1-22-1 ,"中華料理、台湾料理
+",-,,,-,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,823,イエンセン,東京都渋谷区元代々木町4-3 ,"パン、パン・サンドイッチ（その他）、ケーキ
+",-,日曜・祝日,,-,～￥999,3.71
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,824,Japanese Soba Noodles 蔦,東京都渋谷区西原3-2-4 フロンティア代々木上原 B1F,"ラーメン、つけ麺
+",-,木曜日(不定休あり)詳しくは公式HPの営業カレンダーを御覧下さい。,https://www.tsuta79.tokyo/,-,"￥1,000～￥1,999",3.88
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,825,ルヴァン 富ヶ谷店,東京都渋谷区富ケ谷2-43-13 ,"パン、パン・サンドイッチ（その他）
+",-,月曜日,http://levain317.jugem.jp/,-,～￥999,3.77
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,826,エンルート,神奈川県横浜市中区石川町1-18-2 花こビル 1F,"イタリアン、ピザ、カフェ
+",045-263-9392,月曜日（貸し切りや団体でのご予約をご希望の方はご相談ください）,,"￥3,000～￥3,999",～￥999,3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,827,プラチナフィッシュクラフト ビア バル アトレ川崎店,神奈川県川崎市川崎区駅前本町26-1 アトレ川崎 3F,"ビアバー、ビアホール・ビアレストラン、バル・バール
+",044-244-9000,アトレ川崎休館日に準ずる,http://platinumfish.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,828,NOBU Cafe アトレ川崎店,神奈川県川崎市川崎区駅前本町26-1 アトレ川崎  B1F,"パン、カフェ、アイスクリーム
+",-,アトレ川崎に準ずる,http://www.tomcare.com/,"￥1,000～￥1,999",～￥999,3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,829,鉄板焼katakago,神奈川県川崎市川崎区小川町13-20 高木ビル16 5F,"鉄板焼き、ステーキ、焼肉
+",044-589-3608,不定休,,"￥8,000～￥9,999","￥4,000～￥4,999",3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,830,アラビアン ケバブ,神奈川県川崎市川崎区小川町13-3 ,"トルコ料理、パン・サンドイッチ（その他）
+",-,,https://website-539723845163117867826-restaurant.business.site/?utm_source=gmb&utm_medium=referral,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,831,オー ト ウー,神奈川県横浜市中区元町1-54 リブレ元町 2F,"パン
+",-,月曜日、火曜日（祝日は営業）,,-,～￥999,3.53
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,832,リオス ボングスタイオ,神奈川県横浜市中区元町1-23-1 リバーサイド元町 1F,"イタリアン、パスタ
+",045-222-6101,日曜日と不定期で月曜日を月2回お休みいただいてます。,http://riosbuongustaio.ciao.jp/,"￥6,000～￥7,999","￥2,000～￥2,999",3.67
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,833,マーケットテラスカフェ,神奈川県横浜市中区石川町2-64 ,"カフェ、イタリアン、ビストロ
+",-,不定休,http://www.mtc-ishikawacho.net/,"￥2,000～￥2,999",～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,834,ARBOL,東京都千代田区神田淡路町2-23-7 ,"広東料理、中華料理
+",-,日曜日,https://www.cardenas.co.jp/shop/family/arbol-awajicho/,"￥8,000～￥9,999","￥1,000～￥1,999",3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,835,立呑み 晩杯屋 町田本店,東京都町田市原町田4-1-3 みすず町田ビル 1F,"立ち飲み居酒屋・バー、居酒屋、魚介料理・海鮮料理
+",-,無休,https://active-source.co.jp/area/machida/,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,836,一○八抹茶茶廊 御茶ノ水店,東京都千代田区神田駿河台4-3 お茶の水サンクレール B1F,"カフェ、たい焼き・大判焼き
+",-,不定休（お茶の水サンクレールに準ずる）,https://www.108matcha-saro.com/,～￥999,～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,837,サイアム ビービーキュー,東京都千代田区大手町1-9-7 大手町フィナンシャルシティ サウスタワー 1F,"タイ料理、タイカレー、居酒屋
+",03-3275-0850,年末年始・土曜日・日曜日・祝日,http://siamfoodinter.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,838,自家焙煎珈琲豆のヒルズ珈房,東京都町田市本町田3450-12 ,"コーヒー専門店、カフェ
+",-,木曜日,http://shop.hillscabo.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,839,テイクアブレイク,東京都千代田区大手町1-9-2 大手町フィナンシャルシティ グランキューブ B1F,"カフェ、サンドイッチ、弁当
+",-,土曜日・日曜日・祝日,http://www.takeabreak.jp/,-,～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,840,オルオルアイナ,東京都町田市大蔵町2790-1 ,"カフェ、ダイニングバー
+",042-708-9255,火曜日,http://www.oluolu-aina.com,"￥1,000～￥1,999","￥1,000～￥1,999",3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,841,焼鳥はつらいよ 町田パートⅡ店,東京都町田市南町田1-1-1 ,"居酒屋
+",-,月曜日(祝日は営業),,"￥2,000～￥2,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,842,きっちん たまて箱,東京都町田市小川6-7-6 ,"レストラン（その他）、和食（その他）
+",-,月曜日、日曜日、祝日,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,843,BUSO AGORA,東京都町田市原町田6-9-8 アエタ町田 4F,"その他
+",-,,https://www.incubation-office-agora.com/,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,844,bondolfi boncaffē みなとみらい,神奈川県横浜市西区みなとみらい3-7-2 ブランズタワーみなとみらい１F,"カフェ
+",-,不定休,,～￥999,～￥999,3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,845,J.S. PANCAKE CAFE 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク ギャザリングマーケット,"パンケーキ、カフェ
+",-,館の定休日に準ずる,,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,846,月島もんじゃ もへじ 町田,東京都町田市原町田6-21-30 ,"もんじゃ焼き、お好み焼き、居酒屋
+",-,無休,,"￥3,000～￥3,999",～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,847,KICHIRI misceo 町田,東京都町田市原町田6-9-8 AETA町田 3F,"ダイニングバー、居酒屋、イタリアン
+",042-726-7711,無し,http://www.kichiri.co.jp/,"￥3,000～￥3,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,848,GODIVA cafe Minatomirai,神奈川県横浜市西区みなとみらい2-3-4 みなとみらい東急スクエア ステーションコア B3F,"カフェ、チョコレート
+",-,,,"￥1,000～￥1,999",～￥999,3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,849,陳建一 麻婆豆腐店 みなとみらい店,神奈川県横浜市西区みなとみらい2-2-1 ランドマークプラザ 1F,"四川料理、担々麺、中華料理
+",045-222-5111,不定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,850,STRI 町田,東京都町田市原町田6-9-8 AETA町田 8F,"イタリアン、ピザ、カフェ
+",-,1月1日はお休み（他年1回不定休有）,https://www.stri-kw.com,"￥4,000～￥4,999","￥2,000～￥2,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,851,東北うまいもん郷土料理 個室居酒屋 奥羽本荘 町田店,東京都町田市原町田6-10-10 第35東京ビル 5F,"居酒屋、焼鳥、魚介料理・海鮮料理
+",-,年中無休,,"￥3,000～￥3,999","￥2,000～￥2,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,852,一ノ瀬珈琲,神奈川県相模原市南区上鶴間6-28-4 ,"コーヒー専門店、ピザ
+",-,水曜日、第一･第三木曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,853,ふくろふ森,神奈川県相模原市南区上鶴間5-5-12 ,"フレンチ
+",-,火曜・水曜,,-,"￥1,000～￥1,999",3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,854,お腹いっぱい 頂まっす。,東京都町田市南成瀬4-1-1 ベルフォーレ 1F,"居酒屋、魚介料理・海鮮料理
+",-,無休,,"￥2,000～￥2,999",-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,855,炭焼酒場 鳥KING,東京都町田市原町田6-17-2 ,"居酒屋、焼鳥、もつ鍋
+",042-707-6417,無休,,"￥2,000～￥2,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,856,いしかわや 町田店,東京都町田市原町田6-25-1 久米ビル,"焼鳥、鳥料理
+",-,無休,,～￥999,-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,857,Wine & Bar Chinon,東京都町田市原町田6-7-6 Ｓ－キューブ　２Ｆ,"バー
+",-,不定休,https://wine-bar-chinon.business.site/?m=true,"￥2,000～￥2,999",-,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,858,ポムの樹 町田モディ店,東京都町田市原町田6-2-6 町田モディ 9Ｆ,"オムライス
+",-,不定期,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,859,手造りハム・ソーセージ　独逸屋,東京都町田市成瀬台2-2-8 ,"レストラン（その他）
+",-,,http://www.doituya.com/ ,-,～￥999,3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,860,ボン ヌール,東京都町田市つくし野2-26-4 つくし野第3ビル 1-A,"カフェ、洋食
+",-,日曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,861,Mr.3℃ 町田店,東京都町田市中町1-1-4 町田北ビル 1F,"サンドイッチ
+",-,月曜日、火曜日、土曜日、日曜日、祝日,,～￥999,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,862,すし正,東京都町田市中町1-17-4 ,"寿司
+",-,水曜日・木曜日,,"￥6,000～￥7,999","￥1,000～￥1,999",3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,863,若柳,東京都町田市つくし野1-22-30 ,"和菓子
+",-,火曜,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,864,フレンチカフェ つくしのハレン,東京都町田市つくし野1-22-1 つくし野プラザ B102,"カフェ・喫茶（その他）、ビストロ
+",-,不定休,https://ha-ren.wixsite.com/h-ren/cafe-1,"￥2,000～￥2,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,865,ブレドール 葉山本店,神奈川県三浦郡葉山町一色657-1 ,"パン、カフェ、サンドイッチ
+",-,火曜日(祝日の場合営業)、不定休,http://www.bledore.jp/,～￥999,"￥1,000～￥1,999",3.65
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,866,しゃぶしゃぶ・日本料理 木曽路 町田店,東京都町田市中町2-19-5 ,"しゃぶしゃぶ、すき焼き、鍋（その他）
+",042-732-0005,年中無休（会社で指定された臨時休業あり）,http://www.kisoji.co.jp,"￥5,000～￥5,999","￥2,000～￥2,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,867,びっくりドンキー 町田旭町店,東京都町田市旭町1-4-2 ,"ハンバーグ
+",-,無休,https://www.bikkuri-donkey.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,868,Le Petit Courageux,神奈川県横浜市中区元町5-209 北村ビル　１F,"フレンチ、野菜料理、西洋各国料理（その他）
+",045-681-2665,月曜　祝日の場合翌火曜その他不定休をいただく場合がございます,https://lepetitcourageux.com/,"￥4,000～￥4,999","￥2,000～￥2,999",3.54
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,869,ボン スヴニール 横濱元町,神奈川県横浜市中区元町5-209 北村ビル 1F,"ケーキ、洋菓子（その他）、ソフトクリーム
+",-,水曜日、木曜日,,-,～￥999,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,870,やなか珈琲 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 ,"コーヒー専門店
+",-,無休,https://gbp.minamimachida-grandberrypark.com/floor/detail/?cd=000258,～￥999,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,871,NIKU YO-BI 町田店,東京都町田市原町田4-7-18 長岡ビル 1F,"焼肉、ホルモン、韓国料理
+",-,【年中無休】あなたのNIKUYO-BIは何曜日？A4以上の厳選したお肉を、お腹一杯になるまで楽しむなら【NIKUYO-BI】へ！大判のカルビやサムギョプサルなどの様々なお肉料理をご用意しております。,,"￥3,000～￥3,999",-,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,872,萬珍樓売店 中華街大通店,神奈川県横浜市中区山下町153 ,"肉まん・中華まん、中華菓子、中国茶専門店
+",-,無休,http://www.manchinro.com/,～￥999,～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,873,謝甜記 工場直売所,神奈川県横浜市中区山下町188-16 ,"中華粥
+",-,,http://www.shatenki-nigouten.co.jp/shop/Info,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,874,謝甜記 貮号店,神奈川県横浜市中区山下町189-9 上海路辰ビル 1F,"中華粥、中華料理、飲茶・点心
+",045-664-4305,2022年12月31日14:00ラストオーダー、2023年1月4日8:30営業再開,http://www.shatenki-nigouten.co.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.60
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,875,カオリズ,神奈川県横浜市中区元町3-141-8 2Ｆ,"カフェ、紅茶専門店、パン
+",-,無休,http://www.kaoris.com/,-,"￥1,000～￥1,999",3.52
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,876,大衆割烹 うたり,東京都町田市森野1-35-4 ,"焼鳥、居酒屋、魚介料理・海鮮料理
+",-,日曜日,,"￥2,000～￥2,999",-,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,877,QQ屋台屋,神奈川県横浜市中区山下町136-5 ,"肉まん・中華まん、かき氷
+",-,不定休,https://ousan-chimaki.com/,～￥999,～￥999,3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,878,頂好食品,神奈川県横浜市中区山下町137 ,"肉まん・中華まん、中華菓子、中華料理
+",-,不定休,,"￥5,000～￥5,999",～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,879,聚楽,神奈川県横浜市中区山下町143 ,"中華菓子、肉まん・中華まん
+",-,火曜日,http://www.chinatown.or.jp/shop/%E8%81%9A%E6%A5%BD/,～￥999,～￥999,3.67
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,880,VIRON 丸の内店,東京都千代田区丸の内2-7-3 東京ビルTOKIA 1F,"パン、ケーキ、カフェ
+",-,不定休（東京ビルTOKIAに準ずる）,,"￥1,000～￥1,999",-,3.80
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,881,ラプチフロマージェリー～小さなチーズの店～,神奈川県川崎市川崎区小川町4-1 ラチッタデッラ 1F,"バル・バール、イタリアン、カフェ
+",044-589-3977,不定休,http://lacittadella.co.jp/shop/detail/fromagerie/,"￥3,000～￥3,999","￥1,000～￥1,999",3.39
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,882,川崎 鉄板 ステーキ 神戸亭,神奈川県川崎市川崎区砂子2-6-8 YK-9ビル 8F-B,"ステーキ、鉄板焼き、シーフード
+",044-589-8809,不定休,,"￥8,000～￥9,999","￥3,000～￥3,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,883,ブルディガラ スタンド JPタワーKITTE店,東京都千代田区丸の内2-7-2 KITTE 1F,"カフェ、パン
+",-,年中無休,http://www.burdigala.co.jp/,～￥999,～￥999,3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,884,GARB Tokyo,東京都千代田区丸の内2-2-3 丸の内仲通りビル　１Ｆ,"イタリアン、ワインバー、ビストロ
+",-,無休,http://www.garb.jp/,"￥4,000～￥4,999","￥1,000～￥1,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,885,CiRCULO 丸の内,東京都千代田区丸の内1-4-5 三菱UFJ信託銀行本店ビル B1F,"スペイン料理、フレンチ、ビストロ
+",-,日曜日,http://whaves.co.jp/restaurant/moncirculo-marunouchi/,"￥6,000～￥7,999","￥1,000～￥1,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,886,みんなのぱんや,東京都千代田区丸の内2-7-3 東京ビルTOKIA B1F,"パン、サンドイッチ、デリカテッセン
+",-,無休,,～￥999,～￥999,3.70
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,887,マロン,東京都町田市つくし野4丁目33-26 ,"ケーキ
+",-,月曜日（祝日の場合は翌日の火曜日）、第3火曜日,http://tsukushino-marron.jp,-,～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,888,つくしのローズガーデン,東京都町田市つくし野2-28-11 ,"カフェ、ハンバーガー、スープカレー
+",-,月曜、火曜,https://www.staranise.jp,-,"￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,889,yabin 成瀬駅前店,東京都町田市成瀬が丘2-23-11 ワコービル成瀬1F,"インドカレー、居酒屋、タイ料理
+",-,年末年始のみ,,～￥999,～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,890,からあげtotosen compact43,東京都町田市成瀬が丘2-25-14 きめたハウジングビルNO.1,"からあげ、弁当、デリカテッセン
+",-,,https://www.bigyosun.com/info/2967,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,891,ブールミッシュ 町田小田急店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1Ｆ,"ケーキ
+",-,小田急百貨店町田店に準ずる,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,892,ベトナムカフェ aLo aLo,神奈川県大和市大和南1-15-6 ,"ベトナム料理、カフェ・喫茶（その他）、パン・サンドイッチ（その他）
+",-,水曜日,https://aloalo8686.wixsite.com/aloaloyamato,"￥1,000～￥1,999",～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,893,菓匠 紅照,東京都町田市つくし野3-21-17 ,"和菓子
+",-,,,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,894,創作うどん ひかり,東京都町田市原町田4-22-18 小松ビル 1F,"うどん
+",-,水曜日,,"￥1,000～￥1,999",～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,895,太平閣 町田小田急店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"肉まん・中華まん、中華菓子
+",-,無休※小田急百貨店町田店に準ずる,http://www.taiheikaku.com/,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,896,YAKINIKU 和牛焼肉LAB 大和店,神奈川県大和市大和南1-2-12 太陽ビル 3F,"焼肉、居酒屋、ホルモン
+",-,不定休,,"￥3,000～￥3,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,897,ジャック＆マリー グランベリーパーク南町田店,東京都町田市鶴間3-4-1 グランベリーパーク 1F,"カフェ
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,898,エル ペスカドール,東京都町田市つくし野4-33-15 ,"スペイン料理
+",-,不定休,,-,"￥1,000～￥1,999",3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,899,SOY'S KITCHEN,東京都町田市成瀬が丘2-4-1 ,"スイーツ（その他）、ドーナツ、豆腐料理・湯葉料理
+",-,水曜日、第２火曜日,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,900,炭火焼肉 牛爵 町田,東京都町田市原町田6-13-17 アーバンミサワビル 2F,"焼肉
+",042-785-5187,年中無休,,"￥3,000～￥3,999","￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,901,純手打ちうどん 町田タロー庵,東京都町田市原町田3-8-23 ,"うどん、郷土料理（その他）、おでん
+",-,不定休火曜日,http://taro-an.jimdofree.com/,"￥2,000～￥2,999",～￥999,3.36
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,902,サイユウキッチン,東京都町田市成瀬7-1-6 ,"中華料理、カフェ、バー
+",-,月曜日（不定休の場合あり）,https://www.sai-saiyuki.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,903,山桜の里リヨン,東京都町田市成瀬1-2-7 松村ビル,"パン・サンドイッチ（その他）
+",-,月曜日,,-,～￥999,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,904,中野屋れすとらん,東京都町田市原町田4-11-6 中野屋新館 1F,"カフェ、洋食
+",-,水曜日,,-,～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,905,ねこねこ食パン 町田店,東京都町田市原町田4-1-11 大塚プラザビル 1F ハートブレッドアンティーク内,"パン
+",-,無休,https://nekoshoku.jp,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,906,先手家 吉祥寺,東京都武蔵野市吉祥寺本町1-8-14 マルコポーロビル 1F,"サンドイッチ
+",-,不定休,,～￥999,～￥999,3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,907,真正博多家系ラーメン 松本家,東京都町田市原町田4-5-7 ,"ラーメン、定食・食堂、からあげ
+",-,なし,,～￥999,～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,908,Boulangerie de singes,東京都町田市金森東4-2-24 第1コーポオオヌキ 1F,"パン
+",-,月曜日、日曜日、祝日,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,909,Lea sandwich,東京都町田市中町2-5-7 ,"サンドイッチ
+",-,不定休　事前にInstagram、Facebookでお知らせします。,,-,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,910,グラバー亭,東京都町田市木曽町280 ,"ちゃんぽん、ラーメン、中華料理
+",-,月曜日,,-,～￥999,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,911,晩杯屋 町田109店,東京都町田市原町田6-8-1 109MACHIDA 1F,"立ち飲み居酒屋・バー
+",-,,,～￥999,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,912,鶴屋八幡 小田急百貨店町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"和菓子
+",-,,https://www.tsuruyahachiman.co.jp/,"￥1,000～￥1,999",～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,913,つづらお 町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 9Ｆ,"そば、天ぷら、天丼・天重
+",-,不定休（小田急に準ずる）,https://www.odakyu-restaurant.jp/shop/tsudurao/machida.html,"￥2,000～￥2,999","￥1,000～￥1,999",3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,914,おぼんdeごはん ルミネ町田店,東京都町田市原町田6-1-11 ルミネ町田 9F,"定食・食堂
+",-,無休(ルミネ町田に準ずる),http://obon-de-gohan.com/index.php,"￥1,000～￥1,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,915,NAMASTE NANGHAR,東京都町田市西成瀬1-49-1 1F,"インドカレー
+",-,,,"￥1,000～￥1,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,916,ルーシーズベーカリー,神奈川県横浜市青葉区つつじヶ丘11-1 ,"アメリカ料理、カフェ、スイーツ（その他）
+",-,年末年始のみ,http://www.lucysbakery.net/,"￥1,000～￥1,999","￥1,000～￥1,999",3.32
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,917,ミュージックカフェバー BIRD,東京都町田市森野1-34-13 TMビル3 1F,"バー、カフェ
+",-,日曜日、月曜日,https://machida-bird.com/,-,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,918,宮越屋珈琲 町田店,東京都町田市原町田6-11-6 ,"喫茶店、コーヒー専門店、カフェ
+",-,不定休,http://www.miyakoshiya-coffee.co.jp/jp/,-,"￥1,000～￥1,999",3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,919,kuma,神奈川県横浜市青葉区つつじが丘10-21 ,"パン
+",-,日曜日、不定休(SNSにて告知),https://ameblo.jp/manapankumapan/,-,～￥999,3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,920,いまがわ食堂 青葉台店,神奈川県横浜市青葉区青葉台1-14-1 第二青葉台ビル 1F-B,"魚介料理・海鮮料理、居酒屋、定食・食堂
+",045-482-6672,2023年度｜1/1(日)、2(月)休業,https://www.imagawashoten.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,921,アフタヌーンティー・ティールーム 町田東急ツインズ店,東京都町田市原町田6-4-1 町田東急ツインズ ウエスト　3F,"カフェ
+",-,無休,http://www.afternoon-tea.net/,-,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,922,waffle shuffle,神奈川県相模原市南区相模大野3-19-15 ,"カフェ、洋菓子（その他）
+",-,不定休,,-,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,923,ベトナム料理専門店 サイゴン キムタン 川崎本店,神奈川県川崎市川崎区東田町4-7 フロムKビル 1F,"ベトナム料理、タイ料理、東南アジア料理（その他）
+",044-245-1272,不定休,http://ggyao.usen.com/0003022484/ ,"￥2,000～￥2,999",～￥999,3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,924,インターナショナル キュイジーヌ サブゼロ,神奈川県横浜市中区海岸通1-1 大桟橋客船ターミナル2F,"イタリアン、フレンチ、パスタ
+",045-662-1099,無し　(年末年始12月31日～1月3日)　,http://www.y-subzero.com,"￥10,000～￥14,999","￥4,000～￥4,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,925,このカフェ半端ないって!,神奈川県相模原市緑区橋本2-17-21 AYAビル 1F,"カフェ、サンドイッチ、パン
+",-,月曜日,http://korehanpanaitte-cafe.com/,～￥999,～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,926,和キッチンかんな アリオ橋本店,神奈川県相模原市緑区大山町1-22 アリオ橋本 1F,"かき氷
+",-,不定休(アリオ橋本店に準ずる),https://kanna-kakigori.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,927,川崎 鮨 栞庵 やましろ,神奈川県川崎市川崎区小川町2-11 イノクマビル Ｂ1F,"寿司、魚介料理・海鮮料理、割烹・小料理
+",044-589-3895,定休日無し（ビルの営業日に準ずる）,https://shiorian-yamashiro.com/kawasaki/,"￥8,000～￥9,999","￥3,000～￥3,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,928,ぎょうざの満洲 町田パリオ店,東京都町田市森野1-15-13 パリオビル,"餃子、中華麺（その他）、中華料理
+",-,無休,http://www.mansyu.co.jp/annai/annai.html,～￥999,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,929,薪焼ステーキ コケット,東京都町田市原町田6-9-8 AETA町田 8F,"ステーキ、フレンチ、レストラン（その他）
+",042-851-8985,月曜日,https://www.restaurantcoquette.com/,"￥10,000～￥14,999",-,3.17
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,930,麺工房マルオ,東京都町田市金森東2-9-23 ,"ラーメン、つけ麺
+",-,火曜日、第2・4水曜日,https://blog.goo.ne.jp/maruo2000-7,-,～￥999,3.31
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,931,鉄板たかはし,東京都町田市森野1-35-7 町田北口ビル 1F,"ステーキ、鉄板焼き
+",042-721-7161,月曜日.木曜午前中,https://www.teppantakahashi.com/,"￥10,000～￥14,999","￥4,000～￥4,999",3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,932,パールレディ 茶BAR 町田マルイ店,東京都町田市原町田6-1-6 町田マルイ 2F,"カフェ
+",-,不定休(町田マルイに準ずる),,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,933,楽っかせい。,東京都町田市原町田4-15-15 町田ハントリービル1F,"居酒屋、おでん、バー・お酒（その他）
+",-,不定休,,"￥3,000～￥3,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,934,魚晴,東京都町田市原町田6-29-4 寺田ビル 1F,"居酒屋、魚介料理・海鮮料理、寿司
+",-,水曜日,,"￥4,000～￥4,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,935,肉豆冨とレモンサワー 大衆食堂 安べゑ 小田急町田南口店,東京都町田市原町田6-11-8 八百茂ビル1F,"居酒屋、魚介料理・海鮮料理、寿司
+",042-710-1606,無休,https://www.chimney.co.jp/eatery/detail.html?shop_code=500,"￥3,000～￥3,999","￥1,000～￥1,999",3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,936,グラッシェル 札幌ステラプレイス店,北海道札幌市中央区北5条西2-1 札幌ステラプレイス センター 2F,"アイスクリーム、パフェ、カフェ
+",011-209-5280,無休,http://www.glaciel.jp,"￥1,000～￥1,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,937,オークラカフェ＆レストラン メディコ,東京都文京区湯島1-5-45 東京医科歯科大学16F,"フレンチ、洋食、カフェ
+",-,年末年始,http://www.okura-ep.co.jp/,"￥1,000～￥1,999",-,3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,938,町田山荘,東京都町田市原町田4-5-18 町田仲見世商店街,"つけ麺
+",-,,,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,939,ザ スタンダードベイカーズ トウキョウ,東京都千代田区丸の内1-9-1 JR東京駅改札内,"パン、カフェ・喫茶（その他）
+",-,無休,https://the-sbk.jp/,～￥999,～￥999,3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,940,武相庵 LIBRARY＆HOSTEL,東京都町田市原町田4-10-12 ,"カフェ、喫茶店、居酒屋
+",-,年末年始：1月1日休業,http://www.busoan.com/,"￥1,000～￥1,999",～￥999,3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,941,0秒レモンサワー 仙台ホルモン焼肉酒場 ときわ亭 町田店,東京都町田市森野1-39-16 リード町田ビル 1F,"焼肉
+",042-709-3971,無(※12/31～1/1を除く),,"￥2,000～￥2,999",-,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,942,伊藤園 小田急百貨店 町田,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"カフェ、日本茶専門店、カフェ・喫茶（その他）
+",-,不定休,,～￥999,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,943,イゾラ スメラルダ,東京都千代田区丸の内2-4-1 丸の内ビルディング 5F,"イタリアン、ピザ、パスタ
+",03-5288-6228,無休,https://isola.st/smeralda,"￥5,000～￥5,999","￥1,000～￥1,999",3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,944,カカオハンターズプラス,東京都千代田区丸の内1-9-1 グランスタ東京 B1F,"チョコレート、カフェ、アイスクリーム
+",-,なし,https://www.tokyoinfo.com/shop/mall/gransta/cacaohunters.html,"￥1,000～￥1,999",～￥999,3.54
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,945,パイパイマーマー,東京都町田市原町田4-5-18 仲見世商店街,"タイ料理
+",-,火曜日、水曜日,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,946,Jamba 南町田グランベリーパーク,東京都町田市鶴間3-4-1 南町田グランベリーパーク ギャザリングマーケット,"ジュースバー
+",-,ギャザリングマーケットに準じます,https://www.jamba.jp,-,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,947,RIO GRANDE GRILL シァル横浜,神奈川県横浜市西区南幸1-1-1 CIAL横浜 B3F,"ブラジル料理
+",-,不定休(施設に準ずる),,"￥1,000～￥1,999","￥1,000～￥1,999",3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,948,タックルステーキ 南町田店,東京都町田市小川6-29-17 すずがけ台ビル 1F,"ステーキ、ハンバーグ、焼肉
+",042-850-5527,月曜日(祝日の場合は営業),,"￥5,000～￥5,999","￥3,000～￥3,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,949,隅田川,神奈川県横浜市金沢区町屋町5-7 ,"うなぎ、魚介料理・海鮮料理
+",-,木曜日,,"￥5,000～￥5,999","￥4,000～￥4,999",3.60
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,950,ビー! ジューススタンド 横浜タカシマヤ店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"ジュースバー
+",-,不定休(横浜タカシマヤの休業日に準ずる),,-,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,951,鮨まつもと 横浜店,神奈川県横浜市神奈川区鶴屋町2-19-6 ガレリア横浜 3F-B,"寿司、魚介料理・海鮮料理、割烹・小料理
+",04-5534-3921,無し,https://sushi-matsumoto-g.com/shop/yokohama/,"￥10,000～￥14,999","￥6,000～￥7,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,952,彩割烹 一三六,東京都町田市木曽西4-1-6 ,"天ぷら、魚介料理・海鮮料理
+",-,日曜日　第2第4第5水曜　12/22.12/30はランチのみ営業　12/31〜1/4まではお休みです。,https://japanese-restaurant-7383.business.site,"￥3,000～￥3,999","￥1,000～￥1,999",3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,953,シャトレーゼ 町田成瀬店,東京都町田市小川2-28-6 ,"ケーキ、和菓子、アイスクリーム
+",-,無休,http://www.chateraise.co.jp/,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,954,IBUSHIO 成瀬店,東京都町田市成瀬が丘2-23-8 福田屋ビル 2F,"ダイニングバー、居酒屋、バー・お酒（その他）
+",-,水曜日,,"￥3,000～￥3,999",-,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,955,エルヴェッタ,東京都町田市森野1-33-18 幹ビル　１Ｆ,"イタリアン、パスタ、居酒屋
+",042-728-0208,日曜,,"￥3,000～￥3,999","￥1,000～￥1,999",3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,956,オステリア デコ,東京都町田市原町田4-11-4 １Ｆ,"イタリアン、居酒屋、ダイニングバー
+",042-726-7268,2023年より不定休。,https://www.osteria-deco.com,"￥3,000～￥3,999",～￥999,3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,957,The CAFE 町田,東京都町田市原町田6-10-17 ハギワラビル 2F,"カフェ、喫茶店、パフェ
+",-,12月31日まで営業　１月1日はお休み　1月2日より通常営業　（他年1回不定休有）,http://www.thecafe-machida.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.57
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,958,キッチンハウスたんぽぽ,東京都町田市原町田5-3-12 フェリシティMINOWA 1F,"弁当、デリカテッセン
+",-,日曜日・祝日・第3土曜日,http://tanpopobento.jugem.jp/,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,959,Kitchen ＆ Bar NO7,東京都町田市中町1-16-11 中島ビル 1F,"ダイニングバー、バル・バール、ワインバー
+",-,月曜,,"￥3,000～￥3,999",-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,960,らーめん家 せんだい 町田店,東京都町田市中町3-7-14 ,"ラーメン
+",-,,https://ramen-sendai.jp,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,961,シュマッツ ビア スタンド 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 ,"ビアバー、ハンバーガー、ビアホール・ビアレストラン
+",-,グランベリーパーク施設に準じ,https://gbp.minamimachida-grandberrypark.com/service/,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,962,8sai,神奈川県茅ヶ崎市新栄町10-13 ,"サンドイッチ
+",-,毎週水曜日,,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,963,町田 龍聖軒,東京都町田市原町田3-1-4 町田ターミナルプラザ 2F,"ラーメン
+",-,,,～￥999,～￥999,3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,964,比沙家 新宿店,東京都新宿区新宿3丁目 ＪＲ新宿駅中央東口,"和菓子
+",-,年中無休,http://www.kyo-yakiguri.com/index.html,"￥1,000～￥1,999",～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,965,がみ屋一丁目,東京都町田市中町1-15-4 ビクトリ中町 1F,"居酒屋、おでん
+",-,日曜日,,"￥4,000～￥4,999","￥2,000～￥2,999",3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,966,ハニーズバー 町田店,東京都町田市原町田1 JR町田駅,"ジュースバー
+",-,年中無休,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,967,ベルべ 中央林間店,神奈川県大和市中央林間6-5-26 ,"パン、サンドイッチ、カフェ
+",-,木曜休,http://www.bellbe.com/index.html,～￥999,～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,968,コバチダイナー,東京都町田市南成瀬5-1-10 ,"ダイニングバー、カフェ
+",-,,,-,-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,969,高級芋菓子しみず 築地本店,東京都中央区築地6-21-4 築地大長ビル 1F,"甘味処、カフェ、パフェ
+",-,無し　,https://imoshimizu.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,970,MAISON GIVRÉE,神奈川県大和市中央林間4-27-18 ,"ケーキ、カフェ
+",-,月曜日　+火曜日不定休,http://givree.tokyo/,～￥999,"￥1,000～￥1,999",3.64
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,971,EXA,神奈川県大和市中央林間3-5-16 ,"イタリアン、ダイニングバー
+",-,月曜日,,-,"￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,972,レ・ザンジュ 鎌倉本店,神奈川県鎌倉市御成町13-35 ,"ケーキ、喫茶店
+",-,無休,http://www.lesanges.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.65
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,973,one wld,東京都町田市原町田3-2-9 エルムビル 1F,"バー、ダイニングバー、居酒屋
+",-,月曜日(祝日の場合は火曜),,"￥3,000～￥3,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,974,福砂屋 小田急百貨店町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"和菓子
+",-,不定休(小田急百貨店町田店に準ずる),,-,"￥3,000～￥3,999",3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,975,麻布茶房 小田急町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 9F,"甘味処、和食（その他）
+",-,無休※施設に準ずる,http://www.amaya-company.co.jp/azabusabo/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,976,居酒屋いくどん,東京都町田市原町田6-8-1 町田センタービル109マチダ 1階 外周,"居酒屋、焼鳥
+",-,年中無休,http://www.netseikatsumachida.com/data/index.php?id=641,"￥1,000～￥1,999",～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,977,てんぷら 加藤,東京都町田市成瀬が丘1-26-5 シャテロ成瀬が丘 1F,"天ぷら
+",-,水曜日・第1火曜日・第3火曜日,,"￥6,000～￥7,999","￥2,000～￥2,999",3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,978,ナチュラル クレープ グランベリーパーク南町田店,東京都町田市鶴間3-4-1 グランベリーパーク　1F ギャザリングマーケット内,"クレープ
+",-,,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,979,コワーキング喫茶 cosoadot,東京都町田市南町田1-4-9 ,"カフェ・喫茶（その他）
+",-,,https://cosoadot.com/,-,"￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,980,Banh Mi V,神奈川県横浜市中区花咲町1-16-1 ,"ベトナム料理
+",-,水曜日、木曜日、金曜日,https://note.com/vanmebanhmi/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,981,ナショナルキッチン,東京都町田市玉川学園7-8-5 関ビル 1F,"焼肉
+",-,火曜日,,"￥2,000～￥2,999",-,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,982,AFRO TACOS,神奈川県横浜市中区野毛町2-72-2 ,"メキシコ料理、カリフォルニア料理、ダイニングバー
+",045-341-4321,火曜日,http://kulakula.info/afrotacos/,"￥2,000～￥2,999","￥1,000～￥1,999",3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,983,ダパイダン105 横浜野毛店,神奈川県横浜市中区野毛町2-81 1F,"台湾料理
+",-,なし,,"￥1,000～￥1,999","￥1,000～￥1,999",3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,984,ジィーロ,神奈川県横浜市中区野毛町1-29 ,"ビストロ、バル・バール、ワインバー
+",045-315-6924,不定休,,"￥3,000～￥3,999",-,3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,985,ミサキドーナツ 横浜ハンマーヘッド店,神奈川県横浜市中区新港2-14-1 2F,"ドーナツ
+",-,,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,986,トルコレストラン イスタンブールGINZA,東京都中央区銀座7-2 銀座コリドー 街　1Ｆ,"トルコ料理、地中海料理
+",03-6252-4080,年末年始。（臨時休業有り）,,"￥4,000～￥4,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,987,パンとエスプレッソと自由形,東京都目黒区自由が丘2-9-6 Luz自由が丘３F,"カフェ、パン・サンドイッチ（その他）、ケーキ
+",-,なし,https://www.jisoku1jikan.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,988,タコノミ 町田店,東京都町田市原町田4-1-3 みすず町田ビル 1F,"ダイニングバー、たこ焼き
+",-,火曜日,https://www.facebook.com/Taco-nomi-%E7%94%BA%E7%94%B0%E5%BA%97-124962564880854/,"￥3,000～￥3,999",-,3.29
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,989,もつしげ 野毛小路,神奈川県横浜市中区野毛町1-41-3 31ビル　１Ｆ,"居酒屋、ホルモン、もつ焼き
+",-,年中無休,http://www.new-look.co.jp/,"￥2,000～￥2,999",-,3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,990,茶寮 伊藤園 横浜,神奈川県横浜市中区新港2-14-1 横浜ハンマーヘッド 1F,"カフェ、スイーツ（その他）
+",-,,,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,991,カフェ トラベッサ,東京都町田市中町1-22-4 ,"カフェ、カレーライス
+",-,,https://www.cafetravessa.info,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,992,まほろ座 マチダ,東京都町田市森野1-15-13 パリオビル B1F,"バー・お酒（その他）、カフェ・喫茶（その他）、ハンバーグ
+",-,不定休,http://www.mahoroza.jp,"￥3,000～￥3,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,993,鮨 こみや,東京都町田市原町田4-16-21 木村屋ビル 1F,"寿司
+",-,,,-,"￥3,000～￥3,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,994,リンデ 吉祥寺本店,東京都武蔵野市吉祥寺本町1-11-27 ,"パン、サンドイッチ、カフェ
+",-,無休(除く年末年始),http://www.lindtraud.com/,～￥999,～￥999,3.73
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,995,スーパーマーケット 成城石井 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 ギャザリングマーケット内,"その他
+",-,,http://www.seijoishii.co.jp/company/,-,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,996,あおば,東京都町田市原町田4-1-1 太陽ビルB1,"焼きとん、居酒屋、焼鳥
+",-,不定休,,"￥2,000～￥2,999",-,3.38
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,997,ピカール 南町田グランベリーパーク店,東京都町田市鶴間 3-3-1 グランベリーパーク ステーションコート 1F,"その他
+",-,,https://www.picard-frozen.jp/Page/Store.aspx,-,"￥2,000～￥2,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,998,カフェ・ベローチェ 原町田四丁目店,東京都町田市原町田4-5-8 いちご町田イーストビル 1F,"カフェ、サンドイッチ、ケーキ
+",-,年中無休,http://www.chatnoir-jp.com/,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,999,ナナズグリーンティー 町田東急ツインズ店,東京都町田市原町田6-4-1 町田東急ツインズ EAST3F,"丼もの（その他）、日本茶専門店、カフェ
+",-,ツインズに準ずる,http://www.nanaha.com/,-,～￥999,3.16
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1000,good day for you Roppongi 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク ギャザリングマーケット,"ケーキ、洋菓子（その他）
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1001,小川軒,東京都町田市小川1608-5 すずかけ台ビル１Ｆ,"ラーメン
+",-,火曜,,"￥1,000～￥1,999",～￥999,3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1002,カフェ・ド・チワワ 町田木曽三家宿店,東京都町田市木曽東3-33-5-6 ,"クレープ、カフェ
+",-,月曜・水曜・木曜,http://www.dog-cat-cafe.com/,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1003,利久 町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"弁当、牛タン
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1004,レモネード バイ レモニカ グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク 1F,"ジュースバー
+",-,無休,,-,～￥999,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1005,メゾン ジブレー グランベリーパーク店,東京都町田市鶴間3-3-1 グランベリーパーク ステーションコート 1F,"ケーキ
+",-,無休,https://givree.tokyo/index.html,-,"￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1006,石挽き手打ち 一葉,東京都町田市小川2-6-2 ,"そば、うどん
+",-,,http://www.sck.co.jp/text/vol04/shop01.html,-,"￥1,000～￥1,999",3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1007,ハマケイ 町田店,東京都町田市原町田4-5-19 ,"焼鳥、鳥料理
+",-,不定時,http://www.hamakei.co.jp/shop.html,～￥999,～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1008,焼鳥 じらい屋 伊勢佐木町店,神奈川県横浜市中区伊勢佐木町1-3-2 森永ビル 1F,"居酒屋、焼鳥、鳥料理
+",-,無休,,"￥2,000～￥2,999",-,3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1009,シャンパンベーカリー 桜ヶ丘,神奈川県平塚市桜ヶ丘4-47 ,"パン・サンドイッチ（その他）、ドーナツ、パン
+",-,火曜日,http://www.takaku-pan.com/champagne.html,-,～￥999,3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1010,ドルチェカサリンゴ,神奈川県座間市相武台3-42-23 ,"カフェ
+",-,不定休(SNSにて告知),,-,"￥1,000～￥1,999",3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1011,ノック ガパオライス,神奈川県座間市相武台3-42-45 AIDAビル 1F,"タイ料理
+",-,日曜日,https://www.nok-gapaorice.jp/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1012,梅鶯堂 嵯峨野店,京都府京都市右京区嵯峨鳥居本化野町14-1 ,"パン、スイーツ（その他）
+",-,,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1013,ぱん工房 ふくふく,神奈川県座間市相武台3-37-7 ,"パン、サンドイッチ、カフェ・喫茶（その他）
+",-,月曜日（祝日の場合営業、翌火曜代休）,http://bakery-fukufuku.com,～￥999,～￥999,3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1014,いくどん 町田駅前店,東京都町田市原町田6-17-2 ,"ホルモン、焼肉
+",-,無休,http://www.ikudon.jp/,"￥2,000～￥2,999",～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1015,ロティボティ,神奈川県相模原市南区相武台1‐25‐2 佐藤ビル２Ｆ,"インドカレー、インド料理
+",-,なし,https://rotiboti.jimdo.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1016,重慶飯店 GIFT&DELI,神奈川県横浜市中区桜木町1-1 CIAL桜木町 1F,"中華料理、デリカテッセン
+",-,不定休(CIAL桜木町に準ずる),http://www.ekipara.com/html/Indication/ShopHtml/K2030R03_005.html,"￥1,000～￥1,999",～￥999,3.11
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1017,ぎんざ空也 空いろ 金春通り本店,東京都中央区銀座8-7-6 平つかビル 1F,"和菓子、どら焼き
+",-,,http://sorairo-kuya.jp,-,"￥1,000～￥1,999",3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1018,フルーツサンド専門店 ChouChou 町田店,東京都町田市原町田6-6-14 町田ジョルナ 1F,"サンドイッチ
+",-,,http://www.jorna.gr.jp/shoplist/chouchou/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1019,カフェ レクセル シァル桜木町店,神奈川県横浜市中区桜木町1-1 シァル桜木町・紅葉坂ギャラリー内,"カフェ、パン・サンドイッチ（その他）、コーヒー専門店
+",-,不定休(シァル桜木町に準ずる),https://www.doutor.co.jp/lex/,-,～￥999,3.35
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1020,オレンジブランチ,神奈川県横浜市西区桜木町4-15-7 アスカビル ２Ｆ,"イタリアン、ワインバー、ダイニングバー
+",-,月曜日,http://www.orange-branch.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.34
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1021,梅や,神奈川県横浜市中区吉田町6-3 ,"デリカテッセン、焼鳥、弁当
+",-,年中無休（年始を除く）,http://www.umeya-torinikuten.co.jp/,"￥2,000～￥2,999",～￥999,3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1022,ミートカフェ オジマ,神奈川県横浜市中区野毛町2-93 ,"ステーキ、ハンバーガー、カフェ
+",-,年末年始,http://meatcafe.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1023,尾島商店 本店,神奈川県横浜市中区野毛町2丁目93 ,"デリカテッセン、天ぷら・揚げ物（その他）、弁当
+",-,1月1日のみ,http://www.ojimameat.info/,-,～￥999,3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1024,洋食キムラ 野毛店,神奈川県横浜市中区野毛町1-3 ,"洋食、ハンバーグ、コロッケ・フライ
+",-,月曜（※祝日の場合は営業し翌火曜休）,https://yo-kimura.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.57
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1025,コテイベーカリー,神奈川県横浜市中区花咲町2-63 ,"パン、パン・サンドイッチ（その他）
+",-,日曜　その他、不定休あり,http://www7b.biglobe.ne.jp/~coty1916/,-,～￥999,3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1026,Bihotza,神奈川県横浜市中区長者町5-85 三共横浜ビル １F（旧 明治安田生命ラジオ日本ビル）,"スペイン料理、ワインバー、ダイニングバー
+",045-315-3393,火曜日・水曜日定休日,http://bihotza0453153393.wixsite.com/bihotza/about-bihotza,"￥5,000～￥5,999",-,3.59
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1027,ボストン,神奈川県相模原市南区南台5-14-15 ,"パン、ケーキ、喫茶店
+",-,不定休（月に2回）,,～￥999,～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1028,肉の佐藤 小田急相模原店,神奈川県相模原市南区松が枝町23-7 ,"居酒屋、焼鳥、焼肉
+",-,無休,http://www.das-foods.co.jp/company/,"￥2,000～￥2,999",-,3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1029,ブランジェリー ヒロ,神奈川県相模原市南区松が枝町16-10-103 ,"パン、ベーグル
+",-,火曜日,http://ameblo.jp/boulangeriehiro/,-,～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1030,家のキッチン.,神奈川県相模原市南区南台3-1-27 イイノビル 1F,"イタリアン、鉄板焼き、ステーキ
+",-,月曜日,http://uchinokitchen.jp,"￥3,000～￥3,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1031,俺の鯛焼き&Cafe,神奈川県相模原市南区南台5-12-22 三協谷山ハイツ 1F,"たい焼き・大判焼き、カフェ・喫茶（その他）
+",-,不定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1032,ウイグル料理天山,神奈川県相模原市南区南台6-17-21 ,"アジア・エスニック料理（その他）
+",-,第2と第4木曜日、日曜日,http://www.tengritagh.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1033,からあげ割烹 福のから 町田店,東京都町田市原町田4-3-14 ,"からあげ、弁当、天ぷら
+",-,,,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1034,おでん屋たけし 町田店,東京都町田市原町田4-5-6 ,"おでん、魚介料理・海鮮料理、居酒屋
+",-,無休,,"￥3,000～￥3,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1035,船橋屋 亀戸天神前本店,東京都江東区亀戸3-2-14 ,"甘味処、和菓子、自然食
+",-,無休,http://www.funabashiya.co.jp/,-,"￥1,000～￥1,999",3.52
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1036,きそば 中華 アモイ,東京都町田市南大谷1295-61 ,"そば、ラーメン、中華料理
+",-,不定休,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1037,チャンドラスーリヤ,神奈川県大和市南林間1-5-7 2F,"ネパール料理、自然食、インドカレー
+",-,木曜定休,http://chandra-s.jimdo.com/,"￥1,000～￥1,999",～￥999,3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1038,トラットリア ピュー,神奈川県大和市鶴間1-3-7 ,"イタリアン、ダイニングバー、居酒屋
+",046-404-8830,日曜日,,"￥3,000～￥3,999","￥1,000～￥1,999",3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1039,町田 寿司 空,東京都町田市原町田6-15-16 コマヤビル B1F-C,"寿司、和食（その他）、割烹・小料理
+",042-785-4644,年中無休,,"￥8,000～￥9,999","￥2,000～￥2,999",3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1040,マーブルー,東京都町田市旭町1-23-6 町田園マンション 1F,"たい焼き・大判焼き
+",-,,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1041,cafe 四季,東京都町田市木曽西5-4-15 ,"カフェ
+",-,月曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1042,神極麺,東京都町田市原町田6-14-5 ,"ラーメン
+",-,水曜日,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1043,居酒屋 ふじ,東京都町田市森野2-2-43 ,"居酒屋
+",-,月曜,http://www.izakaya-fuji.jp/,"￥2,000～￥2,999",-,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1044,桔梗屋 東治郎 八王子駅改札内店,東京都八王子市旭町1-1 JR八王子駅,"和菓子、どら焼き、洋菓子（その他）
+",-,無休,http://kikyouya.co.jp/,-,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1045,デュプラ デ オロ ヒローズ,東京都町田市原町田2-2-1 ライオンズマンション町田第6-201,"居酒屋・ダイニングバー（その他）、日本酒バー、バー・お酒（その他）
+",-,不定休,https://hiroz.owst.jp/,"￥3,000～￥3,999",～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1046,ブラッスリー アミカル,東京都立川市柴崎町2-3-13 ,"フレンチ、ビストロ、カフェ
+",042-512-7868,第１月曜、毎週火曜日,http://brasserie-amicale.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.48
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1047,ラ・ブランジュリ・キィニョン エキュート立川店,東京都立川市柴崎町3-1-1 エキュート立川 エキナカWEST,"パン、スイーツ（その他）、サンドイッチ
+",-,年中無休,http://www.quignon.co.jp/,～￥999,～￥999,3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1048,ダッキーダックカフェ 町田ジョルナ店,東京都町田市原町田6-6-14 町田ジョルナ１Ｆ,"カフェ、パスタ、ケーキ
+",-,不定期（ジョルナ休館日は定休）,,"￥1,000～￥1,999",～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1049,uogashi mifune,東京都町田市森野1-32-13 ,"魚介料理・海鮮料理、居酒屋、寿司
+",-,火曜日,https://mifune-machida.owst.jp/,"￥4,000～￥4,999",～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1050,タワリシチ,東京都町田市原町田3-7-2 サトウ時計宝飾ビル 2F,"バー
+",-,無休,http://ggyao.usen.com/0005006239/,"￥1,000～￥1,999",～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1051,玄蕎麦 もち月,東京都町田市小川2-3-23 ,"そば、とんかつ
+",-,,,"￥2,000～￥2,999","￥1,000～￥1,999",3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1052,ぎんざ 若松,神奈川県相模原市南区相模大野3-3 ボーノ相模大野 1F,"甘味処、和菓子
+",-,水曜日,,-,"￥1,000～￥1,999",3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1053,リトル小岩井,東京都千代田区大手町1-6-1 大手町ビル B2F,"パスタ、サンドイッチ
+",-,土曜・日曜・祝日,,～￥999,～￥999,3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1054,TRATTORIA CREATTA,東京都千代田区丸の内1-1-3 日本生命丸の内ガーデンタワー 1F,"イタリアン、パスタ、ダイニングバー
+",03-3284-0020,無休(年末年始休暇),http://www.creatta.tokyo/,"￥6,000～￥7,999","￥2,000～￥2,999",3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1055,ル・プーレ ブラッスリーうかい,東京都千代田区大手町1-1-1 大手町パークビルディング 1F,"ビストロ、ダイニングバー、ワインバー
+",03-3217-5252,土曜日・日曜日・年末年始,https://www.ukai.co.jp/lepoulet/,"￥8,000～￥9,999","￥3,000～￥3,999",3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1056,Bon Vivant 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"パン
+",-,横浜タカシマヤに準ずる,http://www.bon-vivant-pan.com/aboutus/,～￥999,～￥999,3.26
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1057,無添くら寿司  町田ジョルナ店,東京都町田市原町田6-6-14 町田ジョルナ B2F,"回転寿司
+",-,無休,https://www.kurasushi.co.jp/shopsearch/shopdetails/?id=563,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1058,豆子の店,神奈川県相模原市中央区中央2-11-10 ,"洋菓子（その他）、パン、コロッケ・フライ
+",-,土・日曜日,http://www.fukushimura.or.jp/index.html,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1059,楽茶 町田店,東京都町田市森野1-22-1 都南ビル 1F,"スイーツ（その他）、カフェ、中国茶専門店
+",-,無休,http://rakucha-happycha.com/,～￥999,～￥999,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1060,カステリーナ,神奈川県横浜市西区北幸2-6-5 GEMS横浜 4F,"イタリアン、ダイニングバー、パスタ
+",045-620-4745,不定休　12月定休日　5日、12日、15日、19日、26日12/30~1/5冬季休業1/6ディナータイムより営業,http://castellina.co.jp/,"￥4,000～￥4,999","￥1,000～￥1,999",3.37
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1061,goffo,神奈川県横浜市西区浅間町1-2-6 ハイズ横浜フェリーチェ1F,"イタリアン、ビストロ、ワインバー
+",-,火曜日、水曜日,,"￥6,000～￥7,999",-,3.47
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1062,炭火やきとり 伝兵衛 南店,神奈川県横浜市西区南幸2-13-22 ,"居酒屋、焼鳥
+",045-548-4411,無休,https://denbei-minami.com/,"￥3,000～￥3,999",-,3.45
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1063,エイチビー スタイル キヨウケン CIAL横浜店,神奈川県横浜市西区南幸1-1-1 ,"スイーツ（その他）
+",-,,,-,～￥999,3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1064,シクロバインミー,神奈川県横浜市西区南幸1-1-1 CIAL横浜 B3F,"ベトナム料理、パン・サンドイッチ（その他）、カフェ
+",-,CIAL横浜に準ずる,,～￥999,～￥999,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1065,シナボン 町田マルイ店,東京都町田市原町田6-1-6 町田マルイ 2F,"パン・サンドイッチ（その他）、洋菓子（その他）
+",-,町田マルイに準ずる,https://www.jrff.co.jp/cinnabon/,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1066,食の駅 ファームドゥ 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 ,"その他
+",-,南町田グランベリーパークに準ずる,https://gbp.minamimachida-grandberrypark.com/floor/detail/?cd=000237,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1067,JUNIBUN BAKERY 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"パン、ケーキ、洋菓子（その他）
+",-,横浜高島屋に準ずる,http://ultrakitchen.jp/,～￥999,～￥999,3.42
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1068,ミズ カサブランカ,神奈川県横浜市西区南幸1-1-1 ニュウマン横浜 8F,"中華料理、飲茶・点心、カフェ
+",045-534-9008,不定休(施設の店休日に準ずる。,https://www.ms-casablanca.jp/,"￥3,000～￥3,999","￥1,000～￥1,999",3.44
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1069,三輪亭,東京都世田谷区豪徳寺1-13-15 ツノダ第１ビル　１Ｆ,"イタリアン、パスタ、ドイツ料理
+",-,毎週火水曜（祝日の場合は木曜休み）・不定休,http://www.miwatei.com/                                       ,"￥6,000～￥7,999","￥1,000～￥1,999",3.61
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1070,麺屋はなび 町田北口店,東京都町田市中町1-2-3 新光中町ビル 1F,"台湾まぜそば
+",-,無休,https://www.okonomiyaki-bochi.jp/tenpo/machida_kitaguchi/,-,"￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1071,美登利総本店 梅丘新館テイクアウト店,東京都世田谷区梅丘1-25-6 美登利総本店　梅丘新館　１Ｆ,"寿司、弁当
+",-,無休,http://homepage2.nifty.com/sushi_no_midori/,～￥999,"￥1,000～￥1,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1072,パン・ド・ラサ,東京都世田谷区梅丘1-29-6 ,"パン、ベーグル、パン・サンドイッチ（その他）
+",-,月曜日、第1・3・5日曜日,http://www.umegaoka.net/shouten/pain_de_lasa/,-,～￥999,3.62
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1073,メゾン ドゥ ミエル,東京都町田市高ヶ坂2-28-15 ,"カフェ
+",-,,,-,"￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1074,墨繪 豪徳寺店,東京都世田谷区豪徳寺1-22-6 村田ビル 1F,"パン
+",-,不定休,http://www.suminoe.in/,-,～￥999,3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1075,OHAGI3 南町田店,東京都町田市鶴間3-4-1 グランベリーパーク グリーンリビング 2F,"和菓子、スイーツ（その他）、カフェ・喫茶（その他）
+",-,グランベリーパーク定休日,https://ohagi3.com/,～￥999,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1076,MICHAEL CLAVIS,東京都世田谷区北沢2-9-19 植松第一ビル 1F,"洋菓子（その他）、スイーツ（その他）、ケーキ
+",-,火曜日,https://www.michaelclavis.com/,-,～￥999,3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1077,ピコデガヨ,東京都世田谷区北沢2-28-5 QUICK DELISH 下北沢,"メキシコ料理
+",-,無休,https://picodegallo.jp,～￥999,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1078,純手打ち 麺と未来,東京都世田谷区北沢3-25-1 シャトルヒエイ1F,"ラーメン
+",-,不定休,,～￥999,～￥999,3.76
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1079,Curry Spice Gelateria KALPASI,東京都世田谷区北沢2-12-2 サウスウェーブ下北沢 1F,"カレーライス、アイスクリーム、アジア・エスニック料理（その他）
+",-,木曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.83
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1080,オトトデリ,東京都世田谷区代沢2-46-5 ,"カフェ
+",-,水曜日,https://www.ototodeli.com/,"￥1,000～￥1,999",～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1081,エテコ ブレッド,東京都世田谷区代沢2-42-7 ,"パン
+",-,月曜・火曜・金曜,,～￥999,～￥999,3.56
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1082,ミロ スタンド 小田急町田店,東京都町田市原町田6-12-20 ,"カフェ
+",-,,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1083,シナモンガーデン,神奈川県大和市林間2-22-19 ,"スリランカ料理、カレーライス、カレー（その他）
+",-,月曜日,https://cinnamon-garden.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.69
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1084,欧風菓子 クドウ 本店,神奈川県大和市南林間1-6-4 ,"ケーキ
+",-,三が日,http://www.yougashi-kudoh.com/,-,～￥999,3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1085,ケイミ,神奈川県大和市西鶴間1-8-13 ,"中南米料理（その他）、アメリカ料理
+",-,月曜日,,"￥2,000～￥2,999","￥1,000～￥1,999",3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1086,プルマンベーカリー 宮の沢駅前店,北海道札幌市西区西町北20-4-10 ,"パン
+",-,水曜日,http://www.pullmanbakery.com/,～￥999,～￥999,3.49
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1087,どるちぇ ど さんちょ,北海道札幌市中央区南一条西27丁目1-1 マルヤマクラス 1F,"ケーキ
+",-,無休(マルヤマクラスに準ずる),https://dolce-de-sancio.jp,～￥999,～￥999,3.43
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1088,宋将,神奈川県相模原市南区相模台1-9-5 ,"中華料理、お好み焼き、ラーメン
+",-,無休,https://1000r.com/2020/11/06/%e4%b8%ad%e8%8f%af%e6%96%99%e7%90%86%e3%80%80%e5%ae%8b%e5%b0%86/,"￥1,000～￥1,999",～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1089,ぱんの笛,神奈川県相模原市南区相模台1-19-16 1F,"パン、サンドイッチ、パン・サンドイッチ（その他）
+",-,日・祝日,,-,～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1090,お・に・くのひととき,北海道小樽市港町5-4 ,"その他肉料理、洋食
+",-,,,-,"￥2,000～￥2,999",3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1091,寿堂,神奈川県相模原市南区南台6-18-17 ,"たい焼き・大判焼き
+",-,日曜祝日,https://minne.com/@kotobukido1,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1092,游相庵　菓匠　盛月堂,神奈川県相模原市南区南台6-16-13 ,"和菓子
+",-,月～金曜日,http://www.seigetsudou.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1093,玉川虎屋 金井店,東京都町田市金井町2941-134 ,"和菓子
+",-,火曜日,http://tama-news.net/shop/shokuhin/toraya.html,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1094,パンドコロ,神奈川県横浜市港南区丸山台2-1-1 鈴栄ビル 1F,"パン、サンドイッチ
+",-,日曜、木曜,,-,～￥999,3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1095,ショコラボ,神奈川県横浜市都筑区茅ケ崎中央30-17 ,"洋菓子（その他）、チョコレート
+",-,土曜日・日曜日・祝日,https://chocolabo.or.jp/,-,-,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1096,ロティスリー アルティザン,神奈川県横浜市中区太田町6-79 アブソルート横濱馬車道ビル 1F,"ステーキ、フレンチ、ビストロ
+",-,毎週木曜　と　月1回水曜,,"￥5,000～￥5,999",-,3.59
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1097,サタデイズ チョコレート ファクトリー カフェ,北海道札幌市中央区南2条東2-7-1 Salmon 1F,"カフェ、チョコレート
+",-,水曜日,http://www.saturdayschocolate.com/,-,～￥999,3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1098,蝦夷屋,北海道小樽市堺町2-22 ,"魚介料理・海鮮料理
+",-,1月4日、不定休,https://www.otaruezoya.com/,-,～￥999,3.22
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1099,雑魚亭,北海道函館市松風町7-5 大門横丁,"寿司
+",-,月曜日,http://www.zako-tei.com/,"￥5,000～￥5,999","￥1,000～￥1,999",3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1100,むぎばたけ,東京都町田市金井2-3-7 ,"パン、サンドイッチ、洋菓子（その他）
+",-,日曜日・年始（祝日は営業）,http://www.mugi-batake.info/,-,～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1101,セテュヌ ボンニデー,神奈川県川崎市多摩区登戸1889 今野ビル 1F,"パン、洋菓子（その他）
+",-,火曜,http://cestune-bonneidee.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.70
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1102,ビストロ ル ブルジョン,神奈川県川崎市多摩区登戸2831-1 ,"ビストロ、フレンチ
+",-,毎週日曜日と月曜日（両日終日）と火曜日のランチが定休日となります。,http://lebourgeon.info/,"￥8,000～￥9,999","￥2,000～￥2,999",3.61
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1103,ベーグルカンパニー,神奈川県川崎市多摩区東生田1-2-12-101 ,"ベーグル、パン・サンドイッチ（その他）
+",-,月曜日,http://bagelcompany.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1104,パン工房 ブンブン 相模原中央店,神奈川県相模原市中央区中央3-7-6 KSビル 1F,"パン、サンドイッチ、パン・サンドイッチ（その他）
+",-,無休,http://bun-bun.co.jp/,～￥999,～￥999,3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1105,カレーの店 マボロシ,神奈川県相模原市中央区中央3-7-1 ,"カレーライス、インドカレー
+",-,日曜・月曜,,-,"￥1,000～￥1,999",3.83
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1106,フェアレディー カフェ,神奈川県相模原市中央区相模原6-17-9 ,"カフェ、パン
+",-,毎週木曜日　不定金曜・日曜,http://www.snsagami.org/syoutengai/nishimon/stores/g2fairlady/index.html,-,～￥999,3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1107,韓国カフェ ユンの家,東京都町田市成瀬が丘2-5-12 ,"韓国料理、カフェ
+",-,木曜日,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1108,チョップスプーン ガパオキッチン 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 ,"東南アジア料理（その他）、デリカテッセン
+",-,,,-,-,3.02
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1109,自由が丘 蔭山樓 南町田店,東京都町田市鶴間3-4-1 グランベリーパーク ギャザリングマーケット 1F,"ラーメン、飲茶・点心、肉まん・中華まん
+",-,施設の営業日に準ずる,http://www.kageyamarou.com/,～￥999,～￥999,3.41
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1110,Cafe＆Bar DIARY,東京都町田市原町田4-1-1 山崎ビル　１Ｆ,"バー
+",-,無休,,"￥2,000～￥2,999",～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1111,ジャック イン ザ ドーナツ グランベリーパーク店,東京都町田市鶴間3-3-1 グランベリーパーク セントラルコート,"ドーナツ
+",-,,http://www.jack-donuts.jp/,-,～￥999,3.09
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1112,SALVATORE CUOMO & BAR 町田店,東京都町田市原町田4-6-8 スペランツァ町田 1F,"ピザ、イタリアン、バル・バール
+",042-710-6365,無し,https://www.salvatore.jp/restaurant/machida/,"￥3,000～￥3,999","￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1113,ぐうちょきぱん,東京都町田市金森4-3-18 ,"パン
+",-,土曜日、日曜日,,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1114,デメル 高島屋横浜店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"チョコレート、ケーキ
+",-,不定休（高島屋に準ずる）,http://www.demel.co.jp/,-,"￥3,000～￥3,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1115,オンソコーヒー,東京都町田市金森東2-9-21 ,"コーヒー専門店、カフェ・喫茶（その他）、カフェ
+",-,水曜日,https://onsocoffee.com/,-,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1116,随息居,東京都町田市金森1733-5 ,"中華料理、四川料理
+",-,,,-,～￥999,3.15
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1117,コム・デセール,東京都町田市南つくし野4-18-4 細野ビル 102,"ケーキ
+",-,火曜日、不定休（SNSにて告知）,https://r.goope.jp/commedessert,"￥2,000～￥2,999",～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1118,BACKPACKER'S CAFE 旅人食堂  町田屋台店,東京都町田市原町田4-5-18 仲見世通り商店街内,"タイ料理、東南アジア料理（その他）
+",-,なし,http://www.copa-a.co.jp/tempo/bp/index.html,"￥2,000～￥2,999",～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1119,伊藤園 マッチャ スタンド 東急町田店,東京都町田市原町田6-4-1 町田東急ツインズイースト 1F レシピ町田,"日本茶専門店
+",-,不定休(町田東急ツインズに準ずる),https://www.tokyu-dept.co.jp/twins/floor/detail.html?shopcode=ITOENMATCHASTAND,～￥999,-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1120,リビングハーバー,東京都町田市高ヶ坂5-11-37 ,"バー
+",-,木曜日,,-,"￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1121,ジェラテリア・パンチエーラ 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 本館 B1F フーディーズポート2,"アイスクリーム
+",-,不定休（高島屋に準ずる）,,-,～￥999,3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1122,e-Burgers,神奈川県相模原市南区相模大野5-27-14 ,"ハンバーガー、カフェ、ダイニングバー
+",-,火曜日※臨時休業あり,https://e-burgers.business.site/,"￥2,000～￥2,999","￥1,000～￥1,999",3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1123,守屋精肉店,東京都町田市原町田4-6-7 ,"その他
+",-,水曜日,,-,～￥999,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1124,CREPE STAND,東京都町田市旭町3-24-24 ,"クレープ、ソフトクリーム、スイーツ（その他）
+",-,,https://crepe-stand.com/,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1125,横浜馬車道 旬の肉料理イタリアン オステリア・アウストロ,神奈川県横浜市中区北仲通3-34-2 １Ｆ,"イタリアン、パスタ、ビストロ
+",045-212-1465,月曜日(月祝の場合は翌火休)他連休あり,http://www.austro.jp/,"￥8,000～￥9,999","￥1,000～￥1,999",3.56
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1126,元祖ニュータンタンメン本舗 町田店,東京都町田市原町田3-7-2 ,"ラーメン
+",-,水曜日,http://newtantan.jp/,"￥1,000～￥1,999",～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1127,西川屋 知寄町本店,高知県高知市知寄町1丁目7-2 ,"和菓子
+",-,なし,http://www.nishigawaya.co.jp/,～￥999,～￥999,3.30
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1128,ビストロキッチン 陽,東京都町田市原町田6 荻原重南ビル B1F,"ダイニングバー
+",-,日曜日,,"￥4,000～￥4,999","￥1,000～￥1,999",3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1129,富貴包子楼 横浜中華街大世界店,神奈川県横浜市中区山下町97 横浜大世界,"飲茶・点心、肉まん・中華まん、デリカテッセン
+",-,,https://www.daska.jp/buy/266,-,～￥999,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1130,ロリアン洋菓子店,神奈川県海老名市東柏ヶ谷2-2-40 ,"ケーキ
+",-,無休,,-,"￥2,000～￥2,999",3.28
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1131,FARO 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 B1F foodies PORT2,"サンドイッチ
+",-,,https://faro-caffe.tokyo/,"￥1,000～￥1,999","￥1,000～￥1,999",3.21
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1132,フォション 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"パン、サンドイッチ、ケーキ
+",-,不定休（高島屋に準ずる）,http://www.takashimaya.co.jp/yokohama/index.html,～￥999,～￥999,3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1133,BLUFF BAKERY 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F,"パン
+",-,,http://www.bluffbakery.com/,～￥999,～￥999,3.51
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1134,SHIGERU KITCHEN 横浜高島屋店,神奈川県横浜市西区南幸1-6-31 横浜タカシマヤ B1F Foodies' Part2,"ハンバーガー、サンドイッチ、デリカテッセン
+",-,,https://shigerukitchen.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1135,タニタカフェ 南町田グランベリーパーク・鶴間公園店,東京都町田市鶴間3-1-1 鶴間公園カフェ・クラブハウス棟,"カフェ、自然食、サンドイッチ
+",-,12月27日～1月2日　その他メンテナンス等により休業する場合がございます。,https://www.tanita.co.jp/tanitacafe/,"￥1,000～￥1,999","￥1,000～￥1,999",3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1136,マム スタンド,東京都中野区本町4-17-12 コミヤビル 1F,"立ち飲み居酒屋・バー、居酒屋
+",-,月曜日,,-,-,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1137,鉄板居酒屋 よっちゃん,東京都町田市原町田4-5-19 仲見世商店街,"鉄板焼き
+",-,無し,,"￥2,000～￥2,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1138,五右衛門とうふ グランベリーパーク南町田店,東京都町田市鶴間3-4-1 グランベリーパーク 1F,"豆腐料理・湯葉料理、スイーツ（その他）
+",-,,https://gbp.minamimachida-grandberrypark.com/floor/detail/?cd=000248,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1139,ドミニク ドゥーセの店 鈴鹿本店,三重県鈴鹿市南江島町17-30 ,"パン、カフェ
+",-,無休※2Fカフェラウンジにつきましては現在休業中,http://www.dominique.co.jp/index.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.54
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1140,町田牧場,東京都町田市森野2-2-38 ,"居酒屋、ジンギスカン、サムギョプサル
+",-,月曜日,,"￥2,000～￥2,999",～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1141,ルーシー&モニカ,東京都町田市原町田6-1-6 町田マルイ 2F,"ケーキ、パフェ、スイーツ（その他）
+",-,,,-,～￥999,3.18
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1142,キーズカフェ 町田市役所店,東京都町田市森野2-2-22 町田市役所 1F,"カフェ
+",-,,http://www.keycoffee.co.jp/,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1143,本高砂屋 小田急町田店,東京都町田市原町田6-12-20 小田急百貨店町田店 B1F,"和菓子
+",-,不定休（小田急町田店に準ずる）,,-,～￥999,3.00
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1144,おむすび天神屋 町田,東京都町田市原町田6-11-7 ,"弁当、おにぎり
+",-,無休（正月、お盆は3日間ずつ休み）,http://tenjinya.info/index.html,-,～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1145,杜舞人,東京都町田市原町田5-4-19 コメット会館内２Ｆ,"喫茶店、カレーライス、弁当
+",-,水曜日・土曜日・日曜日,http://www.normanet.ne.jp/~comet/t.index.html,-,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1146,クロイツェル,東京都町田市成瀬台2-16-2 ウイル成瀬台B棟 1F,"デリカテッセン
+",-,月曜日,http://www.kreutzer.gr.jp/,-,"￥2,000～￥2,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1147,銀のあん・おこみ 町田マルイ店,東京都町田市原町田6-1-6 町田マルイ 2F,"お好み焼き・たこ焼き（その他）、たい焼き・大判焼き
+",-,町田マルイ店に準ずる,http://www.ginnoan.com/,～￥999,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1148,スターバックスコーヒー ぽっぽ町田店,東京都町田市原町田4-10-20 ぽっぽ町田店,"カフェ
+",-,不定休(ぽっぽ町田店に準ずる),http://www.starbucks.co.jp/,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1149,カフェ クルゼ,千葉県市原市姉崎3221-4 ダイアパレス青葉台ノースアヴェニュー 1F,"カフェ
+",-,木曜日,,-,"￥1,000～￥1,999",3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1150,美酒美肴 ひさ弥,東京都町田市原町田6-26-9 宮代ビル1F,"居酒屋、割烹・小料理、魚介料理・海鮮料理
+",-,日曜　祝日,http://hisaya-machida.jp/,"￥5,000～￥5,999",～￥999,3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1151,Nub MACHIDA,東京都町田市中町3-4-3 EM'Sマンション 102,"アメリカ料理、メキシコ料理
+",-,日曜日,,～￥999,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1152,サンドーレ 小川店,東京都町田市小川1254-4 ,"パン、サンドイッチ
+",-,日曜・祝日,,-,～￥999,3.10
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1153,ふくや珈琲店,東京都町田市原町田4-12-4 1F,"カフェ、コーヒー専門店
+",-,水曜日,http://kraken.jp/,～￥999,-,3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1154,ウフラッテ,東京都町田市鶴間3-10-2 セミナープラス南町田 4F,"洋食、オムライス、パスタ
+",-,無休,,-,～￥999,3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1155,喫茶けやき ことばらんど店,東京都町田市原町田4-16-17 町田市民文学館ことばらんど,"カフェ、喫茶店
+",-,月曜日、ことばらんど休館日,http://www.city.machida.tokyo.jp/,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1156,高久製パン,神奈川県平塚市老松町10-18 ,"パン
+",-,年末年始,http://www.takaku-pan.com/,～￥999,～￥999,3.55
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1157,銀座あけぼの 町田小田急店,東京都町田市原町田6丁目12番20号 小田急百貨店B1F,"和菓子
+",-,,,-,～￥999,3.01
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1158,広島お好み焼き よっちゃん,東京都町田市原町田4-5-19 仲見世商店街,"お好み焼き、居酒屋
+",-,無し,https://hiroshimayochan.owst.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.19
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1159,パンパティ グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク ギャザリングマーケット 1F,"パン・サンドイッチ（その他）
+",-,無休,,～￥999,～￥999,3.50
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1160,ぎゅう舎カフェ カマクラ,神奈川県鎌倉市小町2-12-27 鶴が丘会館１階,"ソフトクリーム、カフェ・喫茶（その他）、パフェ
+",-,水曜日,http://www.npf-ryokuen.com/kamakura.html,-,～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1161,ピッツェリアGG 鎌倉,神奈川県鎌倉市由比ガ浜2-9-62 1F,"ピザ、イタリアン
+",0467-33-5286,不定休　,,"￥2,000～￥2,999","￥1,000～￥1,999",3.62
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1162,パトンキ,東京都町田市小川6-29-17 すずかけ台ビル103,"パン
+",-,月曜日、日曜日,,-,～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1163,mihoppe+,神奈川県伊勢原市桜台1-38-2 ,"ケーキ、洋菓子（その他）
+",-,不定休,https://ateliermihoppe-1.jimdosite.com/,-,-,-
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1164,シャッターズ 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク 1F,"イタリアン
+",-,南町田グランベリーパークに準ずる,https://www.ys-int.com/minamimachida.html,"￥1,000～￥1,999","￥1,000～￥1,999",3.05
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1165,キビヤベーカリー,神奈川県鎌倉市御成町 5-34 ,"パン
+",-,水曜日、不定休(SNSにて告知),https://kibiyabakery.com,-,～￥999,3.74
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1166,シルスマリア 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク ギャザリングマーケット 1F,"チョコレート
+",-,無休,https://www.silsmaria.jp/,-,～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1167,いちびこ 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク セントラルコート 1F ギャザリングマーケット,"カフェ、ケーキ、アイスクリーム
+",-,施設に準ずる,https://ichibiko.jp/,～￥999,～￥999,3.06
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1168,納言志るこ店,神奈川県鎌倉市小町1-5-10 ,"甘味処、かき氷
+",-,水曜日、第1･3木曜日,http://aquadina.com/kamakura/spot/154/,～￥999,～￥999,3.69
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1169,パラダイス　アレイ　ブレッドカンパニー,神奈川県鎌倉市小町1-13-10 鎌倉中央食品市場,"パン、カフェ、ベーグル
+",-,不定休,http://cafecactus5139.com/paradisealley/,-,～￥999,3.58
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1170,オーガスタ ミルク ファーム 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 南町田グランベリーパーク 1F ギャザリングマーケット内,"ソフトクリーム、アイスクリーム
+",-,,,～￥999,～￥999,3.27
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1171,ザ シティ ベーカリー 南町田グランベリーパーク店,東京都町田市鶴間3-3-1 グランベリーパーク ステーションコート 1F,"パン、カフェ
+",-,不定休,https://thecitybakery.jp/shop/minamimachida.html,～￥999,～￥999,3.12
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1172,仁木ファーム フルーツファクトリー 本店,北海道余市郡仁木町北町5-4 ,"ケーキ、アイスクリーム
+",-,,https://shop.jama.co.jp/nikifarm/,-,～￥999,3.25
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1173,ぐるぐるべゑぐる,神奈川県鎌倉市小町1-3-4 ,"ベーグル
+",-,毎週水曜日、第2・第4火曜日,,-,～￥999,3.33
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1174,モナリオ,熊本県熊本市中央区二の丸1-1-2 ,"洋菓子（その他）
+",-,,http://www.monario.jp,-,～￥999,3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1175,天然酵母パンCafe tantanと,神奈川県相模原市南区相模台1-2-2 ,"パン、カフェ
+",-,月曜・日曜,,-,～￥999,3.14
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1176,An Petit Fleur,神奈川県相模原市南区相模台1-1-12 ,"ケーキ
+",-,水曜日,,"￥1,000～￥1,999",～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1177,スウィートエッグス,神奈川県相模原市南区麻溝台5-14-39 ,"パンケーキ、カフェ、洋菓子（その他）
+",-,年中無休(1月1日～1月3日のみ休み),http://kokekoko.ocnk.net/,-,"￥1,000～￥1,999",3.52
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1178,サードシュガー 東京ソラマチ店,東京都墨田区押上1-1-2 東京ソラマチ 2F,"洋菓子（その他）
+",-,,,-,～￥999,3.23
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1179,串かつ でんがな 町田店,東京都町田市原町田6-11-17 町田駅前ビル 1F,"串揚げ・串かつ、居酒屋、ホルモン
+",042-710-8288,無し,,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1180,佳緒,東京都町田市南つくし野1-9-6 ,"寿司、魚介料理・海鮮料理
+",-,不定休,,-,"￥1,000～￥1,999",3.13
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1181,サン ポタマージュ,東京都町田市鶴間3-15-2 ,"パン、カフェ、西洋各国料理（その他）
+",-,日曜日,http://r.goope.jp/st-potamage,-,～￥999,3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1182,アジアンダイニング&バー アーマ,東京都町田市森野3-20-7 ,"インド料理、インドカレー、アジア・エスニック料理（その他）
+",-,不定休,,"￥1,000～￥1,999",～￥999,3.04
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1183,ヤッフルガーデンカフェ,東京都町田市原町田6-10-2 有田ビル 2F,"バー、カフェ、パブ
+",-,火曜日,,"￥2,000～￥2,999",-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1184,クリスプ・サラダワークス 南町田グランベリーパーク店,東京都町田市鶴間3-4-1 グランベリーパーク ステーションコート 1F,"野菜料理
+",-,,,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1185,リアン,東京都町田市原町田3-2-6 TMビル B1F,"オイスターバー
+",-,なし,,"￥5,000～￥5,999",-,3.38
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1186,焼肉一頭両騨 町田本店,東京都町田市森野1-9-18 プリマコスモ1F,"焼肉、ホルモン、鉄板焼き
+",042-720-6366,月　※不定休（年末年始休業：12/31~1/3）,http://www.ittoryodan.jp/ittoryodan_top/ittoryodan/,"￥6,000～￥7,999",-,3.38
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1187,ど・みそ 町田店,東京都町田市原町田3-1-4 町田ターミナルプラザ2F,"ラーメン、つけ麺
+",-,無し（年末年始を除く）,http://blog.livedoor.jp/do_miso/,～￥999,～￥999,3.46
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1188,吾照里 町田店,東京都町田市原町6-11-17 ,"韓国料理、焼肉、居酒屋
+",042-723-2466,無休（1/1は休業となります）,http://www.ojori.jp,"￥3,000～￥3,999",～￥999,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1189,一楽,東京都町田市原町田6-11-13 ホンタマビル　Ｂ１Ｆ,"焼肉、韓国料理、居酒屋
+",042-725-1559,なし,http://www.ichi-raku.net/,"￥3,000～￥3,999","￥1,000～￥1,999",3.40
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1190,北海道らーめん おやじ 町田店,東京都町田市中町1-19-1 ,"ラーメン、つけ麺
+",-,水曜日,,～￥999,～￥999,3.62
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1191,トラットリアベアーレ,東京都町田市中町1-1-4 大黒屋10ビル 3F,"イタリアン、パスタ、バー
+",042-850-8893,月曜日,https://www.trattoria-beare.com/,"￥4,000～￥4,999","￥1,000～￥1,999",3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1192,蛍ぢゃ家,東京都町田市原町田6-17-1 フジビルディング B1F,"居酒屋
+",-,月曜日,,"￥4,000～￥4,999",-,3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1193,和バル ビロク,東京都町田市中町1-16-14 B1F,"居酒屋、ダイニングバー、日本酒バー
+",042-785-4660,月曜・その他店休日あり,https://wabaru-biroku.owst.jp/,"￥6,000～￥7,999",-,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1194,信州里の菓工房,長野県上伊那郡飯島町七久保2513-2 ,"ケーキ、和菓子、カフェ
+",-,無休,http://shinsyusatonokakoubou.co.jp/,-,～￥999,3.56
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1195,やまよこ鮮魚店 町田店,東京都町田市原町田4-5-14 1F,"居酒屋、日本酒バー、魚介料理・海鮮料理
+",0428-51-8047,なし,,"￥3,000～￥3,999",～￥999,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1196,グランプラス浜離宮,東京都港区浜松町1-3-1 パークコート浜離宮ザタワー 1F,"チョコレート、カフェ
+",-,土曜日・日曜日・祝日,https://grand-place.co.jp/,-,"￥2,000～￥2,999",3.20
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1197,カフェ ラジーク,東京都町田市本町田886-4 ,"カフェ
+",-,木曜日,,-,"￥1,000～￥1,999",3.07
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1198,魚ます 町田店,東京都町田市原町田4-3-6 土方ビル　Ｂ１Ｆ ,"居酒屋、魚介料理・海鮮料理、ろばた焼き
+",-,定休日はなし。,http://www.frontier-one.co.jp/,"￥3,000～￥3,999",-,3.24
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1199,オールドクロウバー,東京都町田市原町田6-27-16 ヴァレーシャス 2F,"バー、ダイニングバー、イタリアン
+",-,無休,,"￥2,000～￥2,999",-,3.08
+pureberry(1253),https://tabelog.com/rvwr/pureberry/,1200,久満喜,東京都町田市原町田6-17-3 クマキビル 2F,"寿司、魚介料理・海鮮料理、居酒屋
+",-,日曜日,http://sp.raqmo.com/kumaki/,"￥8,000～￥9,999","￥1,000～￥1,999",3.10

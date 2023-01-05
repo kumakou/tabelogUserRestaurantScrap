@@ -1,0 +1,635 @@
+reviewr_name,reviewr_url,store_id,store_name,store_address,store_genre,store_tellnum,store_closedday,store_homepage,store_dinner_price_range,store_lunch_price_range,store_score
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,1,天老,北海道函館市駒場町7-13 ,"ラーメン、居酒屋
+",-,火曜日（ただし材料仕入れの都合などによる臨時休業の場合あり、その場合Facebookにて告知している）,,"￥4,000～￥4,999","￥1,000～￥1,999",3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,2,駅弁かなや,北海道山越郡長万部町字長万部40番地の2 ,"弁当
+",-,なし,http://www.e-kanaya.com/,-,"￥1,000～￥1,999",3.49
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,3,めんきち,北海道函館市桔梗3-41-11 ,"ラーメン
+",-,不定休,,～￥999,～￥999,3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,4,ひのき亭,北海道檜山郡江差町茂尻町48-2 ,"定食・食堂、ラーメン、天ぷら・揚げ物（その他）
+",-,日曜,,"￥1,000～￥1,999","￥1,000～￥1,999",3.12
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,5,皐月蔵チャミセ,北海道檜山郡江差町姥神町18-1 ,"カフェ
+",-,月曜日・火曜日,http://esashi.sakura.ne.jp/may/活蔵cafe%e3%80%80チャミセ/,-,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,6,居酒屋 丸,北海道函館市美原2-8-30 ,"居酒屋
+",-,不定休,,"￥4,000～￥4,999",-,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,7,Wind ハナレィムーン,北海道函館市美原2-9-38 アークタウン美原,"カフェ・喫茶（その他）
+",-,日・祝,,"￥3,000～￥3,999","￥1,000～￥1,999",3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,8,手打ちそば和味,北海道檜山郡江差町愛宕町40-2 ,"そば
+",-,祝日を除く月曜日　その他,http://www.h2.dion.ne.jp/~esashi/21townmap/e/nagomi/nagomi.htm,-,～￥999,3.34
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,9,蕎麦茶庭 まるにし,北海道檜山郡江差町本町8 ,"喫茶店、そば・うどん・麺類（その他）、パスタ
+",-,水曜日、第2第4日曜日,http://sc-marunishi.com/,-,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,10,函館 元祖 バスラーメン,北海道函館市亀田本町45-1 ハコニワ,"ラーメン
+",-,月曜日、火曜日、水曜日、木曜日、金曜日（祝日除く）,,-,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,11,ひつじどし,北海道函館市亀田本町29-25 ,"ジンギスカン
+",-,水曜日,http://www.hitujidoshi.com/,"￥5,000～￥5,999",-,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,12,ハコニワジェラート,北海道函館市亀田本町45-1 ,"アイスクリーム
+",-,月曜日、火曜日、水曜日,,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,13,おやつべーぐる メルチッチ,北海道函館市五稜郭町19-17 ,"ベーグル
+",-,日曜日ほか不定休（公式Instagramにてお知らせ）,https://meruchicchi.base.shop/,-,"￥1,000～￥1,999",3.00
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,14,横浜家系ラーメン おばら家 鍛治店,北海道函館市鍛治2-7-8 ,"ラーメン
+",-,,,-,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,15,あすなろパン,北海道檜山郡江差町本町105-1 あすなろ新地センター,"パン、パン・サンドイッチ（その他）
+",-,特になし,http://esashi-fukushikai.com/eq/eq-shinchi.html,-,"￥1,000～￥1,999",3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,16,五勝手屋本舗,北海道檜山郡江差町本町38 ,"和菓子
+",-,第3火曜,https://gokatteya.co.jp/,-,"￥3,000～￥3,999",3.48
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,17,Guild Endeavour,北海道爾志郡乙部町字館浦686-2 ,"イタリアン、レストラン（その他）
+",-,火曜日,http://www.guild-endeavour.jp/,"￥2,000～￥2,999","￥1,000～￥1,999",3.14
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,18,ぱんやベッキー,北海道檜山郡江差町字姥神町56-1 ,"パン
+",-,火曜日　第１第３月曜日（HPカレンダー、公式Facebook、公式Instagramをご覧ください）,http://panyabecky.com/,-,～￥999,3.00
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,19,お食事処 ひろべ,北海道函館市石川町331-1 医療法人雄心会 函館新都市病院 1F,"レストラン（その他）、カフェ・喫茶（その他）
+",-,日曜日・祝日,http://yushinkai.jp/hakodate/,-,～￥999,3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,20,らーめん二代目 ひらき家,北海道函館市本町7-23 ,"ラーメン
+",-,月曜日,,～￥999,～￥999,3.18
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,21,パレス,北海道檜山郡江差町新地町27-3 ,"イタリアン、ピザ、居酒屋・ダイニングバー（その他）
+",-,不定休（基本火曜日、詳細はFacebookにて告知）,,"￥3,000～￥3,999","￥1,000～￥1,999",3.30
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,22,キットゥン,北海道函館市本町32-29 ,"タイ料理
+",-,火曜日,,"￥2,000～￥2,999",～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,23,スターバックスコーヒー シエスタハコダテ店,北海道函館市本町24-1 シエスタハコダテ,"カフェ
+",-,,https://www.starbucks.co.jp/,-,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,24,つるみ食堂,北海道檜山郡江差町橋本町62 ,"定食・食堂、ラーメン、そば
+",-,,,-,～￥999,3.18
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,25,道の駅 みそぎの郷 きこない,北海道上磯郡木古内町字本町338-14 ,"その他
+",-,無休(年末年始のみ休み),http://kikonai.jp/,-,～￥999,3.20
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,26,コッペん道士 木古内本店,北海道上磯郡木古内町字本町338-14 道の駅 みそぎの郷,"パン
+",-,不定休,http://coppendot.com/,-,～￥999,3.18
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,27,キッチンキーコ,北海道木古内町字本町338-14 道の駅 みそぎの郷 きこない,"レストラン（その他）
+",-,無休(年末年始のみ休み),,-,～￥999,3.17
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,28,いかめし 阿部商店,北海道茅部郡森町御幸町112 ,"弁当、郷土料理（その他）
+",-,日曜日,https://ikameshi.co.jp/,-,～￥999,3.37
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,29,道の駅 しかべ間歇泉公園,北海道茅部郡鹿部町字鹿部18-1 ,"その他
+",-,【3月20日－12月31日】定休日無し【1月1日－3月19日】毎週水曜定休、年末年始（12月30日～1月1日）,https://shikabe-tara.com,-,"￥1,000～￥1,999",3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,30,ラッキーピエロ 函館駅前店,北海道函館市若松町8-8 ホテル ニューオーテ 2F,"ハンバーガー
+",-,,http://www.luckypierrot.jp/,～￥999,～￥999,3.39
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,31,ピーク・カフェ,北海道亀田郡七飯町東大沼666 函館七飯スノーパーク 山頂,"カフェ
+",-,無休（函館七飯スノーパーク及び函館七飯ゴンドラの営業日による。公式ウェブサイト参照）,https://hakodate-nanae.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.12
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,32,山麓Cafe,北海道亀田郡七飯町東大沼666 函館七飯スノーパーク,"カレーライス、そば・うどん・麺類（その他）、ラーメン
+",-,不定休(函館七飯スノーパーク及びゴンドラ運行に準ずる),http://hakodate-nanae.jp/,-,"￥1,000～￥1,999",3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,33,れすとらん 津花館,北海道檜山郡江差町橋本町100 ,"洋食、オムライス、定食・食堂
+",-,第２・４月曜日,http://esashi-tsubanakan.com/,-,"￥1,000～￥1,999",3.32
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,34,カフェ 香澄 カズミ,北海道檜山郡江差町姥神町121-4 ,"カフェ、アジア・エスニック料理（その他）、ピザ
+",-,不定休（店舗にて休店日カレンダーの掲示や配布・Facebookでの告知のほか、問い合わせ可、日曜日も同様）,https://ameblo.jp/kamomeland/entry-12457871290.html,-,"￥1,000～￥1,999",3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,35,麺や 壱,北海道檜山郡江差町字中歌町68 ,"ラーメン
+",-,火曜日（営業する場合あり、問い合わせ可）,,"￥1,000～￥1,999","￥1,000～￥1,999",3.14
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,36,おにぎりや,北海道亀田郡七飯町字仁山245 ,"おにぎり、うどん、そば
+",-,無,,-,～￥999,3.32
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,37,ラーメンの王道 北浜商店 昭和店,北海道函館市昭和1-29-5 函館昭和タウンプラザ F棟,"ラーメン
+",-,水曜日,http://kitahamasyoten.com/,～￥999,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,38,ランブル,北海道檜山郡江差町本町96 ,"喫茶店
+",-,無休,,-,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,39,エンデバー 函館店,北海道函館市湯川町1-26-24 ,"バー、カフェ
+",-,水曜日,http://www.shop-endeavour.jp/,"￥2,000～￥2,999",-,3.28
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,40,グリル 塩豚,北海道函館市湯川町1-9-15 ,"豚料理、ラーメン、カレーライス
+",-,月曜（祝日の場合は翌日）,http://enton.jp/,"￥1,000～￥1,999",～￥999,3.31
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,41,函館海鮮居酒屋 魚まさ 五稜郭総本店,北海道函館市本町4-7 ,"居酒屋、魚介料理・海鮮料理、かに
+",0138-53-1146,年中無休　※年末年始を除く,https://www.hakodate-uomasa.com/,"￥5,000～￥5,999",-,3.33
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,42,ガスト 札幌福住店,北海道札幌市豊平区福住3条1丁目1-5 ,"ファミレス
+",-,無休,http://www.skylark.co.jp/gusto/,"￥1,000～￥1,999","￥1,000～￥1,999",3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,43,伝説のすた丼屋 札幌駅前店,北海道札幌市中央区北3条西3-1-61 ,"豚丼
+",-,無休,http://sutadonya.com/,～￥999,～￥999,3.23
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,44,乃が美 函館店,北海道函館市本町6-12 テーオービル,"パン
+",-,火曜日,,-,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,45,函館パン エスポワール&札幌どんぐり,北海道函館市亀田本町46-8 ,"パン
+",-,,http://pan-espoir.com/index.html,"￥1,000～￥1,999",～￥999,3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,46,キングベーク 本店,北海道函館市亀田本町7-8 ,"パン、洋菓子（その他）、カフェ
+",-,無休,http://kingbake.co.jp/,-,～￥999,3.47
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,47,ぱんやベッキー,北海道檜山郡江差町姥神町90 ,"パン
+",-,火曜日・第１第３月曜日　（臨時休業あり。店舗ＨＰのカレンダーでお確かめ下さい。）,http://panyabecky.com/,-,～￥999,3.42
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,48,餃子の王将 イオン湯川店,北海道函館市湯川町3-14-5 イオン湯川 1F,"中華料理
+",-,なし（イオン湯川店の店休日に準ずる）,http://map.ohsho.co.jp/b/ohsho/info/2469/,～￥999,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,49,大阪王将 函館桔梗店,北海道函館市桔梗4-34-18 ,"餃子、中華料理
+",-,無し,https://www.osaka-ohsho.com/,"￥1,000～￥1,999",～￥999,3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,50,ハセガワストア 七重浜店,北海道北斗市七重浜6-11-1 ,"その他
+",-,年中無休,,-,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,51,ケンタッキーフライドチキン 函館本通店,北海道函館市本通4丁目17番33号 ,"レストラン（その他）、ハンバーガー
+",-,,http://www.kfc.co.jp/,-,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,52,ラーメン山岡家 函館万代店,北海道函館市万代町7-14 ,"ラーメン、つけ麺
+",-,無休,https://www.yamaokaya.com/,～￥999,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,53,中華そば 櫓屋 本店,北海道北斗市七重浜2-37-3 ,"ラーメン、餃子
+",-,不定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.36
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,54,おしま食堂,北海道函館市美原4-6-16 北海道渡島総合振興局,"定食・食堂
+",-,土・日・祝,,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,55,マクドナルド 湯川生協店,北海道函館市湯川町1-34-15 ,"ハンバーガー
+",-,,,-,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,56,ペティット シトロン,北海道函館市杉並町23-10 ,"ジュースバー
+",-,なし（シエスタハコダテの店休日に準じる）,https://www.sharestar.jp/shop,-,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,57,マッタリーナカフェ,北海道函館市石川町52-16 ,"イタリアン、パスタ、ピザ
+",0138-47-1616,無休,http://www.aix-group.co.jp/food/mattarina/,"￥2,000～￥2,999","￥1,000～￥1,999",3.24
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,58,五福星,宮城県仙台市泉区野村字馬場屋敷11-2 ,"ラーメン、つけ麺、餃子
+",-,火曜日【㊗️祝日の場合は翌日⠀】,,"￥1,000～￥1,999",～￥999,3.66
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,59,翼餃子,北海道函館市美原2-1-4 ,"ラーメン、餃子、居酒屋
+",-,毎週水・木曜日,http://toshomenwing.wix.com/hirokiiro,"￥2,000～￥2,999","￥1,000～￥1,999",3.34
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,60,珈琲所 コメダ珈琲店 イオン上磯店,北海道北斗市七重浜4-44-1 ,"喫茶店
+",-,,https://www.komeda.co.jp/,-,"￥1,000～￥1,999",3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,61,ハセガワストア 函館駅前店,北海道函館市若松町14-10 函館ツインタワービル 1F,"その他
+",-,,http://www.hasesuto.co.jp/,～￥999,～￥999,3.20
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,62,コメダ珈琲店  函館ベイエリア店,北海道函館市豊川町27-8 ,"喫茶店、カフェ
+",-,なし,http://www.komeda.co.jp/search/shopdetail.php?id=957,"￥1,000～￥1,999",～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,63,炭火居酒屋 炎 函館美原店,北海道函館市美原1-20-11 カワシロビル 1F,"居酒屋、焼鳥、中国鍋・火鍋
+",-,年中無休で営業,https://sumibiizakaya-en-mihara.com/,"￥2,000～￥2,999",-,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,64,焼肉物語 牛若 本店,北海道函館市本町10-9 藤ビル 1F,"焼肉、牛タン、居酒屋
+",-,■ランチタイム：月曜定休　■ディナータイム：年中無休,https://yakiniku-ushiwaka.com,"￥5,000～￥5,999","￥1,000～￥1,999",3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,65,吉野家 函館神山店,北海道函館市神山2-205-17 ,"牛丼
+",-,,,-,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,66,レストラン雪河亭 本店,北海道函館市末広町4-5 五島軒本店,"洋食、カレーライス、ロシア料理
+",-,"夏季/無休冬季/1月～4月中旬まで火曜定休1月1,2日定休",http://www.gotoken.hakodate.jp/,"￥3,000～￥3,999","￥2,000～￥2,999",3.49
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,67,ラッキーピエロ 江差入口前店,北海道檜山郡厚沢部町字美和1252-1 ,"ハンバーガー、カレーライス、洋食・欧風料理（その他）
+",-,なし,http://luckypierrot.jp/,-,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,68,チャンダニー キッチン,北海道函館市美原1-7-1 MEGAドン・キホーテ函館店 B1F,"インドカレー、インド料理
+",-,無休（MEGAドン・キホーテの休店日に準ずる）,,"￥1,000～￥1,999","￥1,000～￥1,999",3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,69,居酒屋和がや,北海道爾志郡乙部町緑町353-1 ,"居酒屋
+",-,日曜日,,"￥1,000～￥1,999",-,-
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,70,串カツ田中 函館五稜郭店,北海道函館市本町24-5 ,"串揚げ・串かつ
+",-,無休,,"￥5,000～￥5,999",-,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,71,ささなみ精肉店,北海道檜山郡江差町茂尻町135 ,"その他
+",-,無休,,～￥999,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,72,江差会館,北海道檜山郡江差町新地町10 ,"居酒屋、和食（その他）、定食・食堂
+",-,不定休,,"￥3,000～￥3,999",-,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,73,さと水,北海道檜山郡江差町新地町26-9 ,"居酒屋、魚介料理・海鮮料理、創作料理
+",-,毎週日曜日・祝日は要確認,,"￥4,000～￥4,999",-,3.15
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,74,笹浪精肉店,北海道江差町字本町52 ,"その他
+",-,日曜日,,～￥999,-,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,75,居酒屋美里,北海道檜山郡上ノ国町大留159-1 ,"居酒屋、和食（その他）、魚介料理・海鮮料理
+",-,不定休,,"￥3,000～￥3,999",-,-
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,76,レストラン 駒,北海道亀田郡七飯町東大沼666 函館七飯スノーパーク,"洋食、中華料理、カフェ・喫茶（その他）
+",-,無休（函館七飯スノーパーク・スキーシーズンの営業日に準ずる）,http://hakodate-nanae.jp/,-,"￥1,000～￥1,999",3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,77,小林ミルクパーラー,北海道檜山郡江差町中歌町59 ,"ソフトクリーム
+",-,不定休,,-,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,78,友栄 太田かまぼこ,北海道函館市中島町25-16 ,"その他
+",-,日曜日・月曜日,,-,"￥1,000～￥1,999",3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,79,函まるずし 昭和店,北海道函館市昭和1-29-6 ,"回転寿司、寿司、魚介料理・海鮮料理
+",-,【無休】毎日元気に営業中！,http://www.aix-group.co.jp/food/sushi/,"￥1,000～￥1,999","￥1,000～￥1,999",3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,80,スターバックスコーヒー 函館五稜郭駅前店,北海道函館市亀田本町46-1 ,"カフェ
+",-,不定休　,,～￥999,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,81,大阪王将 函館TEXAS店,北海道函館市梁川9-3 TEXAS函館 1F,"餃子、中華料理
+",-,,,"￥1,000～￥1,999",-,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,82,クッキングショップ大林,北海道函館市亀田本町65-25 ,"弁当、デリカテッセン、からあげ
+",-,日曜日,,～￥999,"￥1,000～￥1,999",3.41
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,83,台湾茶＆タピオカ専門店 虎无茶  函館店,北海道函館市本町24-6 ,"スイーツ（その他）、タピオカ
+",-,不定休,,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,84,四文屋 函館五稜郭店,北海道函館市本町7-14 ,"焼きとん、焼鳥
+",-,無休,,"￥3,000～￥3,999",～￥999,3.25
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,85,ケンタッキーフライドチキン イオンモール札幌平岡店,北海道札幌市清田区平岡3条5丁目3-1 イオンモール札幌平岡店 1F フードテラス,"レストラン（その他）、アメリカ料理
+",-,無休（但しイオンモール札幌平岡に準ずる）,http://www.kfc.co.jp/,～￥999,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,86,コールド・ストーン・クリーマリー/クロワッサンたい焼 三井アウトレットパーク札幌北広島店,北海道北広島市大曲幸町3-7-6 三井アウトレットパーク札幌北広島 2F,"アイスクリーム、たい焼き・大判焼き
+",-,無休,http://www.coldstonecreamery.co.jp/,～￥999,"￥1,000～￥1,999",3.15
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,87,釧之助 乙部店,北海道爾志郡乙部町館浦494-2 ,"その他
+",-,無休(年末年始のみ休み),,-,～￥999,3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,88,めしや 亜砂,北海道檜山郡江差町字橋本町97-1 ,"定食・食堂、居酒屋
+",-,不定休,,"￥2,000～￥2,999","￥1,000～￥1,999",3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,89,居酒屋 みどり,北海道檜山郡江差町本町52 ,"居酒屋、串焼き、からあげ
+",-,不定休,,-,-,-
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,90,浅野屋菓子舗,北海道檜山郡江差市本町45 ,"ケーキ、和菓子
+",-,無休,http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/07esashi/parts/6709asn.htm,-,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,91,さくら屋,北海道檜山郡江差町橋本町34-3 ,"ラーメン
+",-,月曜日（ただし祝日の場合は火曜日）,,～￥999,～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,92,スーパーサンメイト,北海道上磯郡木古内町本町227-1 ,"その他
+",-,無休,,-,-,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,93,お肉のつしま IRWAK,北海道函館市本町24-1 シエスタハコダテ B1F 函館フードマーケットホールシエスタキッチン,"ステーキ、焼肉、牛料理
+",-,不定休(シエスタハコダテ準ずる),https://www.irwak-sharestar.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,94,美唄焼鳥 炎 イオン湯川店,北海道函館市湯川町3-14-5 イオン湯川 1F,"焼鳥
+",-,無休（但しイオン湯川店の店休日に準ずる）,http://delica-en.com/#go_shop,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,95,ハセガワストア 中道店,北海道函館市中道2-14-16 ,"その他
+",-,年中無休,http://www.hasesuto.co.jp/,～￥999,～￥999,3.23
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,96,ラーメン なんでや麺,北海道函館市駒場町11-16 ,"ラーメン
+",-,不定休,,-,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,97,台湾茶 虎无茶 函館店,北海道函館市本町24-1 BF シエスタキッチン,"スイーツ（その他）
+",-,無休,,～￥999,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,98,いきなりステーキ フレスポ函館戸倉店,北海道函館市戸倉町143-4 ,"ステーキ
+",-,年中無休,http://ikinaristeak.com/shopinfo/frespo-hakodatetokura/,"￥2,000～￥2,999","￥1,000～￥1,999",3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,99,茶房せき川,北海道檜山郡江差町中歌町23 ,"喫茶店、カフェ、甘味処
+",-,不定休（冬期間休業）,,-,～￥999,3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,100,赤から 五稜郭店,北海道函館市本町32-8 ,"居酒屋、焼肉、鍋（その他）
+",-,年中無休※12/31、1/1のみお休み,,"￥2,000～￥2,999",-,3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,101,ラッキーピエロ 戸倉店,北海道函館市戸倉町30-1 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,無休,http://www.luckypierrot.jp/index.html,"￥1,000～￥1,999",～￥999,3.30
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,102,亜細亜的惣菜店 ガパオ飯,北海道函館市本町24-1 シエスタハコダテ B1F,"アジア・エスニック料理（その他）
+",-,不定休,https://www.sharestar.jp/shop,"￥1,000～￥1,999",～￥999,3.23
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,103,キングベークナチュラル シエスタ店,北海道函館市函館本町24-1 シエスタハコダテ,"パン
+",-,,https://www.sharestar.jp/top,～￥999,～￥999,3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,104,吉田酒店,北海道檜山郡江差町中歌町38 ,"コロッケ・フライ、カレーライス、カレーうどん
+",-,無休,http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/07esashi/parts/7707ysd.htm,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,105,カフェ&ミール ムジ シエスタハコダテ,北海道函館市函館本町24-1 シエスタハコダテ 1F,"カフェ
+",-,,https://www.muji.com/jp/shop/045685,～￥999,～￥999,3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,106,ラーメン 山岡家 八雲店,北海道二海郡八雲町東雲町3-7 ,"ラーメン、つけ麺、餃子
+",-,年中無休,http://www.yamaokaya.com/,～￥999,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,107,HANAZONO 308,北海道虻田郡倶知安町岩尾別328 ,"レストラン（その他）、カフェ
+",-,,http://www.hanazononiseko.com/ja/index.php,-,"￥1,000～￥1,999",3.29
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,108,餃子の王将 清田店,北海道札幌市清田区清田2条1-3-1 ,"餃子、中華料理、ラーメン
+",-,無休,http://www.ohsho.co.jp/,～￥999,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,109,1000Mヒュッテ,北海道虻田郡倶知安町字山田204 ニセコ東急 グラン・ヒラフ,"カフェ
+",-,,https://www.grand-hirafu.jp/winter/,-,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,110,レストハウス エースヒル,北海道虻田郡倶知安町字山田204 ニセコ東急 グラン・ヒラフ,"洋食、カフェ
+",-,,https://www.grand-hirafu.jp/winter/,-,"￥1,000～￥1,999",3.23
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,111,道の駅 望羊中山,北海道虻田郡喜茂別町字川上345 ,"その他
+",-,年中無休,http://www.hokkaido-michinoeki.jp/data/7/each.htm#,-,～￥999,3.27
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,112,お菓子の王国 はっぴーディアーズ,北海道山越郡長万部町字中ノ沢13-2 ,"洋菓子（その他）、スイーツ（その他）
+",-,年中無休,https://happy-deers.com,"￥1,000～￥1,999","￥1,000～￥1,999",3.27
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,113,ラッキーピエロ 峠下総本店,北海道亀田郡七飯町峠下337-11 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp,～￥999,～￥999,3.40
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,114,魚活鮮とあぶり焼 海へ 川沿店,北海道札幌市南区川沿四条2丁目 アパホテル＆リゾート 札幌,"居酒屋、魚介料理・海鮮料理、寿司
+",-,-,,"￥2,000～￥2,999",～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,115,コメダ珈琲店 清田北野店,北海道札幌市清田区北野1条2-10-31 ,"喫茶店、サンドイッチ、スイーツ（その他）
+",-,無休（但し年末年始は除く）,http://www.komeda.co.jp/,～￥999,～￥999,3.17
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,116,焼肉番長 花園店,北海道函館市花園町9-12 ,"焼肉、バイキング、ホルモン
+",-,無休　店内ダクト調整、清掃の為、年に1回お休みいただく事がございます。,,"￥2,000～￥2,999","￥1,000～￥1,999",3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,117,函館麺屋 ゆうみん,北海道函館市若松町19-1 ,"ラーメン、餃子
+",-,不定休,,"￥1,000～￥1,999",～￥999,3.30
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,118,ラマイ 函館五稜郭店,北海道函館市五稜郭町31-10 ,"スープカレー、アジア・エスニック料理（その他）
+",-,無休,http://www.ramai.co.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,119,レストランまりも,北海道茅部郡森町赤井川229 グリーンピア大沼内,"定食・食堂
+",-,無休,http://www.gp-onuma.com/,-,～￥999,3.12
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,120,ガスト 札幌豊平店,北海道札幌市豊平区豊平3条11丁目2-29 ,"ファミレス
+",-,無休,http://www.skylark.co.jp/gusto/,"￥1,000～￥1,999","￥1,000～￥1,999",3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,121,美唄焼鳥・惣菜 炎 ラフィラB2店,北海道札幌市中央区南4条西4-1 ラフィラ B2F,"焼鳥、天ぷら・揚げ物（その他）
+",-,ラフィラに準じる,,～￥999,～￥999,3.25
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,122,餃子の王将 すすきの店,北海道札幌市中央区南三条西3-10-1 ,"中華料理、餃子、ラーメン
+",-,12月31日、1月1日,http://www.ohsho.co.jp/index.html,～￥999,～￥999,3.23
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,123,みよしの 狸小路店,北海道札幌市中央区南3条西2丁目16-4 狸小路2丁目南,"餃子、カレーライス
+",-,無休,http://miyoshino-sapporo.jp/,～￥999,～￥999,3.25
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,124,サイゼリヤ 札幌すすきの交差点店,北海道札幌市中央区南4条西4-5-4 松岡ビル 2F,"ファミレス、イタリアン、パスタ
+",-,年中無休,http://www.saizeriya.co.jp/,"￥1,000～￥1,999",～￥999,3.14
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,125,上島珈琲店 札幌アピア店,北海道札幌市中央区北五条西4 アピア B1F,"カフェ、コーヒー専門店
+",-,不定休(アピアに準ずる),http://www.ueshima-coffee-ten.jp/,-,～￥999,3.23
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,126,カルディコーヒーファーム 函館蔦屋書店,北海道函館市石川町85-1 蔦屋書店函館店 1F,"その他
+",-,,,～￥999,～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,127,魚べい 函館本通店,北海道函館市本通り4-5-10 ,"寿司
+",-,無休,http://www.genkisushi.co.jp/uobei/,"￥2,000～￥2,999","￥2,000～￥2,999",3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,128,なごみ,北海道函館市乃木町4-25 ,"レストラン（その他）、和食（その他）、洋食・欧風料理（その他）
+",-,無休,http://nagomi-onsen.jp/hakodate/insyoku.html,～￥999,～￥999,3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,129,ガスト 函館鍛治店,北海道函館市鍛治2-1-3 ,"ファミレス
+",-,,,-,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,130,ラッキーピエロ ベイエリア本店,北海道函館市末広町23-18 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,無休,http://www.luckypierrot.jp/,-,～￥999,3.48
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,131,前井食堂,北海道檜山郡厚沢部町本町45-7 ,"ラーメン、そば、定食・食堂
+",-,日曜日,http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/maeisyokudou.htm,"￥1,000～￥1,999",～￥999,3.36
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,132,ホテルニセコアルペン,北海道虻田郡倶知安町字山田204 ,"その他
+",-,不定休,https://www.hotel-nisekoalpen.jp/,"￥20,000～￥29,999",-,3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,133,ひぐま 横丁本店,北海道札幌市中央区南5条西3丁目 ラ-メン横丁,"ラーメン
+",-,月曜日,http://hokkaido-higuma.jp/higuma.html,～￥999,～￥999,3.49
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,134,ケンタッキーフライドチキン 札幌四番街店,北海道札幌市中央区南四条西3-9 ２Ｍビル,"その他肉料理、ハンバーガー
+",-,無休,,～￥999,"￥1,000～￥1,999",3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,135,有珠山サービスエリア（下り線）スナックコーナー,北海道伊達市幌美内町21-67 ,"定食・食堂、カレーライス、アイスクリーム
+",-,無休,http://www.driveplaza.com/sapa/1050/1050029/2/,～￥999,～￥999,3.33
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,136,グリーンピア大沼,北海道茅部郡森町赤井川229 ,"その他
+",-,,http://www.gp-onuma.com/,"￥6,000～￥7,999","￥3,000～￥3,999",3.13
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,137,Jolly Jellyfish,北海道函館市東山2-6-1 South Cedar DRIVE INN 1F,"洋食、ステーキ、ハンバーグ
+",-,"水曜日,木曜日",http://southcedardriveinn.com/,"￥2,000～￥2,999","￥1,000～￥1,999",3.28
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,138,中国料理　幸珍,北海道函館市昭和3-30-55 ,"中華料理、焼きそば、中華麺（その他）
+",-,火曜日,,"￥1,000～￥1,999",～￥999,3.42
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,139,五島軒 プロミエル・カモイ十字街店,北海道函館市末広町5-20 ,"ケーキ
+",-,無,,-,～￥999,3.33
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,140,セイコーマート 函館五稜郭店,北海道函館市五稜郭町31-3 ,"その他
+",-,,http://www.seicomart.co.jp/,-,～￥999,3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,141,宝来パン 本店,北海道函館市末広町7-15 ,"パン、洋菓子（その他）
+",-,日曜日,,-,～￥999,3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,142,立待岬休憩所 売店はまなす,北海道函館市住吉町 ,"その他
+",-,,,-,～￥999,3.12
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,143,ハセガワストア 高砂通り店,北海道函館市大縄町13-19 ,"その他
+",-,無休,,～￥999,～￥999,3.17
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,144,函館山展望台 山頂ショップ,北海道函館市元町19-7 函館山展望台 2F,"その他
+",-,年中無休,http://www.334.co.jp/jpn/,"￥1,000～￥1,999",-,3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,145,函館カレー エクスプレス 五稜郭タワー店,北海道函館市五稜郭町43-9 ,"カレーライス、欧風カレー、コロッケ・フライ
+",-,無休,https://gotoken1879.jp/goryokaku/,-,"￥1,000～￥1,999",3.42
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,146,ラッキーピエロ 五稜郭公園前店,北海道函館市五稜郭町30-14 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp/,～￥999,～￥999,3.45
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,147,ハセガワストア ベイエリア店,北海道函館市末広町23-5 ,"その他
+",-,無休,http://www.hasesuto.co.jp/,～￥999,～￥999,3.28
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,148,スターバックス・コーヒー 函館蔦屋書店,北海道函館市石川町85-1 ,"コーヒー専門店、パン・サンドイッチ（その他）、ケーキ
+",-,不定休(函館蔦谷書店に準ずる),http://www.starbucks.co.jp/store/search/detail.php?id=2046&search_condition=%E5%8C%97%E6%B5%B7%E9%81%93&search_type=1&free_word=&pref_code=1&city=&store_type_3=&x=64&y=10,～￥999,～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,149,亜細亜的惣菜店 マンハッタン エスタ店,北海道札幌市中央区北5条西2 エスタ B1F,"デリカテッセン
+",-,無休,,～￥999,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,150,八天堂 札幌エスタ店,北海道札幌市中央区北5条西2丁目 札幌エスタ B1F,"パン
+",-,,http://www.hattendo-sapporo.jp/,-,～￥999,3.18
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,151,ヴィ･ド･フランス アピア店,北海道札幌市中央区北5条西3 札幌駅南口広場地下街,"パン、カフェ
+",-,アピアに準ずる,http://viedefrance.co.jp/index.shtml,-,～￥999,3.15
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,152,吉田商店,北海道函館市新川町24-1 ,"スープカレー
+",-,不定休,http://yoshidashowten.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.51
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,153,山田屋菓子舗,北海道檜山郡江差町姥神町79-1 ,"和菓子
+",-,日曜日,http://yamadaya-kashiho.com/,-,～￥999,3.23
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,154,壱番蔵,北海道檜山郡江差町姥神町42-3 ,"カフェ、ケーキ
+",-,水曜日,,-,～￥999,3.16
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,155,ハセガワストア 五稜郭店,北海道函館市五稜郭町4-14 ,"その他
+",-,年中無休,http://www.hasesuto.co.jp/,～￥999,～￥999,3.24
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,156,マクドナルド 函館鍛治店,北海道函館市鍛治2-39 ,"ハンバーガー
+",-,,,-,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,157,かんずり,新潟県妙高市西条438-1 ,"その他
+",-,土曜日・日曜日・祝日,http://www.kanzuri.com/,～￥999,～￥999,3.12
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,158,串カツ専門店 馬力 函館店,北海道函館市深堀町30-32 ,"串揚げ・串かつ
+",-,不定休,,"￥4,000～￥4,999",-,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,159,海月,新潟県上越市柿崎区上下浜262 マリンホテルハマナス内,"魚介料理・海鮮料理
+",-,,http://www.marine-hamanasu.jp/sisetu.php#rest,"￥10,000～￥14,999","￥10,000～￥14,999",3.13
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,160,がんこ 高瀬川二条苑,京都府京都市中京区木屋町通二条下ル東生洲町484-6 ,"懐石・会席料理、寿司、魚介料理・海鮮料理
+",-,‐,http://www.gankofood.co.jp/group/oyashiki/nijyoen/,"￥5,000～￥5,999","￥3,000～￥3,999",3.33
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,161,東急ステイ 京都両替町通,京都府京都市中京区両替町通姉小路下ル柿本町392 ,"その他
+",-,,,-,"￥15,000～￥19,999",3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,162,道の駅なないろ・ななえ,北海道亀田郡七飯町字峠下380-2 ,"その他
+",-,12月31日~1月3日,http://nanairo-nanae.jp/,～￥999,～￥999,3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,163,焼きとり出前一丁,北海道函館市神山1丁目12-14 ,"焼鳥
+",-,火曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,164,ハーベスト,北海道北斗市久根別3丁目207 ,"パン、ケーキ
+",-,定休日日曜日・年間営業予定で決められた月曜日,http://nice-heart-net.jp/user_detail/index.php?user_id=263,-,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,165,酒保古西酒店,北海道函館市谷地頭町25-15 ,"立ち飲み居酒屋・バー
+",-,日曜日,,-,"￥1,000～￥1,999",3.10
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,166,弁慶力餅　三晃堂,北海道函館市松風町4-11 ,"和菓子、寿司
+",-,年末年始,,-,～￥999,3.28
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,167,ラーメン 五稜郭家,北海道函館市本町32-5 ,"ラーメン
+",-,不定休,,"￥1,000～￥1,999",～￥999,3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,168,鳳蘭,北海道函館市松風町5-13 ,"ラーメン、中華料理、カレーライス
+",-,火曜日,http://gourmet.hakonavi.ne.jp/chinese/houran/index.html,～￥999,～￥999,3.51
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,169,そばと酒　柏木町三貞,北海道函館市柏木町7-32 ,"そば、うどん
+",-,月曜日,,～￥999,-,3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,170,ケンタッキーフライドチキン 函館美原店,北海道函館市美原2丁目13番8号 ,"レストラン（その他）、ハンバーガー
+",-,,http://www.kfc.co.jp/,-,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,171,まるかつ水産 柏木店,北海道函館市柏木町1-36 市電柏木町電停前,"回転寿司
+",-,不定休,http://www.hakodate-factory.com/sushi/news.htm,"￥6,000～￥7,999","￥2,000～￥2,999",3.44
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,172,ミスタードーナツ 函館五稜郭ショップ,北海道函館市本町25-14 ,"ドーナツ
+",-,,https://www.misterdonut.jp/,-,"￥1,000～￥1,999",3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,173,追分鮨,北海道檜山郡江差町新地町36-6 ,"寿司
+",-,,,-,-,-
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,174,光林荘,北海道爾志郡乙部町字館浦527-2 ,"旅館
+",-,無休,http://www.kourinsou.com/,"￥15,000～￥19,999",-,3.24
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,175,ベビー フェイス プラネッツ 函館店,北海道函館市美原1-7-1 MEGAドン・キホーテ函館店 1F,"洋食、パスタ、ピザ
+",-,無休（MEGAドン・キホーテの営業に準ずる）,http://babyface-planets.com/prefecture/hokkaido,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,176,チャイニーズレストラン 美華,北海道桧山郡江差町新地町27-6 ,"中華料理、ちゃんぽん、ラーメン
+",-,不定休（基本的に水曜日）,http://www.h2.dion.ne.jp/~esashi/21townmap/e/e49/mika.htm,-,～￥999,3.13
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,177,滝野庵,北海道檜山郡厚沢部町字滝野517-1 ,"そば、天丼・天重
+",-,なし年末年始（12/26〜1/4）,http://www.hiyama.pref.hokkaido.lg.jp/ss/srk/tabi/08assabu/parts/6803tkn.htm#title,-,～￥999,3.32
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,178,ネパールインドレストラン シリキッチン,北海道函館市美原1-20-11 カワシロビル 1F,"ネパール料理、カレー（その他）
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,179,お好み焼き こて屋,北海道函館市美原1-7-1 MEGAドンキホーテ函館店 B1F,"お好み焼き、もんじゃ焼き、焼きそば
+",-,,,"￥1,000～￥1,999",～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,180,ファミリーマート キラリス函館店,北海道函館市若松町20-1 キラリス函館 1F,"その他
+",-,無休,http://www.family.co.jp/,～￥999,～￥999,3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,181,函館麺屋 四代目,北海道函館市松風町6-10 ,"ラーメン
+",-,木曜,,～￥999,～￥999,3.27
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,182,弁財船,北海道函館市若松町18-17 ,"定食・食堂、ラーメン
+",-,水曜日,,"￥1,000～￥1,999",～￥999,3.53
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,183,ヴィクトリアステーション 函館昭和店,北海道函館市昭和3-31-25 ,"ファミレス、ステーキ、ハンバーグ
+",-,無休,,-,"￥1,000～￥1,999",3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,184,居酒屋 あひる,北海道桧山郡江差町茂尻町323 ,"居酒屋、魚介料理・海鮮料理
+",-,日曜,,"￥2,000～￥2,999",-,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,185,バリアフリーホテルあすなろ,北海道爾志郡乙部町館浦494-1 ,"その他
+",-,無休,,"￥10,000～￥14,999",-,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,186,すたみな太郎 函館店,北海道函館市鍛治2-8-16 ,"バイキング、焼肉、寿司
+",-,無休,http://edo-ichi.jp/stamina/ ,-,"￥1,000～￥1,999",3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,187,マクドナルド 函館松風店,北海道函館市松風町11-15 ,"ハンバーガー
+",-,無休,http://www.mcdonalds.co.jp/,～￥999,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,188,ハセガワストア 棒二森屋店,北海道函館市若松町17-12 棒二森屋 B1F,"その他
+",-,不定休(棒二森屋に準ずる),http://www.hasesuto.co.jp/,～￥999,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,189,ミスタードーナツ 函館本通ショップ,北海道函館市本通2-1-45 ,"ドーナツ、カフェ・喫茶（その他）
+",-,,http://www.misterdonut.jp/,-,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,190,焼肉番長,北海道函館市亀田港町58-1 ,"焼肉、バイキング
+",-,なし,http://yakinikubancho.jp/shopinfo/,-,"￥1,000～￥1,999",3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,191,星龍軒,北海道函館市若松町7-3 ,"ラーメン、餃子、中華料理
+",-,日曜日・月曜日,http://www.seiryuken.com,-,～￥999,3.59
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,192,ラッキーピエロ マリーナ末広店,北海道函館市末広町14-17 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,無休,http://www.luckypierrot.jp/index.html,～￥999,～￥999,3.41
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,193,浪花ひとくち餃子 チャオチャオ 札幌時計台店,北海道札幌市中央区北2条西2-38 岡本ビル 1F,"居酒屋、餃子
+",-,日曜日・祝日,https://www.gcccorp.co.jp/shop/list_chaochao.html,"￥1,000～￥1,999",-,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,194,米久 イオン札幌桑園店,北海道札幌市中央区北8条西14-28 イオン札幌桑園店 1F,"そば、天ぷら・揚げ物（その他）
+",-,不定休(イオン札幌桑園店に準ずる),http://kaikou-g.co.jp/service/yonekyu/,～￥999,"￥1,000～￥1,999",3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,195,初代たこたこあがれ,北海道函館市美原1-7-1 MEGAドン・キホーテ B1F,"たこ焼き、焼きそば
+",-,木曜日,,-,～￥999,3.02
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,196,やたら家 本店,北海道函館市湯川町1-28-1 ,"そば、うどん、定食・食堂
+",-,木曜,,-,"￥1,000～￥1,999",3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,197,セイコーマート 函館柏木店,北海道函館市柏木町8-2 ,"その他
+",-,無休,http://www.seicomart.co.jp/sp/,～￥999,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,198,やきだんご 銀月,北海道函館市湯川町2丁目22-5 ,"和菓子
+",-,火曜日,,-,～￥999,3.58
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,199,宮原かまぼこ,北海道函館市豊川町2-17 ,"その他、デリカテッセン、天ぷら・揚げ物（その他）
+",-,日曜・祝日,http://www.hakodate-miyahara.co.jp/,-,"￥1,000～￥1,999",3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,200,丸亀製麺 函館店,北海道函館市東山2-2-24 ,"うどん、カレーうどん、天ぷら
+",-,年中無休,http://www.toridoll.com/shop/marugame/,～￥999,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,201,まるたま小屋,北海道函館市元町2-3 ,"カフェ、パン・サンドイッチ（その他）、ロシア料理
+",-,火曜日・水曜日,https://marutamasquare.wixsite.com/marutama,～￥999,～￥999,3.24
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,202,函館山ロープウェイ山頂レストランジェノバ,北海道函館市函館山 ,"ジンギスカン、洋食、ピザ
+",-,無休,http://www.334.co.jp/jpn/restaurant/genova/,～￥999,"￥1,000～￥1,999",3.33
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,203,ぷらっと江差,北海道檜山郡江差町姥神町1-10 ,"その他
+",-,,http://www.kaiyou-maru.com/,-,～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,204,ピアット,北海道二海郡八雲町内浦町188-1 ,"イタリアン、パスタ、洋食
+",-,不定休月3回程,http://yakumo-piatto.com/,-,"￥1,000～￥1,999",3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,205,ぶたや,北海道北斗市七重浜2-27-3 ,"豚丼、肉まん・中華まん
+",-,月曜日,,-,～￥999,3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,206,あさみ商店,北海道松前郡松前町西館68 松前藩屋敷,"郷土料理（その他）
+",-,不定休(松前藩屋敷に準ずる),http://www.asobube.com/database.cgi?dbnum=18&dbkonum=0,-,"￥1,000～￥1,999",3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,207,やきとりの一平 登別店,北海道登別市登別東町2-26-2 ,"焼鳥
+",-,水曜日,http://www.e-ippei.com/index.html,"￥4,000～￥4,999",-,3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,208,道の駅かづの,秋田県秋田鹿角市花輪字新田町11-4 ,"ソフトクリーム、郷土料理（その他）
+",-,無休,http://www.ink.or.jp/~antler/,-,～￥999,3.28
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,209,ホテルニューえさし,北海道檜山郡江差町字新地町52 ,"旅館・オーベルジュ（その他）
+",-,,,-,"￥1,000～￥1,999",3.12
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,210,天下一品 すすきの店,北海道札幌市中央区南7条西3-7-12 さいとうビル 1F,"ラーメン、餃子
+",-,無休,https://www.tenkaippin-hokkaido.jp/,～￥999,～￥999,3.35
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,211,お食事処えさし,北海道檜山郡江差町中歌町193 ,"魚介料理・海鮮料理、ハンバーグ、カレー（その他）
+",-,月曜日,,"￥1,000～￥1,999","￥1,000～￥1,999",3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,212,百姓屋,北海道檜山郡厚沢部町緑町72-1 道の駅あっさぶ内,"アイスクリーム
+",-,１１月～３月は休業,,-,～￥999,3.31
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,213,ラッキーピエロ 人見店,北海道函館市人見町24-15 ,"ハンバーガー、カレーライス、洋食・欧風料理（その他）
+",-,年中無休,http://www.luckypierrot.jp/,"￥1,000～￥1,999",～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,214,満腹食堂,北海道函館市入舟町6-21 ,"ラーメン、定食・食堂
+",-,無休,,-,～￥999,3.31
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,215,スシロー 函館美原店,北海道函館市美原1-16-5 ,"回転寿司
+",-,年中無休,,"￥1,000～￥1,999",～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,216,ラッキーピエロ 本町店,北海道函館市本町4-18 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp/,～￥999,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,217,どうなんde's,北海道上磯郡木古内町字本町338-14 道の駅みそぎの郷きこない,"イタリアン
+",-,不定休,http://donandes.com/,"￥3,000～￥3,999","￥1,000～￥1,999",3.34
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,218,ラッキーピエロ 松陰店,北海道函館市松陰町22-6 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp/,～￥999,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,219,函館たこ8,北海道函館市亀田本町65-25 ,"たこ焼き
+",-,日曜日,,-,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,220,ポッポ 福住店,北海道札幌市豊平区福住2条1丁目1-5 イトーヨーカドー福住店 B1F,"ラーメン、たこ焼き、アイスクリーム
+",-,年中無休,http://www.7fs-poppo.jp/pp/,-,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,221,餃子の王将 狸小路5丁目店,北海道札幌市中央区南3条西5-34 NKC35ビル,"餃子、中華料理、ラーメン
+",-,年中無休(1月1日のみ休み),http://www.ohsho.co.jp/,～￥999,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,222,ヒマラヤダイニング,北海道函館市富岡町3-39-19 ,"インドカレー、ネパール料理
+",-,無休,,"￥1,000～￥1,999",～￥999,3.20
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,223,アザリーレストラン,北海道函館市港町1-10-1 ,"レストラン（その他）
+",-,,http://www.emachi.co.jp/shops/14289269/mypage/,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,224,スターバックス・コーヒー 函館ベイサイド店,北海道函館市末広町 24-6 函館西波止場,"コーヒー専門店、カフェ、パン・サンドイッチ（その他）
+",-,不定休,http://www.starbucks.co.jp/store/search/detail.php?id=1012,～￥999,～￥999,3.17
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,225,プティ・メルヴィーユ シエスタハコダテ店,北海道函館市函館本町24-1 シエスタハコダテ,"ケーキ、洋菓子（その他）
+",-,なし（シエスタハコダテに準ずる）,http://www.petite-merveille.jp/,～￥999,～￥999,3.13
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,226,厚沢部菓子工房 クラヤ,北海道檜山郡厚沢部町本町90-2 ,"和菓子、ケーキ
+",-,日曜日,https://www.shokokai.or.jp/01/kuraya/index.htm,-,～￥999,3.14
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,227,同楽舎,北海道函館市谷地頭町25-15 ,"担々麺
+",-,水・木曜日,,-,～￥999,3.27
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,228,デヴィ インディアンレストラン,北海道函館市美原1-20-11 カワシロビル 1F,"インド料理、インドカレー
+",-,無,,"￥1,000～￥1,999",～￥999,3.18
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,229,ラッキーピエロ 本通店,北海道函館市本通4-17-32 ,"ハンバーガー、カレーライス、洋食・欧風料理（その他）
+",-,,http://www.luckypierrot.jp/,～￥999,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,230,ラーメン響 乃木店,北海道函館市乃木町5-25 ,"ラーメン
+",-,無休,http://www.hakodate-hibiki.com/index.html,-,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,231,優,北海道檜山郡江差町新地町26 ,"居酒屋
+",-,月曜日,,-,-,-
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,232,麺屋 開高 さっぽろテレビ塔店,北海道札幌市中央区大通西1 さっぽろテレビ塔 B2F,"ラーメン
+",-,年中無休,,～￥999,～￥999,3.40
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,233,駅前飯店 急行,北海道上磯郡木古内町本町247-2 ,"焼きそば
+",-,,,-,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,234,コッぺん道土,北海道上磯郡木古内町字本町338-14 道の駅みそぎの郷 きこない 1F,"パン
+",-,不定休,,-,～￥999,3.28
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,235,ビアン モール,北海道函館市五稜郭町38-3 五稜郭病院 中央棟 B1F,"定食・食堂、パン、カフェ
+",-,無休,http://www.gobyou.com/hospitalize/store_restaurant_cafe,-,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,236,テイクアウトピザ500 函館千歳店,北海道函館市新川町11-11 ,"ピザ
+",-,年中無休,,～￥999,"￥1,000～￥1,999",3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,237,蕎麦ONJIKI,北海道函館市戸倉町143-4 フレスポ戸倉,"そば、かつ丼・かつ重、定食・食堂
+",-,無休,,～￥999,～￥999,3.18
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,238,あわび山荘,北海道久遠郡せたな町大成区貝取澗388 ,"旅館
+",-,,http://www.kokumin-shukusha.or.jp/annai/ken/hokkaidou/101006.html,"￥10,000～￥14,999","￥1,000～￥1,999",3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,239,サイゼリヤ 新札幌駅ビル店,北海道札幌市厚別区厚別中央2条5-6-3 新さっぽろアークシティduo1 5F　,"ファミレス、イタリアン、パスタ
+",-,無休,http://www.saizeriya.co.jp/,"￥1,000～￥1,999",～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,240,海老麺総本家 地元家 五稜郭店,北海道函館市本町6-15 ,"ラーメン
+",-,日曜日（祝前日は営業、翌日休み）,,～￥999,～￥999,3.30
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,241,ラッキーピエロ 十字街銀座店,北海道函館市末広町8-11 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp/,～￥999,～￥999,3.35
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,242,マクドナルド 函館イトーヨーカドー店,北海道函館市美原1-3-1 イトーヨーカドー函館店,"ハンバーガー
+",-,,,～￥999,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,243,ロッテリア MEGAドン･キホーテ函館店,北海道函館市美原1-7-1 MEGAドン･キホーテ函館店,"ハンバーガー
+",-,,http://www.lotteria.jp/,～￥999,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,244,ラッキーピエロ 美原店,北海道函館市美原2-14-3 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp/,-,～￥999,3.21
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,245,チャイニーズキッチン龍鶴,北海道函館市梁川町17-16 ホテルテトラ 2F,"中華料理、バイキング
+",-,無休,http://tetora.e-tetora.com/meal/,"￥1,000～￥1,999",～￥999,3.10
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,246,ピッツェリア アモリーノ,北海道函館市宇賀浦町6-10 ,"ピザ、パスタ、イタリアン
+",-,無休（ただし元旦休み有り）,http://www.kantaro-hakodate.com/shop/amorino/amorino_shop.html,"￥2,000～￥2,999","￥1,000～￥1,999",3.36
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,247,ルンビニ カリーハウス,北海道函館市美原1-20-11 カワシロテナントビル １F,"インド料理、ネパール料理、スープカレー
+",-,無し,,"￥1,000～￥1,999",～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,248,ロイヤルクイーンズ,北海道函館市駒場町7-13 ,"カフェ
+",-,不定休,,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,249,らー麺 とぐち すすきの店,北海道札幌市中央区南4条西4丁目 MYプラザビル 1F,"ラーメン
+",-,無休,http://toguchi-sapporo.com/,～￥999,～￥999,3.47
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,250,らーめん 炙 五稜郭店,北海道函館市柳町4-6 ,"ラーメン
+",-,木曜日(祝日の場合は営業、翌日休み),,～￥999,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,251,香港中国料理,北海道函館市柏木町7-2 ,"ラーメン、中華料理
+",-,毎週水曜日,,-,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,252,ラーニキッチン,北海道函館市港町1-20-19 ,"インドカレー、カレー（その他）
+",-,無,http://ranikitehenht3.jp/,"￥1,000～￥1,999","￥1,000～￥1,999",3.30
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,253,ラーメン満龍 函館深堀店,北海道函館市深堀町31-54 ,"ラーメン
+",-,火曜日,,～￥999,～￥999,3.16
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,254,ら～めん 若大将,北海道函館市西桔梗町849-10 ,"ラーメン、餃子
+",-,不定休,,～￥999,～￥999,3.30
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,255,みろくや 浜町店,長崎県長崎市浜町4-2 ,"その他
+",-,,http://cgi.mirokuya.co.jp/shopinfo/shop_hamamachi.php,-,～￥999,3.14
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,256,ひょうたん,北海道檜山郡江差町茂尻町221 ,"焼肉、ホルモン、ジンギスカン
+",-,月曜日　火曜日,,"￥4,000～￥4,999",-,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,257,ハーベスター八雲,北海道二海郡八雲町浜松365 ,"ダイニングバー、ピザ、イタリアン
+",0137-64-3113,3月～11月：無休　　※12～2月の月曜日(祝日の場合は翌火曜日)　年末年始休業　2022年12月29日(木)～2023年1月3日(火),http://harvester-yakumo.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.49
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,258,麺2000,北海道函館市駒場町11-16 ,"ラーメン、餃子
+",-,木曜日,,～￥999,～￥999,3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,259,らーめん旭,北海道函館市昭和2-29-2 ,"ラーメン、担々麺、餃子
+",-,不定休,,"￥1,000～￥1,999",～￥999,3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,260,三八飯店 長万部店,北海道山越郡長万部町中ノ沢56-1 ,"ちゃんぽん、ラーメン、定食・食堂
+",-,月曜日,http://www.osyamanbe-kankou.jp/syousai/sanpachi.html,～￥999,～￥999,3.48
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,261,臥龍昇天,北海道函館市富岡町1-22-3 ,"ラーメン、台湾まぜそば
+",-,木曜日,,～￥999,～￥999,3.05
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,262,ラーメンひらき家 港町店,北海道函館市港町1-13-11 ,"ラーメン
+",-,月曜日,,-,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,263,ちゃんぽん長崎家,北海道函館市五稜郭町32-2 ,"ちゃんぽん、中華麺（その他）、ラーメン
+",-,日曜日　祝日,,～￥999,-,3.26
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,264,函館バスラーメン花道,北海道函館市花園町16-20 ,"ラーメン、餃子、中華料理
+",-,木曜日,,～￥999,～￥999,3.20
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,265,すしまる 七重浜店,北海道北斗市七重浜7-189-3 トライアル上磯店 1F,"回転寿司、寿司、魚介料理・海鮮料理
+",-,【無休】毎日元気に営業中！,http://www.aix-group.co.jp/food/sushi/,"￥1,000～￥1,999","￥1,000～￥1,999",-
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,266,すしまる 昭和店,北海道函館市昭和1-29-6 昭和タウンプラザ,"回転寿司
+",-,無休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,267,ラッキーピエロ 北斗飯生店,北海道北斗市飯生1-6-4 ,"ハンバーガー、カレーライス、洋食・欧風料理（その他）
+",-,年中無休,http://www.luckypierrot.jp/,～￥999,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,268,ラッキーピエロ 昭和店,北海道函館市昭和2-12-17 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,,https://luckypierrot.jp,～￥999,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,269,ラッキーピエロ 港北大前店,北海道函館市港町3-18-28 ,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp/,"￥1,000～￥1,999",～￥999,3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,270,ラッキーピエロ 函館駅前店,北海道函館市若松町17-12 函館駅前棒二森屋本館 1F,"ハンバーガー、かつ丼・かつ重、カレーライス
+",-,年中無休,http://www.luckypierrot.jp/,～￥999,～￥999,3.55
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,271,元祖はこだてラーメン　おんじき庭本 イトーヨーカドー店,北海道函館市美原1-3-1 イトーヨーカドー函館店,"ラーメン
+",-,無休,,-,～￥999,3.00
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,272,めん屋 笹浪家,北海道函館市戸倉町134-27 ,"ラーメン、つけ麺
+",-,火曜,,-,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,273,ぱんだ,北海道函館市若松町18-4 ,"ラーメン、カレーライス
+",-,月曜日,http://www.hakobura.jp/db/db-food/2008/12/post-34.html,～￥999,～￥999,3.32
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,274,ラーメン山岡家 函館鍛冶店,北海道函館市鍛冶2-36-9 ,"ラーメン、つけ麺、餃子
+",-,年中無休,http://www.yamaokaya.com/,～￥999,～￥999,3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,275,廣河ヌードルたくま,北海道函館市石川町338-12 ,"ラーメン、中華麺（その他）、中華料理
+",-,第2･4月曜日,,-,～￥999,3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,276,喜三郎,北海道函館市日吉町3丁目43-2 ,"ラーメン、焼きそば、餃子
+",-,月曜日,,-,～￥999,3.14
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,277,らーめん初代 社,北海道北斗市七重浜7-11-1 ,"ラーメン、つけ麺、餃子
+",-,木曜日、年末年始,,～￥999,"￥1,000～￥1,999",3.47
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,278,あじたか,北海道函館市五稜郭町36-7 ,"中華料理、ラーメン
+",-,不定休,http://gourmet.hakonavi.ne.jp/chinese/ajitaka/index.html,-,～￥999,3.43
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,279,らーめん 祐二郎,北海道函館市桔梗3-41-11 ,"ラーメン、つけ麺、餃子
+",-,月曜（祝日の場合は昼のみ営業して翌日休み）,,-,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,280,ラーメンさんぱち 函館店,北海道函館市本通2丁目13-33 ,"ラーメン、餃子、丼もの（その他）
+",-,無休,http://www.sanpachi.co.jp/index.html,～￥999,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,281,ゼロ ワン,北海道函館市田家町20-41 ,"ラーメン、パスタ
+",-,木曜日,,～￥999,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,282,狼煙,北海道函館市亀田本町29-24 ,"ラーメン、つけ麺
+",-,木曜日,,"￥1,000～￥1,999",～￥999,3.20
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,283,満来亭,北海道函館市松風町17-8 ,"ラーメン、中華料理、餃子
+",-,,http://www.hakodate.ne.jp/ramen/shop/manraitei.html,-,～￥999,3.00
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,284,龍鳳 大門横丁店,北海道函館市松風町7 ひかりの屋台 大門横町,"ラーメン
+",-,年中無休,,～￥999,～￥999,3.56
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,285,麺屋翔,北海道函館市亀田本町47-3 ,"ラーメン、担々麺、つけ麺
+",-,火曜,http://menya-sho.com,～￥999,～￥999,3.22
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,286,函館麺や 一文字 函館本店,北海道函館市湯川町2-1-3 ,"ラーメン、つけ麺
+",-,水曜日(他月2回不定休),http://www.ichi-monji.com/,"￥1,000～￥1,999","￥1,000～￥1,999",3.52
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,287,らーめんなんでや麺,北海道函館市湯川町3-8-16 ,"ラーメン、担々麺、餃子
+",-,火曜,http://www.hakobura.jp/db/db-food/2008/12/post-25.html,～￥999,～￥999,3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,288,まんまるてい,北海道函館市花園町20-25 ,"ラーメン、つけ麺
+",-,水曜日,http://uzumas.hp.infoseek.co.jp/manmarutei/html/top.html,-,～￥999,3.54
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,289,尤敏,北海道函館市五稜郭町32-1 ,"中華料理、中華麺（その他）、ラーメン
+",-,不定休,http://www.yuumingoryokaku.com/concept/,"￥1,000～￥1,999","￥1,000～￥1,999",3.25
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,290,中国料理 東春,北海道函館市 本町22-4 ,"中華料理、ラーメン
+",-,月曜（月曜が祝日のときは翌日）,http://www.hakobura.jp/db/db-food/2009/02/post-102.html,-,"￥1,000～￥1,999",3.28
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,291,はこだて塩らーめん　しなの,北海道函館市若松町20-10 ,"ラーメン
+",-,無休,,～￥999,～￥999,3.53
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,292,らぁめん無限,北海道函館市花園町24-21 ,"ラーメン
+",-,火曜日,,-,～￥999,3.11
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,293,ラーメン響 七重浜店,北海道北斗市七重浜2-14-24 ,"ラーメン、餃子
+",-,火曜日,http://www.hakodate-hibiki.com/,～￥999,～￥999,3.04
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,294,バスラーメン,北海道函館市湯川町1-3-8 ,"ラーメン、焼きそば、餃子
+",-,火曜日,,～￥999,-,3.36
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,295,えん楽,北海道函館市末広町24-6 西波止場　1Ｆ,"ラーメン、餃子、カフェ・喫茶（その他）
+",-,無休,,～￥999,～￥999,3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,296,はま寿司 函館桔梗店,北海道函館市桔梗1-28-1 ,"回転寿司、スイーツ（その他）
+",-,年中無休,http://www.hamazushi.com/hamazushi/,"￥1,000～￥1,999",～￥999,3.00
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,297,函太郎ジュニアサムズ,北海道函館市桔梗町418-114 ,"回転寿司
+",-,無,http://www.hk-r.jp/shop/samuzu/,"￥1,000～￥1,999","￥2,000～￥2,999",3.03
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,298,はま寿司 函館本通店,北海道函館市本通3-1-9 ,"回転寿司
+",-,無休,http://www.hamazushi.com/hamazushi/index.html,"￥1,000～￥1,999",～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,299,すしまる 花園店,北海道函館市花園町23-5 ,"回転寿司
+",-,無休,http://yasuke-foods.com/publics/index/7/,"￥2,000～￥2,999",-,-
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,300,らーめんまいど,北海道函館市湯川町1-26-34 ,"ラーメン
+",-,火曜日,,～￥999,～￥999,3.39
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,301,麺次郎 函館石川店,北海道函館市石川町349-17 ,"ラーメン
+",-,,,-,～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,302,麺屋 しくぅはっく,北海道函館市美原5-18-22 ,"ラーメン
+",-,火曜日,http://www.hakobura.jp/db/db-food/2009/03/post-53.html,-,～￥999,3.15
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,303,高田屋,北海道函館市北美原1-5-1 スーパーセンタートライアル北美原店内,"ラーメン
+",-,不定休,,～￥999,～￥999,3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,304,廣河ヌードル,北海道函館市昭和4-27-22 ,"ラーメン、つけ麺、中華料理
+",-,月曜,http://www.hakobura.jp/db/db-food/2009/02/post-52.html,"￥1,000～￥1,999",～￥999,3.09
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,305,地元家,北海道函館市亀田町14-1 ,"ラーメン
+",-,月曜日,,-,～￥999,3.19
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,306,めんどりラーメン,北海道檜山郡江差町伏木戸町563-2 ,"ラーメン、餃子、定食・食堂
+",-,月曜日,,-,～￥999,3.07
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,307,すしえもん 漁火通り店,北海道函館市広野町5-3 ,"回転寿司
+",-,不定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.08
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,308,北々亭 函館店,北海道函館市本通1丁目44-20 ,"回転寿司
+",-,,,"￥2,000～￥2,999",～￥999,3.33
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,309,すしまる 戸倉店,北海道函館市戸倉301 ,"回転寿司
+",-,不定休,,"￥1,000～￥1,999","￥1,000～￥1,999",3.01
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,310,グルメ回転寿司 函太郎 五稜郭公園店,北海道函館市五稜郭町25-17 ,"回転寿司
+",0138-52-5522,年中無休,http://www.hakodate.ne.jp/kantaro/,"￥3,000～￥3,999","￥2,000～￥2,999",3.43
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,311,すしえもん 鍛冶店,北海道函館市鍛冶1-32-5 ,"回転寿司、寿司、魚介料理・海鮮料理
+",-,不定休,http://www.aix-group.co.jp/food/sushi/,"￥1,000～￥1,999","￥1,000～￥1,999",3.06
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,312,グルメ回転寿司 函太郎 宇賀浦本店,北海道函館市 宇賀浦町14-4 ,"回転寿司
+",-,大晦日・元旦,http://www.kantaro-hakodate.com,-,"￥1,000～￥1,999",3.37
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,313,ブルートレイン,北海道函館市湯川町1-26-22 ,"ラーメン
+",-,火曜・水曜,http://www.hakodate.ne.jp/ramen/shop/bluetrain.html,～￥999,～￥999,3.25
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,314,あじさい 本店,北海道函館市五稜郭町29-22 ,"ラーメン、餃子、中華料理
+",-,第4水曜日（祝祭日の場合は翌平日が休み）,http://www.ajisai.tv/,～￥999,～￥999,3.66
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,315,ラーメンの王道 北浜商店 金堀店,北海道函館市金堀町2-31 ,"ラーメン
+",-,月曜日,http://kitahamasyoten.com/,-,"￥1,000～￥1,999",3.33
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,316,麺バル 五稜郭店,北海道函館市本町32-9 ,"ラーメン、中華料理
+",-,日曜日,,～￥999,-,3.10
+TAKASAN-BATACHAN(318),https://tabelog.com/rvwr/001779498/,317,起進堂,北海道函館市深堀町30-29 ,"そば
+",-,水曜・第3火曜,,"￥1,000～￥1,999","￥1,000～￥1,999",3.57
