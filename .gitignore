@@ -1,0 +1,31 @@
+# Generated outputs
+/output/
+/output_integrate/
+/output_restaurant_local_rate/
+/output_user_info/
+
+/standard_reviewer_flow/output/
+/standard_reviewer_flow/output_integrate/
+/standard_reviewer_flow/output_restaurant_local_rate/
+/standard_reviewer_flow/output_user_info/
+
+/seasonal_reviewer_flow/output_restaurant_review/
+/seasonal_reviewer_flow/output_user_visited_store/
+/seasonal_reviewer_flow/integrate_reviewer/
+/seasonal_reviewer_flow/integrate_reviewer/*.csv
+/local_rate.csv
+/input/
+
+# Virtual environment artifacts
+/bin/
+/lib/
+/lib64
+/pyvenv.cfg
+/.venv/
+
+# Python cache artifacts
+__pycache__/
+*.pyc
+
+# OS artifacts
+.DS_Store
